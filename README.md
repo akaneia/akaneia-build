@@ -1,2 +1,2 @@
 # akaneia-build
-Coming Soon.
+Coming Soon...
