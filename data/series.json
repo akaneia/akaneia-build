@@ -1,0 +1,164 @@
+[
+  {
+    "name": "F-Zero",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon",
+    "stageSelectIcon": null,
+    "model": "series\\emblem"
+  },
+  {
+    "name": "Donkey Kong",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_001",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_001"
+  },
+  {
+    "name": "Star Fox",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_002",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_002"
+  },
+  {
+    "name": "Game \u0026 Watch",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_003",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_003"
+  },
+  {
+    "name": "Ice Climber",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_004",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_004"
+  },
+  {
+    "name": "Kirby",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_005",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_005"
+  },
+  {
+    "name": "Super Mario",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_006",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_006"
+  },
+  {
+    "name": "Fire Emblem",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_007",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_007"
+  },
+  {
+    "name": "EarthBound",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_008",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_008"
+  },
+  {
+    "name": "Pok\u00E9mon",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_009",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_009"
+  },
+  {
+    "name": "Metroid",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_010",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_010"
+  },
+  {
+    "name": "Smash Bros.",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_011",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_011"
+  },
+  {
+    "name": "Yoshi",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_012",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_012"
+  },
+  {
+    "name": "The Legend of Zelda",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_013",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_013"
+  },
+  {
+    "name": "Master Hand",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_014",
+    "stageSelectIcon": null,
+    "model": null
+  },
+  {
+    "name": "Crazy Hand",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_015",
+    "stageSelectIcon": null,
+    "model": null
+  },
+  {
+    "name": "Battlefield",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_017",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_015"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_016",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_014"
+  }
+]

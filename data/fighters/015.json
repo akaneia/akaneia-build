@@ -1,0 +1,298 @@
+{
+  "name": "Jigglypuff",
+  "seriesID": 9,
+  "canWallJump": false,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 25,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 33554432,
+  "announcerCall": 510013,
+  "victoryTheme": 24,
+  "fighterMusic1": 64,
+  "fighterMusic2": 64,
+  "targetTestStage": 51,
+  "classicTrophyId": 48,
+  "adventureTrophyId": 49,
+  "allStarTrophyId": 50,
+  "racetoTheFinishTime": 51,
+  "resultScreenScale": 1,
+  "endingScreenScale": 0.7,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 50,
+      "top": 0,
+      "trans": 1,
+      "xRot": 2,
+      "yRot": 3,
+      "hip": 4,
+      "waist": 5,
+      "lLegA": 36,
+      "lLeg": 37,
+      "lKnee": 38,
+      "lFootA": 39,
+      "lFoot": 40,
+      "rLegA": 42,
+      "rLeg": 43,
+      "rKnee": 44,
+      "rFootA": 45,
+      "rFoot": 46,
+      "waistB": 255,
+      "bust": 255,
+      "lClavicle": 27,
+      "lShoulderA": 28,
+      "lShoulder": 29,
+      "lArm": 30,
+      "lHand": 255,
+      "lIndex1": 255,
+      "lIndex2": 255,
+      "lMiddle1": 255,
+      "lMiddle2": 255,
+      "lRing1": 255,
+      "lRing2": 255,
+      "lPinky1": 255,
+      "lPinky2": 255,
+      "lHave": 255,
+      "lThumb1": 255,
+      "lThumb2": 255,
+      "neckN": 255,
+      "headN": 255,
+      "rClavicle": 31,
+      "rShoulderA": 32,
+      "rShoulder": 33,
+      "rArm": 34,
+      "rHand": 255,
+      "rIndex1": 255,
+      "rIndex2": 255,
+      "rMiddle1": 255,
+      "rMiddle2": 255,
+      "rRing1": 255,
+      "rRing2": 255,
+      "rPinky1": 255,
+      "rPinky2": 255,
+      "rHave": 255,
+      "rThumb1": 255,
+      "rThumb2": 255,
+      "throw": 48,
+      "extra": 49
+    },
+    "ext": []
+  },
+  "assets": {
+    "cssIcon": "css\\icon_013",
+    "resultBannerBig": "rst\\big_banner_014",
+    "resultSmallBig": "rst\\small_banner_014"
+  },
+  "redCostumeIndex": 1,
+  "blueCostumeIndex": 2,
+  "greenCostumeIndex": 3,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlPrNr.dat",
+        "jointSymbol": "PlyPurin5K_Share_joint",
+        "materialSymbol": "PlyPurin5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_096",
+      "csp": "csp\\csp_089"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlPrRe.dat",
+        "jointSymbol": "PlyPurin5KRe_Share_joint",
+        "materialSymbol": "PlyPurin5KRe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_097",
+      "csp": "csp\\csp_090"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlPrBu.dat",
+        "jointSymbol": "PlyPurin5KBu_Share_joint",
+        "materialSymbol": "PlyPurin5KBu_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_098",
+      "csp": "csp\\csp_091"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlPrGr.dat",
+        "jointSymbol": "PlyPurin5KGr_Share_joint",
+        "materialSymbol": "PlyPurin5KGr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_099",
+      "csp": "csp\\csp_092"
+    },
+    {
+      "name": "Yellow",
+      "file": {
+        "visibilityIndex": 4,
+        "fileName": "PlPrYe.dat",
+        "jointSymbol": "PlyPurin5KYe_Share_joint",
+        "materialSymbol": "PlyPurin5KYe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_100",
+      "csp": "csp\\csp_093"
+    },
+    {
+      "name": "Lavender [Sleepy Hat]",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlPrLa.dat",
+        "jointSymbol": "PlyPurin5KLa_Share_joint",
+        "materialSymbol": "PlyPurin5KLa_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_101",
+      "csp": "csp\\csp_094"
+    },
+    {
+      "name": "White [Nurse Hat]",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlPrWh.dat",
+        "jointSymbol": "PlyPurin5KWh_Share_joint",
+        "materialSymbol": "PlyPurin5KWh_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_102",
+      "csp": "csp\\csp_095"
+    }
+  ],
+  "kirbyCostumes": [
+    {
+      "fileName": "PlKbNrCpPr.dat",
+      "jointSymbol": "PlyKirbyPr_Share_joint",
+      "materialSymbol": "PlyKirbyPr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbYeCpPr.dat",
+      "jointSymbol": "PlyKirbyPrYe_Share_joint",
+      "materialSymbol": "PlyKirbyPrYe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBuCpPr.dat",
+      "jointSymbol": "PlyKirbyPrBu_Share_joint",
+      "materialSymbol": "PlyKirbyPrBu_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbReCpPr.dat",
+      "jointSymbol": "PlyKirbyPrRe_Share_joint",
+      "materialSymbol": "PlyKirbyPrRe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbGrCpPr.dat",
+      "jointSymbol": "PlyKirbyPrGr_Share_joint",
+      "materialSymbol": "PlyKirbyPrGr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbWhCpPr.dat",
+      "jointSymbol": "PlyKirbyPrWh_Share_joint",
+      "materialSymbol": "PlyKirbyPrWh_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbLaCpPr.dat",
+      "jointSymbol": "PlyKirbyPr_Share_joint",
+      "materialSymbol": "PlyKirbyPr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBrCpPr.dat",
+      "jointSymbol": "PlyKirbyPr_Share_joint",
+      "materialSymbol": "PlyKirbyPr_Share_matanim_joint"
+    }
+  ],
+  "hasKirbyCostumes": true,
+  "gaWData": null,
+  "files": {
+    "fighterDataPath": "PlPr.dat",
+    "fighterDataSymbol": "ftDataPurin",
+    "animFile": "PlPrAJ.dat",
+    "animCount": 327,
+    "demoFile": "PlPrDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFilePurin",
+    "demoResult": "ftDemoResultMotionFilePurin",
+    "demoIntro": "ftDemoIntroMotionFilePurin",
+    "demoEnding": "ftDemoEndingMotionFilePurin",
+    "rstAnimFile": "GmRstMPr.dat",
+    "rstAnimCount": 14,
+    "effectFile": "EfPrData.dat",
+    "effectSymbol": "effPurinDataTable",
+    "kirbyCapFileName": "PlKbCpPr.dat",
+    "kirbyCapSymbol": "ftDataKirbyCopyPurin",
+    "kirbyEffectFile": "",
+    "kirbyEffectSymbol": ""
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148779644,
+    "onRespawn": 2148778776,
+    "onDestroy": 2148778816,
+    "moveLogicPointer": 2151481072,
+    "demoMoveLogicPointer": 0,
+    "specialN": 2148785832,
+    "specialNAir": 2148786016,
+    "specialHi": 2148780488,
+    "specialHiAir": 2148780696,
+    "specialLw": 2148781708,
+    "specialLwAir": 2148781868,
+    "specialS": 2148782644,
+    "specialSAir": 2148782752,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 0,
+    "onItemPickup": 2148779756,
+    "onMakeItemInvisible": 2148779928,
+    "onMakeItemVisible": 2148780008,
+    "onItemDrop": 2148780088,
+    "onItemCatch": 2148779756,
+    "onUnknownItemRelated": 2148780088,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 2148780228,
+    "eyeTextureNormal": 2148780296,
+    "onFrame": 0,
+    "onActionStateChange": 0,
+    "resetAttribute": 2148780172,
+    "onModelRender": 2148779248,
+    "onShadowRender": 2148779540,
+    "onUnknownMultijump": 2148779620,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 0,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 14,
+    "onLanding": 0,
+    "onExtRstAnim": 0,
+    "onIndexExtRstAnim": 0,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148318144,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148537696,
+    "kirbySpecialNAir": 2148537880,
+    "kirbyOnSwallow": 2148470996,
+    "kirbyOnLoseAbility": 2148471212,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimplePurin.thp",
+    "endAdventureFile": "GmRegendAdventurePurin.thp",
+    "endAllStarFile": "GmRegendAllstarPurin.thp",
+    "endMovieFile": "MvEndPurin.mth"
+  }
+}

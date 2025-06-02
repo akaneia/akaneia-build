@@ -1,0 +1,30 @@
+{
+  "name": "Princess Peach\u0027s Castle",
+  "location": "Mushroom Kingdom",
+  "seriesID": 6,
+  "fileName": "/GrCs.dat",
+  "additionalFiles": [],
+  "soundBank": 34,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151406776,
+  "mapDescPointer": 2151550964,
+  "onStageInit": 2149372796,
+  "onStageLoad": 2149373088,
+  "onStageGo": 2149373092,
+  "onGo": 2149372728,
+  "onUnknown2": 2149373128,
+  "onTouchLine": 2149387012,
+  "onUnknown4": 2149387020,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151550952,
+  "movingCollisionCount": 2,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon",
+    "banner": "sss\\icon_001"
+  }
+}

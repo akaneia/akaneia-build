@@ -1,0 +1,30 @@
+{
+  "name": "Yoshi\u0027s Island N64",
+  "location": "Past Stages",
+  "seriesID": 12,
+  "fileName": "/GrOy.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408936,
+  "mapDescPointer": 2151572616,
+  "onStageInit": 2149640092,
+  "onStageLoad": 2149640228,
+  "onStageGo": 2149640232,
+  "onGo": 2149640088,
+  "onUnknown2": 2149640268,
+  "onTouchLine": 2149643268,
+  "onUnknown4": 2149643276,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_054",
+    "banner": "sss\\icon_055"
+  }
+}

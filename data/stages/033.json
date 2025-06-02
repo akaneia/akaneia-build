@@ -1,0 +1,30 @@
+{
+  "name": "Brinstar Escape Shaft",
+  "location": "",
+  "seriesID": 10,
+  "fileName": "/GrNZr.dat",
+  "additionalFiles": [],
+  "soundBank": 49,
+  "reverbValue1": 136,
+  "reverbValue2": 136,
+  "collisionMaterials": 2151409256,
+  "mapDescPointer": 2151570864,
+  "onStageInit": 2149626212,
+  "onStageLoad": 2149626324,
+  "onStageGo": 2149626356,
+  "onGo": 2149626208,
+  "onUnknown2": 2149626456,
+  "onTouchLine": 2149627988,
+  "onUnknown4": 2149627996,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

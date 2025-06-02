@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Luigi",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTLg.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410696,
+  "mapDescPointer": 2151583216,
+  "onStageInit": 2149719060,
+  "onStageLoad": 2149719172,
+  "onStageGo": 2149719176,
+  "onGo": 2149719056,
+  "onUnknown2": 2149719212,
+  "onTouchLine": 2149719780,
+  "onUnknown4": 2149719788,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

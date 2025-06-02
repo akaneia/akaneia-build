@@ -1,0 +1,47 @@
+{
+  "name": "Luigi\u0027s Mansion",
+  "fileName": "mansion.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_man_dmg1"
+    },
+    {
+      "name": "st_man_dmg2"
+    },
+    {
+      "name": "st_man_dmg3"
+    },
+    {
+      "name": "st_man_dmg4"
+    },
+    {
+      "name": "st_man_collapse"
+    },
+    {
+      "name": "st_man_col1"
+    },
+    {
+      "name": "st_man_col2"
+    },
+    {
+      "name": "st_man_col3"
+    },
+    {
+      "name": "st_man_brk1"
+    },
+    {
+      "name": "st_man_brk2"
+    },
+    {
+      "name": "st_man_brk3"
+    },
+    {
+      "name": "st_man_brk4"
+    },
+    {
+      "name": "st_man_rebuild"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+[
+  {
+    "name": "All\uFF0DStar Rest Area",
+    "fileName": "1p_qk.hps"
+  },
+  {
+    "name": "Fire Emblem \uFF08Meeting Theme\uFF09",
+    "fileName": "akaneia.hps"
+  },
+  {
+    "name": "Balloon Fight",
+    "fileName": "baloon.hps"
+  },
+  {
+    "name": "Big Blue",
+    "fileName": "bigblue.hps"
+  },
+  {
+    "name": "Princess Peach\u2019s Castle",
+    "fileName": "castle.hps"
+  },
+  {
+    "name": "Continue Screen",
+    "fileName": "continue.hps"
+  },
+  {
+    "name": "Corneria",
+    "fileName": "corneria.hps"
+  },
+  {
+    "name": "Doctor Mario \uFF08Fever\uFF09",
+    "fileName": "docmari.hps"
+  },
+  {
+    "name": "1\uFF0DPlayer Mode Ending",
+    "fileName": "ending.hps"
+  },
+  {
+    "name": "FamiDemo",
+    "fileName": "famidemo.hps"
+  },
+  {
+    "name": "1\uFF0DPlayer Stage Clear Fanfare 1",
+    "fileName": "ff_1p01.hps"
+  },
+  {
+    "name": "1\uFF0DPlayer Stage Clear Fanfare 2",
+    "fileName": "ff_1p02.hps"
+  },
+  {
+    "name": "Bad Fanfare",
+    "fileName": "ff_bad.hps"
+  },
+  {
+    "name": "Donkey Kong Fanfare",
+    "fileName": "ff_dk.hps"
+  },
+  {
+    "name": "Fire Emblem Fanfare",
+    "fileName": "ff_emb.hps"
+  },
+  {
+    "name": "Game \uFF06 Watch Fanfare",
+    "fileName": "ff_flat.hps"
+  },
+  {
+    "name": "Star Fox Fanfare",
+    "fileName": "ff_fox.hps"
+  },
+  {
+    "name": "F\uFF0DZero Fanfare",
+    "fileName": "ff_fzero.hps"
+  },
+  {
+    "name": "Good Fanfare",
+    "fileName": "ff_good.hps"
+  },
+  {
+    "name": "Ice Climbers Fanfare",
+    "fileName": "ff_ice.hps"
+  },
+  {
+    "name": "Kirby Fanfare",
+    "fileName": "ff_kirby.hps"
+  },
+  {
+    "name": "Legend of Zelda Fanfare",
+    "fileName": "ff_link.hps"
+  },
+  {
+    "name": "Super Mario Fanfare",
+    "fileName": "ff_mario.hps"
+  },
+  {
+    "name": "Earthbound Fanfare",
+    "fileName": "ff_nes.hps"
+  },
+  {
+    "name": "Pokemon Fanfare",
+    "fileName": "ff_poke.hps"
+  },
+  {
+    "name": "Metroid Fanfare",
+    "fileName": "ff_samus.hps"
+  },
+  {
+    "name": "Step Fanfare 1",
+    "fileName": "ff_step1.hps"
+  },
+  {
+    "name": "Step Fanfare 2",
+    "fileName": "ff_step2.hps"
+  },
+  {
+    "name": "Step Fanfare 3",
+    "fileName": "ff_step3.hps"
+  },
+  {
+    "name": "Yoshi Fanfare",
+    "fileName": "ff_yoshi.hps"
+  },
+  {
+    "name": "Flat Zone",
+    "fileName": "flatzone.hps"
+  },
+  {
+    "name": "Fourside",
+    "fileName": "fourside.hps"
+  },
+  {
+    "name": "Game Over Jingle",
+    "fileName": "gameover.hps"
+  },
+  {
+    "name": "Kongo Jungle",
+    "fileName": "garden.hps"
+  },
+  {
+    "name": "Great Bay",
+    "fileName": "greatbay.hps"
+  },
+  {
+    "name": "Green Greens",
+    "fileName": "greens.hps"
+  },
+  {
+    "name": "How to Play",
+    "fileName": "howto.hps"
+  },
+  {
+    "name": "How to Play",
+    "fileName": "howto_s.hps"
+  },
+  {
+    "name": "Multi\uFF0DMan Melee",
+    "fileName": "hyaku.hps"
+  },
+  {
+    "name": "Multi\uFF0DMan Melee \uFF08Alt\uFF09",
+    "fileName": "hyaku2.hps"
+  },
+  {
+    "name": "Icicle Mountain",
+    "fileName": "icemt.hps"
+  },
+  {
+    "name": "Mushroom Kingdom",
+    "fileName": "inis1_01.hps"
+  },
+  {
+    "name": "Mushroom Kingdom 20 seconds",
+    "fileName": "inis1_02.hps"
+  },
+  {
+    "name": "Mushroom Kingdom \uFF08Alt\uFF09",
+    "fileName": "inis2_01.hps"
+  },
+  {
+    "name": "Mushroom Kingdom \uFF08Alt\uFF09 20 seconds",
+    "fileName": "inis2_02.hps"
+  },
+  {
+    "name": "Classic Mode Intro",
+    "fileName": "intro_es.hps"
+  },
+  {
+    "name": "Adventure Mode Intro",
+    "fileName": "intro_nm.hps"
+  },
+  {
+    "name": "Hammer",
+    "fileName": "item_h.hps"
+  },
+  {
+    "name": "Super Star",
+    "fileName": "item_s.hps"
+  },
+  {
+    "name": "Fountain of Dreams",
+    "fileName": "izumi.hps"
+  },
+  {
+    "name": "Jungle Japes",
+    "fileName": "kongo.hps"
+  },
+  {
+    "name": "Brinstar Depths",
+    "fileName": "kraid.hps"
+  },
+  {
+    "name": "Menu",
+    "fileName": "menu01.hps"
+  },
+  {
+    "name": "Trophy Tussle",
+    "fileName": "menu02.hps"
+  },
+  {
+    "name": "Menu Alternate",
+    "fileName": "menu3.hps"
+  },
+  {
+    "name": "Mach Rider",
+    "fileName": "mrider.hps"
+  },
+  {
+    "name": "Mute City",
+    "fileName": "mutecity.hps"
+  },
+  {
+    "name": "N64 Congo Jungle",
+    "fileName": "old_dk.hps"
+  },
+  {
+    "name": "N64 Dream Land",
+    "fileName": "old_kb.hps"
+  },
+  {
+    "name": "N64 Yoshi\u2019s Island",
+    "fileName": "old_ys.hps"
+  },
+  {
+    "name": "Onett",
+    "fileName": "onetto.hps"
+  },
+  {
+    "name": "Pollyanna",
+    "fileName": "onetto2.hps"
+  },
+  {
+    "name": "Opening",
+    "fileName": "opening.hps"
+  },
+  {
+    "name": "Battle Theme",
+    "fileName": "pokesta.hps"
+  },
+  {
+    "name": "Pokemon Stadium",
+    "fileName": "pstadium.hps"
+  },
+  {
+    "name": "Poke Floats",
+    "fileName": "pura.hps"
+  },
+  {
+    "name": "Rainbow Cruise",
+    "fileName": "rcruise.hps"
+  },
+  {
+    "name": "Notices 1",
+    "fileName": "s_info1.hps"
+  },
+  {
+    "name": "Notices 2",
+    "fileName": "s_info2.hps"
+  },
+  {
+    "name": "Notices 3",
+    "fileName": "s_info3.hps"
+  },
+  {
+    "name": "New Trophy",
+    "fileName": "s_new1.hps"
+  },
+  {
+    "name": "Rare New Trophy",
+    "fileName": "s_new2.hps"
+  },
+  {
+    "name": "Challenger Approaching",
+    "fileName": "s_newcom.hps"
+  },
+  {
+    "name": "Unused",
+    "fileName": "s_select.hps"
+  },
+  {
+    "name": "Saria\u2019s Song",
+    "fileName": "saria.hps"
+  },
+  {
+    "name": "Temple",
+    "fileName": "shrine.hps"
+  },
+  {
+    "name": "Brinstar Escape Shaft",
+    "fileName": "siren.hps"
+  },
+  {
+    "name": "Super Mario Bros. 3",
+    "fileName": "smari3.hps"
+  },
+  {
+    "name": "Final Destination",
+    "fileName": "sp_end.hps"
+  },
+  {
+    "name": "Giga Bowser",
+    "fileName": "sp_giga.hps"
+  },
+  {
+    "name": "Metal Battle",
+    "fileName": "sp_metal.hps"
+  },
+  {
+    "name": "Race to the Finish",
+    "fileName": "sp_zako.hps"
+  },
+  {
+    "name": "Special Movie",
+    "fileName": "swm_15min.hps"
+  },
+  {
+    "name": "Targets\uFF01",
+    "fileName": "target.hps"
+  },
+  {
+    "name": "Venom",
+    "fileName": "venom.hps"
+  },
+  {
+    "name": "Giant Bowser Defeat",
+    "fileName": "vl_battle.hps"
+  },
+  {
+    "name": "Enter Luigi",
+    "fileName": "vl_castle.hps"
+  },
+  {
+    "name": "Arwings Assist",
+    "fileName": "vl_corneria.hps"
+  },
+  {
+    "name": "Brinstar Explodes",
+    "fileName": "vl_cosmos.hps"
+  },
+  {
+    "name": "Giant Bowser\u2019s Defeat \uFF08Alternative\uFF09",
+    "fileName": "vl_figure1.hps"
+  },
+  {
+    "name": "Giga Bowser\u2019s Defeat",
+    "fileName": "vl_figure2.hps"
+  },
+  {
+    "name": "Intro to Grand Prix stage",
+    "fileName": "vl_fzero.hps"
+  },
+  {
+    "name": "Enter Giga Bowser",
+    "fileName": "vl_last_v2.hps"
+  },
+  {
+    "name": "Tournament Mode",
+    "fileName": "vs_hyou1.hps"
+  },
+  {
+    "name": "Tournament Mode Alt",
+    "fileName": "vs_hyou2.hps"
+  },
+  {
+    "name": "Yoshi\u2019s Island",
+    "fileName": "yorster.hps"
+  },
+  {
+    "name": "Yoshi\u2019s Story",
+    "fileName": "ystory.hps"
+  },
+  {
+    "name": "Brinstar",
+    "fileName": "zebes.hps"
+  },
+  {
+    "name": "Metal Mario Fight",
+    "fileName": "mcavern.hps"
+  },
+  {
+    "name": "Peach\u2019s Castle 64",
+    "fileName": "old_castle.hps"
+  },
+  {
+    "name": "Hyrule Castle 64",
+    "fileName": "old_hyrule.hps"
+  },
+  {
+    "name": "Mushroom Kingdom 64",
+    "fileName": "old_mush.hps"
+  },
+  {
+    "name": "Saffron City 64",
+    "fileName": "old_saffron.hps"
+  },
+  {
+    "name": "Planet Zebes 64",
+    "fileName": "old_zebes.hps"
+  },
+  {
+    "name": "Star Wolf",
+    "fileName": "starwolf.hps"
+  },
+  {
+    "name": "Open Your Heart",
+    "fileName": "sonic.hps"
+  },
+  {
+    "name": "Title \uFF08Animal Crossing\uFF09",
+    "fileName": "ac_title.hps"
+  },
+  {
+    "name": "Go K.K. Rider\uFF01 \uFF08Live\uFF09",
+    "fileName": "kk_go.hps"
+  },
+  {
+    "name": "K.K. Cruisin\u2019 \uFF08Live\uFF09",
+    "fileName": "kk_urban.hps"
+  },
+  {
+    "name": "K.K. Western \uFF08Live\uFF09",
+    "fileName": "kk_west.hps"
+  },
+  {
+    "name": "K.K. Gumbo \uFF08Live\uFF09",
+    "fileName": "kk_new.hps"
+  },
+  {
+    "name": "Rockin\u2019 K.K. \uFF08Live\uFF09",
+    "fileName": "kk_rock.hps"
+  },
+  {
+    "name": "DJ K.K. \uFF08Live\uFF09",
+    "fileName": "kk_euro.hps"
+  },
+  {
+    "name": "K.K. Condor \uFF08Live\uFF09",
+    "fileName": "kk_peru.hps"
+  },
+  {
+    "name": "Green Hill Zone",
+    "fileName": "ghz.hps"
+  },
+  {
+    "name": "Delfino Plaza",
+    "fileName": "delfino.hps"
+  },
+  {
+    "name": "Ricco Harbor",
+    "fileName": "ricco.hps"
+  },
+  {
+    "name": "Luigi\u2019s Mansion \uFF08Main Theme\uFF09",
+    "fileName": "mansion.hps"
+  },
+  {
+    "name": "1AM \uFF08Dawn\uFF09",
+    "fileName": "1am.hps"
+  },
+  {
+    "name": "7AM \uFF08Day\uFF09",
+    "fileName": "7am.hps"
+  },
+  {
+    "name": "2PM \uFF08Evening\uFF09",
+    "fileName": "2pm.hps"
+  },
+  {
+    "name": "5PM \uFF08Night\uFF09",
+    "fileName": "5pm.hps"
+  },
+  {
+    "name": "Gym Theme",
+    "fileName": "pgym.hps"
+  },
+  {
+    "name": "Dolphin Park\uFF0FTitle",
+    "fileName": "doltitle.hps"
+  },
+  {
+    "name": "King Dedede\u2019s Theme",
+    "fileName": "dedede.hps"
+  },
+  {
+    "name": "Sonic the Hedgehog Fanfare",
+    "fileName": "ff_sonic.hps"
+  },
+  {
+    "name": "You\u0027ve Come Far (Coffee Break)",
+    "fileName": "kouhi.hps"
+  },
+  {
+    "name": "Gamecube Realm",
+    "fileName": "gcnrealm.hps"
+  },
+  {
+    "name": "Area 6",
+    "fileName": "area6.hps"
+  },
+  {
+    "name": "Mt. Dedede",
+    "fileName": "mtdedede.hps"
+  },
+  {
+    "name": "Dark Golden Land",
+    "fileName": "goldenland.hps"
+  },
+  {
+    "name": "Flippant Foe",
+    "fileName": "flippant.hps"
+  },
+  {
+    "name": "Castle Theme (Yoshi\u0027s Island)",
+    "fileName": "castleisland.hps"
+  },
+  {
+    "name": "Fichina",
+    "fileName": "fichina.hps"
+  },
+  {
+    "name": "It Doesn\u0027t Matter",
+    "fileName": "sonic2.hps"
+  },
+  {
+    "name": "Believe In Myself",
+    "fileName": "tails.hps"
+  },
+  {
+    "name": "Sector Z",
+    "fileName": "old_sectorz.hps"
+  },
+  {
+    "name": "Violet City",
+    "fileName": "violet.hps"
+  },
+  {
+    "name": "Green Hill Zone (Alt)",
+    "fileName": "ghz2.hps"
+  }
+]

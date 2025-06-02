@@ -1,0 +1,23 @@
+{
+  "name": "Pupupu",
+  "fileName": "pupupu.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_pupupu_wind1"
+    },
+    {
+      "name": "st_pupupu_zawa"
+    },
+    {
+      "name": "st_pupupu_apple_tyak1"
+    },
+    {
+      "name": "st_pupupu_block_break"
+    },
+    {
+      "name": "st_pupupu_breath"
+    }
+  ]
+}

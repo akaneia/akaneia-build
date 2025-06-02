@@ -1,0 +1,50 @@
+{
+  "name": "Ending",
+  "fileName": "ending.ssm",
+  "groupFlags": 100729088,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_ending_amb1"
+    },
+    {
+      "name": "st_ending_amb2"
+    },
+    {
+      "name": "st_ending_amb3"
+    },
+    {
+      "name": "st_ending_amb4"
+    },
+    {
+      "name": "st_ending_amb5"
+    },
+    {
+      "name": "st_ending_swosh3"
+    },
+    {
+      "name": "st_ending_swosh4"
+    },
+    {
+      "name": "st_ending_swosh5"
+    },
+    {
+      "name": "st_ending_signal1"
+    },
+    {
+      "name": "st_ending_signal2"
+    },
+    {
+      "name": "st_ending_signal3"
+    },
+    {
+      "name": "st_ending_signal4"
+    },
+    {
+      "name": "st_ending_explosion1"
+    },
+    {
+      "name": "st_ending_explosion2"
+    }
+  ]
+}

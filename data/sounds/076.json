@@ -1,0 +1,47 @@
+{
+  "name": "Gamecube Bios",
+  "fileName": "bios.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_mn_confirm"
+    },
+    {
+      "name": "st_mn_back"
+    },
+    {
+      "name": "st_mn_turnc"
+    },
+    {
+      "name": "st_mn_turns"
+    },
+    {
+      "name": "st_op_select"
+    },
+    {
+      "name": "st_op_confirm"
+    },
+    {
+      "name": "st_op_cancel"
+    },
+    {
+      "name": "st_op_move1"
+    },
+    {
+      "name": "st_op_move2"
+    },
+    {
+      "name": "st_op_move3"
+    },
+    {
+      "name": "st_ctv_padhit"
+    },
+    {
+      "name": "st_ctx_wallhit"
+    },
+    {
+      "name": "st_ctx_score"
+    }
+  ]
+}

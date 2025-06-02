@@ -1,0 +1,104 @@
+{
+  "name": "Mario",
+  "fileName": "mario.ssm",
+  "groupFlags": 67240705,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_mario"
+    },
+    {
+      "name": "se_mario_2big"
+    },
+    {
+      "name": "se_mario_dokan"
+    },
+    {
+      "name": "se_mario_fire_dasi"
+    },
+    {
+      "name": "se_mario_sjp_hit"
+    },
+    {
+      "name": "se_mario_sjp_jump"
+    },
+    {
+      "name": "se_mario_spin"
+    },
+    {
+      "name": "se_mario_spin2"
+    },
+    {
+      "name": "se_mario_mant"
+    },
+    {
+      "name": "se_mario_fireball"
+    },
+    {
+      "name": "se_mario_giant"
+    },
+    {
+      "name": "v_mario_atk1"
+    },
+    {
+      "name": "v_mario_atk2"
+    },
+    {
+      "name": "v_mario_atk3"
+    },
+    {
+      "name": "v_mario_atk4"
+    },
+    {
+      "name": "v_mario_atk5"
+    },
+    {
+      "name": "v_mario_gake"
+    },
+    {
+      "name": "v_mario_hissatu"
+    },
+    {
+      "name": "v_mario_hosikie"
+    },
+    {
+      "name": "v_mario_hura"
+    },
+    {
+      "name": "v_mario_jump"
+    },
+    {
+      "name": "v_mario_jump2"
+    },
+    {
+      "name": "v_mario_kirifuda"
+    },
+    {
+      "name": "v_mario_motiage"
+    },
+    {
+      "name": "v_mario_nemuru"
+    },
+    {
+      "name": "v_mario_nemuru2"
+    },
+    {
+      "name": "v_mario_otto"
+    },
+    {
+      "name": "v_mario_rakka4"
+    },
+    {
+      "name": "v_mario_win"
+    },
+    {
+      "name": "v_mario_yarare"
+    },
+    {
+      "name": "v_mario_huttobi1"
+    },
+    {
+      "name": "v_mario_huttobi2"
+    }
+  ]
+}

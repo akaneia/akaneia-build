@@ -1,0 +1,30 @@
+{
+  "name": "Poke Floats",
+  "location": "Kanto Skies",
+  "seriesID": 9,
+  "fileName": "/GrPu.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407976,
+  "mapDescPointer": 2151573504,
+  "onStageInit": 2149653760,
+  "onStageLoad": 2149653976,
+  "onStageGo": 2149653980,
+  "onGo": 2149653756,
+  "onUnknown2": 2149654016,
+  "onTouchLine": 2149658816,
+  "onUnknown4": 2149658824,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_038",
+    "banner": "sss\\icon_039"
+  }
+}

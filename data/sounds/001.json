@@ -1,0 +1,140 @@
+{
+  "name": "Pokemon",
+  "fileName": "pokemon.ssm",
+  "groupFlags": 17106176,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "pk_chicorita_shot"
+    },
+    {
+      "name": "pkv_chicorita"
+    },
+    {
+      "name": "pk_matadogas_gus"
+    },
+    {
+      "name": "pkv_matadogas"
+    },
+    {
+      "name": "pk_lizardon_fire"
+    },
+    {
+      "name": "pkv_lizardon"
+    },
+    {
+      "name": "pk_unknown1"
+    },
+    {
+      "name": "pk_kamex_shot_lr"
+    },
+    {
+      "name": "pkv_kamex"
+    },
+    {
+      "name": "pk_marumine_ikaru"
+    },
+    {
+      "name": "pk_marumine_bomb"
+    },
+    {
+      "name": "pkv_hassam"
+    },
+    {
+      "name": "pk_hassam_jet"
+    },
+    {
+      "name": "pkv_kabigon1"
+    },
+    {
+      "name": "pkv_kabigon2"
+    },
+    {
+      "name": "pkv_kireihana"
+    },
+    {
+      "name": "pk_kireihana_gus1"
+    },
+    {
+      "name": "pkv_metamon"
+    },
+    {
+      "name": "pkv_mew"
+    },
+    {
+      "name": "pkv_pipi"
+    },
+    {
+      "name": "pkv_sonans"
+    },
+    {
+      "name": "pkv_togepy"
+    },
+    {
+      "name": "pk_togepy_flash"
+    },
+    {
+      "name": "pkv_tosakinto"
+    },
+    {
+      "name": "pkv_fushigibana"
+    },
+    {
+      "name": "pk_fushigibana_dance1"
+    },
+    {
+      "name": "pk_fushigibana_dance3"
+    },
+    {
+      "name": "pkv_hinoarashi"
+    },
+    {
+      "name": "pkv_hitodeman"
+    },
+    {
+      "name": "pk_hitodeman_shot_rl"
+    },
+    {
+      "name": "pkv_lucky"
+    },
+    {
+      "name": "pk_lucky_egg"
+    },
+    {
+      "name": "pkv_maril"
+    },
+    {
+      "name": "pkv_porygon2"
+    },
+    {
+      "name": "pk_flap"
+    },
+    {
+      "name": "pk_entei1"
+    },
+    {
+      "name": "pk_entei2"
+    },
+    {
+      "name": "pk_raikou1"
+    },
+    {
+      "name": "pk_raikou2"
+    },
+    {
+      "name": "pk_raikou3"
+    },
+    {
+      "name": "pk_suikun1"
+    },
+    {
+      "name": "pk_suikun2"
+    },
+    {
+      "name": "pk_lugia_shot"
+    },
+    {
+      "name": "pk_freezer"
+    }
+  ]
+}

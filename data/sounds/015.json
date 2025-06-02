@@ -1,0 +1,86 @@
+{
+  "name": "Bowser",
+  "fileName": "koopa.ssm",
+  "groupFlags": 67240712,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_koopa"
+    },
+    {
+      "name": "se_koopa_demo1"
+    },
+    {
+      "name": "se_koopa_demo2"
+    },
+    {
+      "name": "se_koopa_demo4"
+    },
+    {
+      "name": "se_koopa_demo5"
+    },
+    {
+      "name": "se_koopa_demo6"
+    },
+    {
+      "name": "se_koopa_demo7"
+    },
+    {
+      "name": "v_koopa_atk1"
+    },
+    {
+      "name": "v_koopa_atk3"
+    },
+    {
+      "name": "v_koopa_hosikie"
+    },
+    {
+      "name": "v_koopa_hura"
+    },
+    {
+      "name": "v_koopa_huttobi1"
+    },
+    {
+      "name": "v_koopa_huttobi2"
+    },
+    {
+      "name": "v_koopa_motiage"
+    },
+    {
+      "name": "v_koopa_nemuru"
+    },
+    {
+      "name": "v_koopa_otto"
+    },
+    {
+      "name": "v_koopa_rakka4"
+    },
+    {
+      "name": "se_koopa_breath1"
+    },
+    {
+      "name": "se_koopa_breath2"
+    },
+    {
+      "name": "se_koopa_breath3"
+    },
+    {
+      "name": "se_koopa_breath4"
+    },
+    {
+      "name": "se_koopa_hissatu_jump"
+    },
+    {
+      "name": "se_koopa_hissatu_kamu"
+    },
+    {
+      "name": "se_koopa_waza_sita"
+    },
+    {
+      "name": "se_koopa_hissatu_ketu"
+    },
+    {
+      "name": "se_koopa_hissatu_hmove"
+    }
+  ]
+}

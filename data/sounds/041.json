@@ -1,0 +1,23 @@
+{
+  "name": "Garden",
+  "fileName": "garden.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_garden_fallwater_char"
+    },
+    {
+      "name": "st_garden_swim1"
+    },
+    {
+      "name": "st_garden_swim2"
+    },
+    {
+      "name": "st_garden_river_ambient"
+    },
+    {
+      "name": "st_garden_junglese"
+    }
+  ]
+}

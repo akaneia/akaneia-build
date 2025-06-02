@@ -1,0 +1,746 @@
+{
+  "name": "Main",
+  "fileName": "main.ssm",
+  "groupFlags": 17106176,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_dash_start"
+    },
+    {
+      "name": "se_kaihi"
+    },
+    {
+      "name": "se_kaihi2"
+    },
+    {
+      "name": "se_ukemi"
+    },
+    {
+      "name": "se_dash_stop"
+    },
+    {
+      "name": "se_jnm_l"
+    },
+    {
+      "name": "se_jnm_s"
+    },
+    {
+      "name": "se_kabejump"
+    },
+    {
+      "name": "se_jtaore_l"
+    },
+    {
+      "name": "se_jtaore_s"
+    },
+    {
+      "name": "se_jtaore_ss"
+    },
+    {
+      "name": "se_jtaore_sss"
+    },
+    {
+      "name": "se_wtaore_l"
+    },
+    {
+      "name": "se_wtaore_s"
+    },
+    {
+      "name": "se_wtaore_ss"
+    },
+    {
+      "name": "se_wtaore_sss"
+    },
+    {
+      "name": "se_taore_snow_l"
+    },
+    {
+      "name": "se_taore_water_l"
+    },
+    {
+      "name": "se_taore_grass_l"
+    },
+    {
+      "name": "se_taore_grass_ss"
+    },
+    {
+      "name": "se_taore_dirt_l"
+    },
+    {
+      "name": "se_taore_dirt_ss"
+    },
+    {
+      "name": "se_taore_nmetal_l"
+    },
+    {
+      "name": "se_taore_metal_l"
+    },
+    {
+      "name": "se_taore_oil_l"
+    },
+    {
+      "name": "se_taore_oil_ss"
+    },
+    {
+      "name": "se_taore_stone_l"
+    },
+    {
+      "name": "se_taore_paper_l"
+    },
+    {
+      "name": "se_taore_gw_l"
+    },
+    {
+      "name": "se_jtyak_l"
+    },
+    {
+      "name": "se_jtyak_s"
+    },
+    {
+      "name": "se_big_jump_l"
+    },
+    {
+      "name": "se_big_jump_s"
+    },
+    {
+      "name": "se_jump_l"
+    },
+    {
+      "name": "se_jump_s"
+    },
+    {
+      "name": "se_wnm_l"
+    },
+    {
+      "name": "se_wtyak_l"
+    },
+    {
+      "name": "se_wtyak_s"
+    },
+    {
+      "name": "se_huttobi_l"
+    },
+    {
+      "name": "se_huttobi_s"
+    },
+    {
+      "name": "se_catch1"
+    },
+    {
+      "name": "se_sjp_hit"
+    },
+    {
+      "name": "chit_m"
+    },
+    {
+      "name": "mhit_l"
+    },
+    {
+      "name": "mhit_m"
+    },
+    {
+      "name": "mhit_s"
+    },
+    {
+      "name": "nhit_l"
+    },
+    {
+      "name": "nhit_m"
+    },
+    {
+      "name": "nhit_s"
+    },
+    {
+      "name": "ghit_l"
+    },
+    {
+      "name": "ghit_m"
+    },
+    {
+      "name": "ghit_s"
+    },
+    {
+      "name": "piyopiyo"
+    },
+    {
+      "name": "stg_oti"
+    },
+    {
+      "name": "stg_sini"
+    },
+    {
+      "name": "elehit_s"
+    },
+    {
+      "name": "elehit_m"
+    },
+    {
+      "name": "elehit_l"
+    },
+    {
+      "name": "firehit_s"
+    },
+    {
+      "name": "firehit_m"
+    },
+    {
+      "name": "firehit_l"
+    },
+    {
+      "name": "jshield"
+    },
+    {
+      "name": "just_imp"
+    },
+    {
+      "name": "se_sousai"
+    },
+    {
+      "name": "se_sousai_cut"
+    },
+    {
+      "name": "shield"
+    },
+    {
+      "name": "swdhit_s"
+    },
+    {
+      "name": "swdhit_m"
+    },
+    {
+      "name": "swdhit_l"
+    },
+    {
+      "name": "explosion_ss"
+    },
+    {
+      "name": "explosion_s"
+    },
+    {
+      "name": "explosion_m"
+    },
+    {
+      "name": "explosion_l"
+    },
+    {
+      "name": "explosion_ll"
+    },
+    {
+      "name": "fire_l"
+    },
+    {
+      "name": "fire_m"
+    },
+    {
+      "name": "fire_s"
+    },
+    {
+      "name": "pre_smash"
+    },
+    {
+      "name": "smash_hold"
+    },
+    {
+      "name": "kaifuku"
+    },
+    {
+      "name": "scorecount"
+    },
+    {
+      "name": "shield_stop"
+    },
+    {
+      "name": "shield_ref"
+    },
+    {
+      "name": "shield_break1"
+    },
+    {
+      "name": "hosikie"
+    },
+    {
+      "name": "bgm_muteki"
+    },
+    {
+      "name": "bgm_hammer"
+    },
+    {
+      "name": "jisin_s"
+    },
+    {
+      "name": "jisin_l"
+    },
+    {
+      "name": "stg_sini_l"
+    },
+    {
+      "name": "stg_sini_r"
+    },
+    {
+      "name": "stg_forward_l"
+    },
+    {
+      "name": "hit_muteki_s"
+    },
+    {
+      "name": "hit_muteki_l"
+    },
+    {
+      "name": "taiden"
+    },
+    {
+      "name": "moemoe"
+    },
+    {
+      "name": "coin_l"
+    },
+    {
+      "name": "coin_get"
+    },
+    {
+      "name": "coin_m"
+    },
+    {
+      "name": "coin_s"
+    },
+    {
+      "name": "se_dash_down"
+    },
+    {
+      "name": "xhit_guru"
+    },
+    {
+      "name": "xhit_spin_fo_s"
+    },
+    {
+      "name": "xhit_spin_fo_l"
+    },
+    {
+      "name": "xhit_big_l"
+    },
+    {
+      "name": "xhit_big_m"
+    },
+    {
+      "name": "xhit_sword_l"
+    },
+    {
+      "name": "demo_swish_l"
+    },
+    {
+      "name": "demo_swish_m"
+    },
+    {
+      "name": "demo_swish_s"
+    },
+    {
+      "name": "se_xhit_l"
+    },
+    {
+      "name": "se_xhit_m"
+    },
+    {
+      "name": "dropfigure"
+    },
+    {
+      "name": "slot"
+    },
+    {
+      "name": "fpon_yure"
+    },
+    {
+      "name": "fpon_newfanf1"
+    },
+    {
+      "name": "fpon_newfanf2"
+    },
+    {
+      "name": "cs_cancel"
+    },
+    {
+      "name": "cs_kettei"
+    },
+    {
+      "name": "cs_mv"
+    },
+    {
+      "name": "cs_beep1"
+    },
+    {
+      "name": "infobeep"
+    },
+    {
+      "name": "pause"
+    },
+    {
+      "name": "controlnoize"
+    },
+    {
+      "name": "cs_coincount_s"
+    },
+    {
+      "name": "cs_coincount_l"
+    },
+    {
+      "name": "cs_winname"
+    },
+    {
+      "name": "cs_finger_put"
+    },
+    {
+      "name": "cs_finger_push"
+    },
+    {
+      "name": "cs_door_open"
+    },
+    {
+      "name": "cs_door_close"
+    },
+    {
+      "name": "cs_erase_caution1"
+    },
+    {
+      "name": "cs_erase_caution2"
+    },
+    {
+      "name": "cs_erase"
+    },
+    {
+      "name": "cs_hr_zannen"
+    },
+    {
+      "name": "cs_camera"
+    },
+    {
+      "name": "v_selectvoice_captain"
+    },
+    {
+      "name": "v_selectvoice_drmario"
+    },
+    {
+      "name": "v_selectvoice_luigi"
+    },
+    {
+      "name": "v_selectvoice_purin"
+    },
+    {
+      "name": "it_get"
+    },
+    {
+      "name": "it_sute"
+    },
+    {
+      "name": "it_tabemonoget"
+    },
+    {
+      "name": "it_fuhatu"
+    },
+    {
+      "name": "it_bat"
+    },
+    {
+      "name": "it_harisenhit"
+    },
+    {
+      "name": "it_rgun_lr"
+    },
+    {
+      "name": "it_rgun_rl"
+    },
+    {
+      "name": "it_rgun_kara"
+    },
+    {
+      "name": "it_starrod_l"
+    },
+    {
+      "name": "it_starrod_m"
+    },
+    {
+      "name": "it_starrod_s"
+    },
+    {
+      "name": "it_starrod_suka"
+    },
+    {
+      "name": "it_sword_l"
+    },
+    {
+      "name": "it_sword_m"
+    },
+    {
+      "name": "it_sword_s"
+    },
+    {
+      "name": "it_fflow_fire"
+    },
+    {
+      "name": "it_fflow_suka"
+    },
+    {
+      "name": "it_bombhei_idou"
+    },
+    {
+      "name": "it_kamekr_hit"
+    },
+    {
+      "name": "it_kamekr_nage"
+    },
+    {
+      "name": "it_mbombset"
+    },
+    {
+      "name": "it_eggware"
+    },
+    {
+      "name": "it_freeze"
+    },
+    {
+      "name": "it_hakoware"
+    },
+    {
+      "name": "it_kasa_hiraku"
+    },
+    {
+      "name": "it_kusudama"
+    },
+    {
+      "name": "it_star_get"
+    },
+    {
+      "name": "it_star_hane"
+    },
+    {
+      "name": "it_taruware"
+    },
+    {
+      "name": "it_scorpeshot_single"
+    },
+    {
+      "name": "it_scorpe_kamae"
+    },
+    {
+      "name": "it_scorpe_tame"
+    },
+    {
+      "name": "it_scorpeshot_tame_s"
+    },
+    {
+      "name": "it_scorpeshot_tame_l"
+    },
+    {
+      "name": "it_scorpeshot_kara"
+    },
+    {
+      "name": "it_hazumi"
+    },
+    {
+      "name": "it_hazumi_box"
+    },
+    {
+      "name": "it_hazumi_taru"
+    },
+    {
+      "name": "it_hazumi_bat"
+    },
+    {
+      "name": "it_hazumi_weapon"
+    },
+    {
+      "name": "it_hazumi_food"
+    },
+    {
+      "name": "it_nage"
+    },
+    {
+      "name": "it_doseipoo1"
+    },
+    {
+      "name": "it_mball_ware"
+    },
+    {
+      "name": "it_warpstar1"
+    },
+    {
+      "name": "it_scball_jump"
+    },
+    {
+      "name": "it_rabbit_get"
+    },
+    {
+      "name": "it_rabbit_dash"
+    },
+    {
+      "name": "it_rabbit_stop"
+    },
+    {
+      "name": "it_kinoko_2big"
+    },
+    {
+      "name": "it_kinoko_2small"
+    },
+    {
+      "name": "it_lipstick_shot"
+    },
+    {
+      "name": "it_lipstick_flower"
+    },
+    {
+      "name": "it_metal_change"
+    },
+    {
+      "name": "it_freeze_ice_bound"
+    },
+    {
+      "name": "it_freeze_ice_smash"
+    },
+    {
+      "name": "it_kusudama_tyak"
+    },
+    {
+      "name": "it_kusudama_fanf"
+    },
+    {
+      "name": "it_kusudama_fanf_tk2"
+    },
+    {
+      "name": "it_taru_gun_hairu"
+    },
+    {
+      "name": "it_taru_gun_shot"
+    },
+    {
+      "name": "it_spy_in"
+    },
+    {
+      "name": "it_spy_mie"
+    },
+    {
+      "name": "it_clockbomb_count"
+    },
+    {
+      "name": "zk_fumi"
+    },
+    {
+      "name": "zk_target"
+    },
+    {
+      "name": "zk_kie"
+    },
+    {
+      "name": "zk_huttobi1"
+    },
+    {
+      "name": "zk_leaded_scream"
+    },
+    {
+      "name": "zk_block"
+    },
+    {
+      "name": "zk_oct_shot"
+    },
+    {
+      "name": "zk_oct_tama"
+    },
+    {
+      "name": "zk_like_eat"
+    },
+    {
+      "name": "zk_like_shot"
+    },
+    {
+      "name": "zk_wb_step"
+    },
+    {
+      "name": "v_doyo_l"
+    },
+    {
+      "name": "v_kanpati_l"
+    },
+    {
+      "name": "v_kanpati_m"
+    },
+    {
+      "name": "v_kansei_nocon"
+    },
+    {
+      "name": "v_pati_l"
+    },
+    {
+      "name": "se_step_snowB"
+    },
+    {
+      "name": "se_step_water"
+    },
+    {
+      "name": "se_step_waterB"
+    },
+    {
+      "name": "se_step_frozen"
+    },
+    {
+      "name": "se_step_wood"
+    },
+    {
+      "name": "se_step_woodS"
+    },
+    {
+      "name": "se_step_captain"
+    },
+    {
+      "name": "se_step_captainB"
+    },
+    {
+      "name": "se_step_metalcaptain"
+    },
+    {
+      "name": "se_step_clink"
+    },
+    {
+      "name": "se_step_metalclink"
+    },
+    {
+      "name": "se_step_dk"
+    },
+    {
+      "name": "se_step_drmario"
+    },
+    {
+      "name": "se_step_falco"
+    },
+    {
+      "name": "se_step_ice"
+    },
+    {
+      "name": "se_step_kirby"
+    },
+    {
+      "name": "se_step_koopa"
+    },
+    {
+      "name": "se_step_gkoopa"
+    },
+    {
+      "name": "se_step_ness"
+    },
+    {
+      "name": "se_step_peach"
+    },
+    {
+      "name": "se_step_pichu"
+    },
+    {
+      "name": "se_step_purin"
+    },
+    {
+      "name": "se_step_samus"
+    },
+    {
+      "name": "se_step_seak"
+    },
+    {
+      "name": "se_step_yoshi"
+    }
+  ]
+}

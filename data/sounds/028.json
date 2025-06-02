@@ -1,0 +1,107 @@
+{
+  "name": "Yoshi",
+  "fileName": "yoshi.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_yoshi"
+    },
+    {
+      "name": "v_yoshi_appeal"
+    },
+    {
+      "name": "v_yoshi_atk1"
+    },
+    {
+      "name": "v_yoshi_atk2"
+    },
+    {
+      "name": "v_yoshi_atk3"
+    },
+    {
+      "name": "v_yoshi_atk4"
+    },
+    {
+      "name": "v_yoshi_atk5"
+    },
+    {
+      "name": "v_yoshi_catch"
+    },
+    {
+      "name": "v_yoshi_gake"
+    },
+    {
+      "name": "v_yoshi_hosikie"
+    },
+    {
+      "name": "v_yoshi_hura"
+    },
+    {
+      "name": "v_yoshi_huttobi1"
+    },
+    {
+      "name": "v_yoshi_huttobi2"
+    },
+    {
+      "name": "v_yoshi_jump"
+    },
+    {
+      "name": "v_yoshi_jump2"
+    },
+    {
+      "name": "v_yoshi_kirifuda"
+    },
+    {
+      "name": "v_yoshi_otto"
+    },
+    {
+      "name": "v_yoshi_rakka4"
+    },
+    {
+      "name": "v_yoshi_nemuru"
+    },
+    {
+      "name": "v_yoshi_waza_sita"
+    },
+    {
+      "name": "v_yoshi_waza_ue"
+    },
+    {
+      "name": "v_yoshi_waza_yoko"
+    },
+    {
+      "name": "v_yoshi_win"
+    },
+    {
+      "name": "v_yoshi_yarare"
+    },
+    {
+      "name": "se_yoshi_sita"
+    },
+    {
+      "name": "se_yoshi_umi"
+    },
+    {
+      "name": "se_yoshi_goro"
+    },
+    {
+      "name": "se_yoshi_eggnage"
+    },
+    {
+      "name": "se_yoshi_hip"
+    },
+    {
+      "name": "se_yoshi_eggware"
+    },
+    {
+      "name": "se_yoshi_nage_kamu"
+    },
+    {
+      "name": "se_yoshi_nage_mogu"
+    },
+    {
+      "name": "se_yoshi_egg_dash"
+    }
+  ]
+}

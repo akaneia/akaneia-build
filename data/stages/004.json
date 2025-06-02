@@ -1,0 +1,30 @@
+{
+  "name": "Kongo Jungle",
+  "location": "DK Island",
+  "seriesID": 1,
+  "fileName": "/GrKg.dat",
+  "additionalFiles": [],
+  "soundBank": 37,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151406936,
+  "mapDescPointer": 2151552772,
+  "onStageInit": 2149405244,
+  "onStageLoad": 2149405432,
+  "onStageGo": 2149405436,
+  "onGo": 2149405240,
+  "onUnknown2": 2149405496,
+  "onTouchLine": 2149418052,
+  "onUnknown4": 2149418060,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151552736,
+  "movingCollisionCount": 6,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_004",
+    "banner": "sss\\icon_005"
+  }
+}

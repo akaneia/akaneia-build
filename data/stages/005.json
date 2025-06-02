@@ -1,0 +1,30 @@
+{
+  "name": "Jungle Japes",
+  "location": "DK Island",
+  "seriesID": 1,
+  "fileName": "/GrGd.dat",
+  "additionalFiles": [],
+  "soundBank": 41,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407016,
+  "mapDescPointer": 2151567944,
+  "onStageInit": 2149591920,
+  "onStageLoad": 2149592100,
+  "onStageGo": 2149592140,
+  "onGo": 2149591916,
+  "onUnknown2": 2149592176,
+  "onTouchLine": 2149594568,
+  "onUnknown4": 2149594576,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_006",
+    "banner": "sss\\icon_007"
+  }
+}

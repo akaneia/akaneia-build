@@ -1,0 +1,92 @@
+{
+  "name": "C. Falcon",
+  "fileName": "captain.ssm",
+  "groupFlags": 67240708,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_captain"
+    },
+    {
+      "name": "se_captain_demo1"
+    },
+    {
+      "name": "v_captain_appeal1"
+    },
+    {
+      "name": "v_captain_appeal2"
+    },
+    {
+      "name": "v_captain_attack1"
+    },
+    {
+      "name": "v_captain_attack2"
+    },
+    {
+      "name": "v_captain_attack3"
+    },
+    {
+      "name": "v_captain_attack4"
+    },
+    {
+      "name": "v_captain_attack5"
+    },
+    {
+      "name": "v_captain_f_intro"
+    },
+    {
+      "name": "v_captain_fkick"
+    },
+    {
+      "name": "v_captain_firekick"
+    },
+    {
+      "name": "v_captain_hosikie"
+    },
+    {
+      "name": "v_captain_hura"
+    },
+    {
+      "name": "v_captain_huttobi2"
+    },
+    {
+      "name": "v_captain_huttobi"
+    },
+    {
+      "name": "v_captain_jump"
+    },
+    {
+      "name": "v_captain_motiage"
+    },
+    {
+      "name": "v_captain_fpunch"
+    },
+    {
+      "name": "v_captain_rakka4"
+    },
+    {
+      "name": "v_captain_nemuru1"
+    },
+    {
+      "name": "v_captain_nemuru2"
+    },
+    {
+      "name": "v_captain_bluef"
+    },
+    {
+      "name": "v_captain_comeon"
+    },
+    {
+      "name": "v_captain_fdive"
+    },
+    {
+      "name": "se_captain_fireatk"
+    },
+    {
+      "name": "se_captain_fpunch"
+    },
+    {
+      "name": "se_captain_fdive"
+    }
+  ]
+}

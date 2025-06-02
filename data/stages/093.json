@@ -1,0 +1,49 @@
+{
+  "name": "Targets!Dedede",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTDe.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 0,
+  "onStageInit": 0,
+  "onStageLoad": 0,
+  "onStageGo": 0,
+  "onGo": 0,
+  "onUnknown2": 0,
+  "onTouchLine": 0,
+  "onUnknown4": 0,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    }
+  ],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

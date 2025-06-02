@@ -1,0 +1,30 @@
+{
+  "name": "Home-Run Stadium",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrHr",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411976,
+  "mapDescPointer": 2151579968,
+  "onStageInit": 2149697364,
+  "onStageLoad": 2149697532,
+  "onStageGo": 2149697536,
+  "onGo": 2149697360,
+  "onUnknown2": 2149697572,
+  "onTouchLine": 2149707444,
+  "onUnknown4": 2149707452,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2152548760,
+  "movingCollisionCount": 1,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

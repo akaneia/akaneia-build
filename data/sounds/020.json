@@ -1,0 +1,104 @@
+{
+  "name": "Mewtwo",
+  "fileName": "mewtwo.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_mewtwo"
+    },
+    {
+      "name": "v_mewtwo_appeal1"
+    },
+    {
+      "name": "v_mewtwo_atk1"
+    },
+    {
+      "name": "v_mewtwo_atk2"
+    },
+    {
+      "name": "v_mewtwo_atk3"
+    },
+    {
+      "name": "v_mewtwo_atk4"
+    },
+    {
+      "name": "v_mewtwo_atk5"
+    },
+    {
+      "name": "v_mewtwo_atk6"
+    },
+    {
+      "name": "v_mewtwo_atk7"
+    },
+    {
+      "name": "v_mewtwo_hosikie"
+    },
+    {
+      "name": "v_mewtwo_hura"
+    },
+    {
+      "name": "v_mewtwo_huttobi1"
+    },
+    {
+      "name": "v_mewtwo_huttobi2"
+    },
+    {
+      "name": "v_mewtwo_kati1"
+    },
+    {
+      "name": "v_mewtwo_kati2"
+    },
+    {
+      "name": "v_mewtwo_motiage"
+    },
+    {
+      "name": "v_mewtwo_nemuru"
+    },
+    {
+      "name": "v_mewtwo_rakka4"
+    },
+    {
+      "name": "v_mewtwo_saiko"
+    },
+    {
+      "name": "v_mewtwo_sball"
+    },
+    {
+      "name": "v_mewtwo_yarare"
+    },
+    {
+      "name": "se_mewtwo_tail_atk_s"
+    },
+    {
+      "name": "se_mewtwo_psi_throw"
+    },
+    {
+      "name": "se_mewtwo_psi_sita"
+    },
+    {
+      "name": "se_mewtwo_psi_ue"
+    },
+    {
+      "name": "se_mewtwo_psi_uki"
+    },
+    {
+      "name": "se_mewtwo_waza_ue"
+    },
+    {
+      "name": "se_mewtwo_eye"
+    },
+    {
+      "name": "se_mewtwo_sball_hikou1"
+    },
+    {
+      "name": "se_mewtwo_sball_shot_s"
+    },
+    {
+      "name": "se_mewtwo_sball_tame1"
+    },
+    {
+      "name": "se_mewtwo_fire1"
+    }
+  ]
+}

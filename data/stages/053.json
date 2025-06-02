@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Mewtwo",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTMt.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410856,
+  "mapDescPointer": 2151583600,
+  "onStageInit": 2149720540,
+  "onStageLoad": 2149720660,
+  "onStageGo": 2149720664,
+  "onGo": 2149720536,
+  "onUnknown2": 2149720700,
+  "onTouchLine": 2149721268,
+  "onUnknown4": 2149721544,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Kirby",
+  "seriesID": 5,
+  "canWallJump": false,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 14,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 16384,
+  "announcerCall": 510015,
+  "victoryTheme": 20,
+  "fighterMusic1": 35,
+  "fighterMusic2": 35,
+  "targetTestStage": 41,
+  "classicTrophyId": 15,
+  "adventureTrophyId": 16,
+  "allStarTrophyId": 17,
+  "racetoTheFinishTime": 53,
+  "resultScreenScale": 1,
+  "endingScreenScale": 0.7,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 59,
+      "top": 0,
+      "trans": 1,
+      "xRot": 2,
+      "yRot": 3,
+      "hip": 4,
+      "waist": 5,
+      "lLegA": 45,
+      "lLeg": 46,
+      "lKnee": 47,
+      "lFootA": 48,
+      "lFoot": 49,
+      "rLegA": 51,
+      "rLeg": 52,
+      "rKnee": 53,
+      "rFootA": 54,
+      "rFoot": 55,
+      "waistB": 255,
+      "bust": 255,
+      "lClavicle": 35,
+      "lShoulderA": 36,
+      "lShoulder": 37,
+      "lArm": 38,
+      "lHand": 255,
+      "lIndex1": 255,
+      "lIndex2": 255,
+      "lMiddle1": 255,
+      "lMiddle2": 255,
+      "lRing1": 255,
+      "lRing2": 255,
+      "lPinky1": 255,
+      "lPinky2": 255,
+      "lHave": 39,
+      "lThumb1": 255,
+      "lThumb2": 255,
+      "neckN": 255,
+      "headN": 255,
+      "rClavicle": 40,
+      "rShoulderA": 41,
+      "rShoulder": 42,
+      "rArm": 43,
+      "rHand": 255,
+      "rIndex1": 255,
+      "rIndex2": 255,
+      "rMiddle1": 255,
+      "rMiddle2": 255,
+      "rRing1": 255,
+      "rRing2": 255,
+      "rPinky1": 255,
+      "rPinky2": 255,
+      "rHave": 44,
+      "rThumb1": 255,
+      "rThumb2": 255,
+      "throw": 57,
+      "extra": 58
+    },
+    "ext": [
+      {
+        "x00": 7,
+        "x01": 6,
+        "x02": 1,
+        "x03": 7
+      },
+      {
+        "x00": 8,
+        "x01": 7,
+        "x02": 0,
+        "x03": 8
+      },
+      {
+        "x00": 9,
+        "x01": 8,
+        "x02": 0,
+        "x03": 9
+      },
+      {
+        "x00": 10,
+        "x01": 9,
+        "x02": 0,
+        "x03": 10
+      },
+      {
+        "x00": 28,
+        "x01": 12,
+        "x02": 2,
+        "x03": 22
+      },
+      {
+        "x00": 29,
+        "x01": 28,
+        "x02": 0,
+        "x03": 23
+      },
+      {
+        "x00": 30,
+        "x01": 29,
+        "x02": 0,
+        "x03": 24
+      },
+      {
+        "x00": 31,
+        "x01": 30,
+        "x02": 0,
+        "x03": 25
+      },
+      {
+        "x00": 32,
+        "x01": 31,
+        "x02": 0,
+        "x03": 26
+      },
+      {
+        "x00": 33,
+        "x01": 32,
+        "x02": 0,
+        "x03": 27
+      },
+      {
+        "x00": 34,
+        "x01": 33,
+        "x02": 0,
+        "x03": 28
+      },
+      {
+        "x00": 15,
+        "x01": 14,
+        "x02": 3,
+        "x03": 11
+      },
+      {
+        "x00": 16,
+        "x01": 15,
+        "x02": 3,
+        "x03": 12
+      }
+    ]
+  },
+  "assets": {
+    "cssIcon": "css\\icon_004",
+    "resultBannerBig": "rst\\big_banner_004",
+    "resultSmallBig": "rst\\small_banner_004"
+  },
+  "redCostumeIndex": 3,
+  "blueCostumeIndex": 2,
+  "greenCostumeIndex": 4,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlKbNr.dat",
+        "jointSymbol": "PlyKirby5K_Share_joint",
+        "materialSymbol": "PlyKirby5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_028",
+      "csp": "csp\\csp_028"
+    },
+    {
+      "name": "Yellow",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlKbYe.dat",
+        "jointSymbol": "PlyKirby5KYe_Share_joint",
+        "materialSymbol": "PlyKirby5KYe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_029",
+      "csp": "csp\\csp_029"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlKbBu.dat",
+        "jointSymbol": "PlyKirby5KBu_Share_joint",
+        "materialSymbol": "PlyKirby5KBu_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_030",
+      "csp": "csp\\csp_030"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlKbRe.dat",
+        "jointSymbol": "PlyKirby5KRe_Share_joint",
+        "materialSymbol": "PlyKirby5KRe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_031",
+      "csp": "csp\\csp_031"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 4,
+        "fileName": "PlKbGr.dat",
+        "jointSymbol": "PlyKirby5KGr_Share_joint",
+        "materialSymbol": "PlyKirby5KGr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_032",
+      "csp": "csp\\csp_032"
+    },
+    {
+      "name": "White",
+      "file": {
+        "visibilityIndex": 5,
+        "fileName": "PlKbWh.dat",
+        "jointSymbol": "PlyKirby5KWh_Share_joint",
+        "materialSymbol": "PlyKirby5KWh_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_033",
+      "csp": "csp\\csp_033"
+    },
+    {
+      "name": "Lavender",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlKbLa.dat",
+        "jointSymbol": "PlyKirby5KLa_Share_joint",
+        "materialSymbol": "PlyKirby5KLa_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_034",
+      "csp": "csp\\csp_034"
+    },
+    {
+      "name": "Brown",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlKbBr.dat",
+        "jointSymbol": "PlyKirby5KBr_Share_joint",
+        "materialSymbol": "PlyKirby5KBr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_035",
+      "csp": "csp\\csp_035"
+    }
+  ],
+  "kirbyCostumes": [],
+  "hasKirbyCostumes": false,
+  "gaWData": null,
+  "files": {
+    "fighterDataPath": "PlKb.dat",
+    "fighterDataSymbol": "ftDataKirby",
+    "animFile": "PlKbAJ.dat",
+    "animCount": 479,
+    "demoFile": "PlKbDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileKirby",
+    "demoResult": "ftDemoResultMotionFileKirby",
+    "demoIntro": "ftDemoIntroMotionFileKirby",
+    "demoEnding": "ftDemoEndingMotionFileKirby",
+    "rstAnimFile": "GmRstMKb.dat",
+    "rstAnimCount": 18,
+    "effectFile": "EfKbData.dat",
+    "effectSymbol": "effKirbyDataTable",
+    "kirbyCapFileName": null,
+    "kirbyCapSymbol": null,
+    "kirbyEffectFile": "",
+    "kirbyEffectSymbol": ""
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148460160,
+    "onRespawn": 2148459968,
+    "onDestroy": 0,
+    "moveLogicPointer": 2151449448,
+    "demoMoveLogicPointer": 2151456844,
+    "specialN": 2148472368,
+    "specialNAir": 2148472448,
+    "specialHi": 2148475648,
+    "specialHiAir": 2148475832,
+    "specialLw": 2148482384,
+    "specialLwAir": 2148482664,
+    "specialS": 2148488548,
+    "specialSAir": 2148488656,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 0,
+    "onItemPickup": 2148460820,
+    "onMakeItemInvisible": 2148461020,
+    "onMakeItemVisible": 2148461092,
+    "onItemDrop": 2148461164,
+    "onItemCatch": 2148460820,
+    "onUnknownItemRelated": 2148461164,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 2148461368,
+    "eyeTextureNormal": 2148461436,
+    "onFrame": 2148473708,
+    "onActionStateChange": 2148460568,
+    "resetAttribute": 2148461248,
+    "onModelRender": 2148462340,
+    "onShadowRender": 2148464764,
+    "onUnknownMultijump": 2148462632,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 2148465084,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 2148465148,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 18,
+    "onLanding": 0,
+    "onExtRstAnim": 2148461560,
+    "onIndexExtRstAnim": 2148461504,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148318144,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148491112,
+    "kirbySpecialNAir": 2148491376,
+    "kirbyOnSwallow": 0,
+    "kirbyOnLoseAbility": 0,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimpleKirby.thp",
+    "endAdventureFile": "GmRegendAdventureKirby.thp",
+    "endAllStarFile": "GmRegendAllstarKirby.thp",
+    "endMovieFile": "MvEndKirby.mth"
+  }
+}

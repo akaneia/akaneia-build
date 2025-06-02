@@ -1,0 +1,30 @@
+{
+  "name": "Big Blue",
+  "location": "F-Zero Grand Prix",
+  "seriesID": 0,
+  "fileName": "/GrBb.dat",
+  "additionalFiles": [],
+  "soundBank": 45,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408136,
+  "mapDescPointer": 2151557600,
+  "onStageInit": 2149472192,
+  "onStageLoad": 2149472712,
+  "onStageGo": 2149472716,
+  "onGo": 2149472188,
+  "onUnknown2": 2149472752,
+  "onTouchLine": 2149514252,
+  "onUnknown4": 2149514260,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151557432,
+  "movingCollisionCount": 28,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_034",
+    "banner": "sss\\icon_035"
+  }
+}

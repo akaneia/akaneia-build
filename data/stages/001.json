@@ -1,0 +1,30 @@
+{
+  "name": "Test Stage",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTe.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151406696,
+  "mapDescPointer": 2151569160,
+  "onStageInit": 2149609008,
+  "onStageLoad": 2149609492,
+  "onStageGo": 2149609496,
+  "onGo": 2149609004,
+  "onUnknown2": 2149609532,
+  "onTouchLine": 2149610508,
+  "onUnknown4": 2149610516,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151569080,
+  "movingCollisionCount": 13,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

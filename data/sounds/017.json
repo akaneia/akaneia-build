@@ -1,0 +1,113 @@
+{
+  "name": "Luigi",
+  "fileName": "luigi.ssm",
+  "groupFlags": 67240706,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_luigi"
+    },
+    {
+      "name": "se_luigi_demo1"
+    },
+    {
+      "name": "se_luigi_2big"
+    },
+    {
+      "name": "se_luigi_dokan"
+    },
+    {
+      "name": "se_luigi_fire_dasi"
+    },
+    {
+      "name": "se_luigi_sjp_hit"
+    },
+    {
+      "name": "se_luigi_sjp_jump"
+    },
+    {
+      "name": "se_luigi_spin"
+    },
+    {
+      "name": "se_luigi_spin2"
+    },
+    {
+      "name": "se_luigi_mant"
+    },
+    {
+      "name": "se_luigi_fireball"
+    },
+    {
+      "name": "se_luigi_giant"
+    },
+    {
+      "name": "se_luigi_zuzukitame"
+    },
+    {
+      "name": "se_luigi_zuzuki"
+    },
+    {
+      "name": "se_luigi_zuzuki_sp"
+    },
+    {
+      "name": "v_luigi_atk1"
+    },
+    {
+      "name": "v_luigi_atk2"
+    },
+    {
+      "name": "v_luigi_atk3"
+    },
+    {
+      "name": "v_luigi_atk4"
+    },
+    {
+      "name": "v_luigi_atk5"
+    },
+    {
+      "name": "v_luigi_gake"
+    },
+    {
+      "name": "v_luigi_hissatu"
+    },
+    {
+      "name": "v_luigi_hosikie"
+    },
+    {
+      "name": "v_luigi_hura"
+    },
+    {
+      "name": "v_luigi_jump"
+    },
+    {
+      "name": "v_luigi_jump2"
+    },
+    {
+      "name": "v_luigi_kirifuda"
+    },
+    {
+      "name": "v_luigi_motiage"
+    },
+    {
+      "name": "v_luigi_nemuru"
+    },
+    {
+      "name": "v_luigi_nemuru2"
+    },
+    {
+      "name": "v_luigi_otto"
+    },
+    {
+      "name": "v_luigi_rakka4"
+    },
+    {
+      "name": "v_luigi_yarare"
+    },
+    {
+      "name": "v_luigi_huttobi1"
+    },
+    {
+      "name": "v_luigi_huttobi2"
+    }
+  ]
+}

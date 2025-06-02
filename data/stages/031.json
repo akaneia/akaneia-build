@@ -1,0 +1,30 @@
+{
+  "name": "Mushroom Kingdom (Adventure)",
+  "location": "",
+  "seriesID": 6,
+  "fileName": "/GrNKr.dat",
+  "additionalFiles": [],
+  "soundBank": 49,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409096,
+  "mapDescPointer": 2151569392,
+  "onStageInit": 2149610528,
+  "onStageLoad": 2149610640,
+  "onStageGo": 2149610712,
+  "onGo": 2149610524,
+  "onUnknown2": 2149610820,
+  "onTouchLine": 2149615444,
+  "onUnknown4": 2149615452,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Yoshi\u0027s Story",
+  "location": "Yoshi\u0027s Island",
+  "seriesID": 12,
+  "fileName": "/GrSt.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407416,
+  "mapDescPointer": 2151556848,
+  "onStageInit": 2149462064,
+  "onStageLoad": 2149462184,
+  "onStageGo": 2149462188,
+  "onGo": 2149462060,
+  "onUnknown2": 2149462224,
+  "onTouchLine": 2149463760,
+  "onUnknown4": 2149463768,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_012",
+    "banner": "sss\\icon_013"
+  }
+}

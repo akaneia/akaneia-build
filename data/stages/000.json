@@ -1,0 +1,30 @@
+{
+  "name": "Null",
+  "location": "",
+  "seriesID": 11,
+  "fileName": null,
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151406616,
+  "mapDescPointer": 0,
+  "onStageInit": 2149318568,
+  "onStageLoad": 2149318568,
+  "onStageGo": 2149318568,
+  "onGo": 2149318572,
+  "onUnknown2": 0,
+  "onTouchLine": 0,
+  "onUnknown4": 0,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_086",
+    "banner": "sss\\icon_087"
+  }
+}

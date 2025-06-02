@@ -1,0 +1,30 @@
+{
+  "name": "Flat Zone",
+  "location": "Superflat World",
+  "seriesID": 3,
+  "fileName": "/GrFz.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408776,
+  "mapDescPointer": 2151577920,
+  "onStageInit": 2149674616,
+  "onStageLoad": 2149674808,
+  "onStageGo": 2149674812,
+  "onGo": 2149674612,
+  "onUnknown2": 2149674816,
+  "onTouchLine": 2149679796,
+  "onUnknown4": 2149679804,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_046",
+    "banner": "sss\\icon_047"
+  }
+}

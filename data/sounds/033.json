@@ -1,0 +1,158 @@
+{
+  "name": "Kirby Transformations",
+  "fileName": "kirbytm.ssm",
+  "groupFlags": 67240192,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_cp_koopa_breath1"
+    },
+    {
+      "name": "se_cp_koopa_breath2"
+    },
+    {
+      "name": "se_cp_koopa_breath3"
+    },
+    {
+      "name": "se_cp_koopa_breath4"
+    },
+    {
+      "name": "se_cp_samus_tame1"
+    },
+    {
+      "name": "se_cp_samus_tame2"
+    },
+    {
+      "name": "se_cp_samus_tame3"
+    },
+    {
+      "name": "se_cp_samus_tame4"
+    },
+    {
+      "name": "se_cp_samus_tame5"
+    },
+    {
+      "name": "se_cp_samus_cshot"
+    },
+    {
+      "name": "se_cp_dk_jpunch_guru"
+    },
+    {
+      "name": "se_cp_dk_jpunch_punch"
+    },
+    {
+      "name": "se_cp_ness_pkflush_dasi"
+    },
+    {
+      "name": "se_cp_ness_pkflush_flush"
+    },
+    {
+      "name": "se_cp_ness_psi"
+    },
+    {
+      "name": "se_cp_pikachu_denkidasu"
+    },
+    {
+      "name": "se_cp_pikachu_denkihasiru"
+    },
+    {
+      "name": "se_cp_captain_fpunch"
+    },
+    {
+      "name": "se_cp_fox_gunclose"
+    },
+    {
+      "name": "se_cp_fox_gunshot_newlr"
+    },
+    {
+      "name": "se_cp_fox_gunshot_newrl"
+    },
+    {
+      "name": "se_cp_fox_gunshot_newc"
+    },
+    {
+      "name": "se_cp_fox_gunset"
+    },
+    {
+      "name": "se_cp_mario_fireball"
+    },
+    {
+      "name": "se_cp_mario_fire_dasi"
+    },
+    {
+      "name": "se_cp_link_yumi_hit"
+    },
+    {
+      "name": "se_cp_link_yumi_shot"
+    },
+    {
+      "name": "se_cp_link_yumi_hiki"
+    },
+    {
+      "name": "v_cp_peach_kinopio"
+    },
+    {
+      "name": "se_cp_ice_get"
+    },
+    {
+      "name": "se_cp_ice_shot"
+    },
+    {
+      "name": "se_cp_yoshi_sita"
+    },
+    {
+      "name": "se_cp_yoshi_umi"
+    },
+    {
+      "name": "se_cp_yoshi_eggware"
+    },
+    {
+      "name": "se_cp_gw_hissatu_n"
+    },
+    {
+      "name": "se_cp_emblem_sbreak_kamae"
+    },
+    {
+      "name": "se_cp_emblem_sbreak_tame"
+    },
+    {
+      "name": "se_cp_emblem_sbreak"
+    },
+    {
+      "name": "se_cp_purin_goro1"
+    },
+    {
+      "name": "se_cp_purin_goro2"
+    },
+    {
+      "name": "se_cp_purin_gorojump"
+    },
+    {
+      "name": "se_cp_purin_spin"
+    },
+    {
+      "name": "se_cp_mewtwo_sball_hikou1"
+    },
+    {
+      "name": "se_cp_mewtwo_sball_shot_s"
+    },
+    {
+      "name": "se_cp_mewtwo_sball_tame1"
+    },
+    {
+      "name": "se_cp_zs_seak_haricount"
+    },
+    {
+      "name": "se_cp_zs_seak_harihit"
+    },
+    {
+      "name": "se_cp_zs_seak_harinage"
+    },
+    {
+      "name": "se_cp_zs_magic_atk1"
+    },
+    {
+      "name": "se_cp_zs_magic_atk3"
+    }
+  ]
+}

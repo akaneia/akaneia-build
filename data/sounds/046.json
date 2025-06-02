@@ -1,0 +1,14 @@
+{
+  "name": "Fourside",
+  "fileName": "fourside.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_fourside_ufo"
+    },
+    {
+      "name": "st_fourside_heli"
+    }
+  ]
+}

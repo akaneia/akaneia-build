@@ -1,0 +1,30 @@
+{
+  "name": "Battlefield",
+  "location": "Special Stages",
+  "seriesID": 16,
+  "fileName": "/GrNBa.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 56,
+  "reverbValue2": 56,
+  "collisionMaterials": 2151409496,
+  "mapDescPointer": 2151579040,
+  "onStageInit": 2149686436,
+  "onStageLoad": 2149686612,
+  "onStageGo": 2149686616,
+  "onGo": 2149686424,
+  "onUnknown2": 2149686652,
+  "onTouchLine": 2149688848,
+  "onUnknown4": 2149688856,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_048",
+    "banner": "sss\\icon_049"
+  }
+}

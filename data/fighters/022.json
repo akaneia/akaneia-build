@@ -1,0 +1,287 @@
+{
+  "name": "Falco",
+  "seriesID": 2,
+  "canWallJump": true,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 10,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 1024,
+  "announcerCall": 510004,
+  "victoryTheme": 16,
+  "fighterMusic1": 84,
+  "fighterMusic2": 84,
+  "targetTestStage": 38,
+  "classicTrophyId": 66,
+  "adventureTrophyId": 67,
+  "allStarTrophyId": 68,
+  "racetoTheFinishTime": 44,
+  "resultScreenScale": 1,
+  "endingScreenScale": 0.7,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 67,
+      "top": 0,
+      "trans": 1,
+      "xRot": 2,
+      "yRot": 3,
+      "hip": 4,
+      "waist": 255,
+      "lLegA": 5,
+      "lLeg": 6,
+      "lKnee": 7,
+      "lFootA": 8,
+      "lFoot": 9,
+      "rLegA": 11,
+      "rLeg": 12,
+      "rKnee": 13,
+      "rFootA": 14,
+      "rFoot": 15,
+      "waistB": 18,
+      "bust": 19,
+      "lClavicle": 21,
+      "lShoulderA": 22,
+      "lShoulder": 23,
+      "lArm": 24,
+      "lHand": 26,
+      "lIndex1": 27,
+      "lIndex2": 28,
+      "lMiddle1": 29,
+      "lMiddle2": 30,
+      "lRing1": 31,
+      "lRing2": 32,
+      "lPinky1": 33,
+      "lPinky2": 34,
+      "lHave": 255,
+      "lThumb1": 35,
+      "lThumb2": 36,
+      "neckN": 38,
+      "headN": 39,
+      "rClavicle": 47,
+      "rShoulderA": 48,
+      "rShoulder": 49,
+      "rArm": 50,
+      "rHand": 52,
+      "rIndex1": 53,
+      "rIndex2": 54,
+      "rMiddle1": 55,
+      "rMiddle2": 56,
+      "rRing1": 57,
+      "rRing2": 58,
+      "rPinky1": 59,
+      "rPinky2": 60,
+      "rHave": 61,
+      "rThumb1": 62,
+      "rThumb2": 63,
+      "throw": 65,
+      "extra": 66
+    },
+    "ext": []
+  },
+  "assets": {
+    "cssIcon": "css\\icon_020",
+    "resultBannerBig": "rst\\big_banner_021",
+    "resultSmallBig": "rst\\small_banner_021"
+  },
+  "redCostumeIndex": 1,
+  "blueCostumeIndex": 2,
+  "greenCostumeIndex": 3,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlFcNr.dat",
+        "jointSymbol": "PlyFalco5K_Share_joint",
+        "materialSymbol": "PlyFalco5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_143",
+      "csp": "csp\\csp_136"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlFcRe.dat",
+        "jointSymbol": "PlyFalco5KRe_Share_joint",
+        "materialSymbol": "PlyFalco5KRe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_144",
+      "csp": "csp\\csp_137"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlFcBu.dat",
+        "jointSymbol": "PlyFalco5KBu_Share_joint",
+        "materialSymbol": "PlyFalco5KBu_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_145",
+      "csp": "csp\\csp_138"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlFcGr.dat",
+        "jointSymbol": "PlyFalco5KGr_Share_joint",
+        "materialSymbol": "PlyFalco5KGr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_146",
+      "csp": "csp\\csp_139"
+    },
+    {
+      "name": "Pink",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlFcPi.dat",
+        "jointSymbol": "PlyFalco5KPi_Share_joint",
+        "materialSymbol": "PlyFalco5KPi_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_147",
+      "csp": "csp\\csp_140"
+    },
+    {
+      "name": "Orange",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlFcOr.dat",
+        "jointSymbol": "PlyFalco5KOr_Share_joint",
+        "materialSymbol": "PlyFalco5KOr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_148",
+      "csp": "csp\\csp_141"
+    }
+  ],
+  "kirbyCostumes": [
+    {
+      "fileName": "PlKbNrCpFc.dat",
+      "jointSymbol": "PlyKirbyFc_Share_joint",
+      "materialSymbol": "PlyKirbyFc_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbYeCpFc.dat",
+      "jointSymbol": "PlyKirbyFcYe_Share_joint",
+      "materialSymbol": "PlyKirbyFcYe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBuCpFc.dat",
+      "jointSymbol": "PlyKirbyFcBu_Share_joint",
+      "materialSymbol": "PlyKirbyFcBu_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbReCpFc.dat",
+      "jointSymbol": "PlyKirbyFcRe_Share_joint",
+      "materialSymbol": "PlyKirbyFcRe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbGrCpFc.dat",
+      "jointSymbol": "PlyKirbyFcGr_Share_joint",
+      "materialSymbol": "PlyKirbyFcGr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbWhCpFc.dat",
+      "jointSymbol": "PlyKirbyFcWh_Share_joint",
+      "materialSymbol": "PlyKirbyFcWh_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbLaCpFc.dat",
+      "jointSymbol": "PlyKirbyFc_Share_joint",
+      "materialSymbol": "PlyKirbyFc_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBrCpFc.dat",
+      "jointSymbol": "PlyKirbyFc_Share_joint",
+      "materialSymbol": "PlyKirbyFc_Share_matanim_joint"
+    }
+  ],
+  "hasKirbyCostumes": true,
+  "gaWData": null,
+  "files": {
+    "fighterDataPath": "PlFc.dat",
+    "fighterDataSymbol": "ftDataFalco",
+    "animFile": "PlFcAJ.dat",
+    "animCount": 327,
+    "demoFile": "PlFcDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileFalco",
+    "demoResult": "ftDemoResultMotionFileFalco",
+    "demoIntro": "ftDemoIntroMotionFileFalco",
+    "demoEnding": "ftDemoEndingMotionFileFalco",
+    "rstAnimFile": "GmRstMFc.dat",
+    "rstAnimCount": 14,
+    "effectFile": "EfFxData.dat",
+    "effectSymbol": "effFoxDataTable",
+    "kirbyCapFileName": "PlKbCpFc.dat",
+    "kirbyCapSymbol": "ftDataKirbyCopyFalco",
+    "kirbyEffectFile": "EfKbFx.dat",
+    "kirbyEffectSymbol": "effKirbyFoxDataTable"
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148834500,
+    "onRespawn": 2148833996,
+    "onDestroy": 0,
+    "moveLogicPointer": 2151487560,
+    "demoMoveLogicPointer": 0,
+    "specialN": 2148425868,
+    "specialNAir": 2148426152,
+    "specialHi": 2148430392,
+    "specialHiAir": 2148430532,
+    "specialLw": 2148435296,
+    "specialLwAir": 2148435436,
+    "specialS": 2148441832,
+    "specialSAir": 2148441964,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 0,
+    "onItemPickup": 2148834048,
+    "onMakeItemInvisible": 2148834272,
+    "onMakeItemVisible": 2148834344,
+    "onItemDrop": 2148834416,
+    "onItemCatch": 2148834048,
+    "onUnknownItemRelated": 2148834416,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 2148834652,
+    "eyeTextureNormal": 2148834760,
+    "onFrame": 0,
+    "onActionStateChange": 0,
+    "resetAttribute": 2148834620,
+    "onModelRender": 0,
+    "onShadowRender": 0,
+    "onUnknownMultijump": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 0,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 14,
+    "onLanding": 0,
+    "onExtRstAnim": 0,
+    "onIndexExtRstAnim": 0,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148318144,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148524288,
+    "kirbySpecialNAir": 2148524608,
+    "kirbyOnSwallow": 2148471564,
+    "kirbyOnLoseAbility": 2148471792,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimpleFalco.thp",
+    "endAdventureFile": "GmRegendAdventureFalco.thp",
+    "endAllStarFile": "GmRegendAllstarFalco.thp",
+    "endMovieFile": "MvEndFalco.mth"
+  }
+}

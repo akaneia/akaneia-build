@@ -1,0 +1,30 @@
+{
+  "name": "Great Bay",
+  "location": "Termina",
+  "seriesID": 13,
+  "fileName": "/GrGb.dat",
+  "additionalFiles": [],
+  "soundBank": 36,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407096,
+  "mapDescPointer": 2151562884,
+  "onStageInit": 2149532224,
+  "onStageLoad": 2149532368,
+  "onStageGo": 2149532372,
+  "onGo": 2149532220,
+  "onUnknown2": 2149532408,
+  "onTouchLine": 2149541900,
+  "onUnknown4": 2149541908,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151562848,
+  "movingCollisionCount": 6,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_008",
+    "banner": "sss\\icon_009"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Peach",
+  "fileName": "peach.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_peach"
+    },
+    {
+      "name": "v_peach_appeal"
+    },
+    {
+      "name": "v_peach_atk1"
+    },
+    {
+      "name": "v_peach_atk2"
+    },
+    {
+      "name": "v_peach_atk3"
+    },
+    {
+      "name": "v_peach_atk4"
+    },
+    {
+      "name": "v_peach_atk5"
+    },
+    {
+      "name": "v_peach_gake"
+    },
+    {
+      "name": "v_peach_hissatu"
+    },
+    {
+      "name": "v_peach_hosikie"
+    },
+    {
+      "name": "v_peach_hura"
+    },
+    {
+      "name": "v_peach_huttobi"
+    },
+    {
+      "name": "v_peach_huttobi2"
+    },
+    {
+      "name": "v_peach_motiage"
+    },
+    {
+      "name": "v_peach_nemuru"
+    },
+    {
+      "name": "v_peach_rakka4"
+    },
+    {
+      "name": "v_peach_yarare"
+    },
+    {
+      "name": "v_peach_otto"
+    },
+    {
+      "name": "v_peach_jump"
+    },
+    {
+      "name": "v_peach_win1"
+    },
+    {
+      "name": "v_peach_win2"
+    },
+    {
+      "name": "v_peach_kinopio"
+    },
+    {
+      "name": "se_peach_flyjump"
+    },
+    {
+      "name": "se_peach_kasa_atk"
+    },
+    {
+      "name": "se_peach_daikon1"
+    },
+    {
+      "name": "se_peach_daikon2"
+    },
+    {
+      "name": "se_peach_bomb"
+    },
+    {
+      "name": "se_peach_itemA"
+    },
+    {
+      "name": "se_peach_itemB"
+    },
+    {
+      "name": "se_peach_itemC"
+    }
+  ]
+}

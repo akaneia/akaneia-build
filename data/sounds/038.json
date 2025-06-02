@@ -1,0 +1,41 @@
+{
+  "name": "MuteCity",
+  "fileName": "mutecity.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_mutecity_crash_char"
+    },
+    {
+      "name": "st_mutecity_fzerocar3"
+    },
+    {
+      "name": "st_mutecity_fzerocar2"
+    },
+    {
+      "name": "st_mutecity_fzerocar1"
+    },
+    {
+      "name": "st_mutecity_fzerocar3_"
+    },
+    {
+      "name": "st_mutecity_fzerocar2_"
+    },
+    {
+      "name": "st_mutecity_fzerocar1_"
+    },
+    {
+      "name": "st_mutecity_crash3"
+    },
+    {
+      "name": "st_mutecity_crash2"
+    },
+    {
+      "name": "st_mutecity_crash1"
+    },
+    {
+      "name": "st_mutecity_moveinfo"
+    }
+  ]
+}

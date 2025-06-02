@@ -1,0 +1,29 @@
+{
+  "name": "Onett",
+  "fileName": "onett.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_onett_horn1"
+    },
+    {
+      "name": "st_onett_horn2"
+    },
+    {
+      "name": "st_onett_horn3"
+    },
+    {
+      "name": "st_onett_kanban1"
+    },
+    {
+      "name": "st_onett_tree1"
+    },
+    {
+      "name": "st_onett_car1_from_lc"
+    },
+    {
+      "name": "st_onett_carcrash1"
+    }
+  ]
+}

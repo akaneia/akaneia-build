@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Pikachu",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTPk.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411176,
+  "mapDescPointer": 2151584368,
+  "onStageInit": 2149723776,
+  "onStageLoad": 2149723888,
+  "onStageGo": 2149723892,
+  "onGo": 2149723772,
+  "onUnknown2": 2149723928,
+  "onTouchLine": 2149724496,
+  "onUnknown4": 2149724504,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

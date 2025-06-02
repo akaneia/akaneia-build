@@ -1,0 +1,43 @@
+{
+  "name": "Pokemon Stadium",
+  "location": "Kanto",
+  "seriesID": 9,
+  "fileName": "/GrPs",
+  "additionalFiles": [],
+  "soundBank": 48,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407896,
+  "mapDescPointer": 2151551596,
+  "onStageInit": 2149388316,
+  "onStageLoad": 2149388488,
+  "onStageGo": 2149388492,
+  "onGo": 2149388312,
+  "onUnknown2": 2149388528,
+  "onTouchLine": 2149404856,
+  "onUnknown4": 2149404864,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151551560,
+  "movingCollisionCount": 6,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 64,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 63,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 122,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_036",
+    "banner": "sss\\icon_037"
+  }
+}

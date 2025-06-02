@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Young Link",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTCl.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409976,
+  "mapDescPointer": 2151581392,
+  "onStageInit": 2149711688,
+  "onStageLoad": 2149711800,
+  "onStageGo": 2149711804,
+  "onGo": 2149711684,
+  "onUnknown2": 2149711840,
+  "onTouchLine": 2149712408,
+  "onUnknown4": 2149712416,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

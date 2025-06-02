@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Ness",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTNs.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410936,
+  "mapDescPointer": 2151583792,
+  "onStageInit": 2149721556,
+  "onStageLoad": 2149721668,
+  "onStageGo": 2149721672,
+  "onGo": 2149721552,
+  "onUnknown2": 2149721708,
+  "onTouchLine": 2149722276,
+  "onUnknown4": 2149722284,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Narrator VS",
+  "fileName": "nr_vs.ssm",
+  "groupFlags": 50594816,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "nr_nocontest"
+    },
+    {
+      "name": "nr_suddendeath"
+    },
+    {
+      "name": "nr_teamblue"
+    },
+    {
+      "name": "nr_teamgreen"
+    },
+    {
+      "name": "nr_teamred"
+    },
+    {
+      "name": "nr_thisgameswinner"
+    },
+    {
+      "name": "nr_wins"
+    }
+  ]
+}

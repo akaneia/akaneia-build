@@ -1,0 +1,30 @@
+{
+  "name": "Underground Maze",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrNSr.dat",
+  "additionalFiles": [],
+  "soundBank": 49,
+  "reverbValue1": 72,
+  "reverbValue2": 72,
+  "collisionMaterials": 2151409176,
+  "mapDescPointer": 2151569648,
+  "onStageInit": 2149615548,
+  "onStageLoad": 2149615660,
+  "onStageGo": 2149615696,
+  "onGo": 2149615544,
+  "onUnknown2": 2149615800,
+  "onTouchLine": 2149626116,
+  "onUnknown4": 2149626124,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Jigglypuff",
+  "fileName": "purin.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_purin"
+    },
+    {
+      "name": "v_purin_appeal"
+    },
+    {
+      "name": "v_purin_atk1"
+    },
+    {
+      "name": "v_purin_atk2"
+    },
+    {
+      "name": "v_purin_atk3"
+    },
+    {
+      "name": "v_purin_atk4"
+    },
+    {
+      "name": "v_purin_atk5"
+    },
+    {
+      "name": "v_purin_hosikie"
+    },
+    {
+      "name": "v_purin_hura"
+    },
+    {
+      "name": "v_purin_huttobi1"
+    },
+    {
+      "name": "v_purin_huttobi2"
+    },
+    {
+      "name": "v_purin_rakka4"
+    },
+    {
+      "name": "v_purin_sing1"
+    },
+    {
+      "name": "v_purin_sing2"
+    },
+    {
+      "name": "v_purin_hissatu"
+    },
+    {
+      "name": "v_purin_nemuru"
+    },
+    {
+      "name": "v_purin_sleepin"
+    },
+    {
+      "name": "v_purin_sleepout"
+    },
+    {
+      "name": "se_purin_goro1"
+    },
+    {
+      "name": "se_purin_goro2"
+    },
+    {
+      "name": "se_purin_gorojump"
+    },
+    {
+      "name": "se_purin_spin"
+    },
+    {
+      "name": "se_bubbles"
+    }
+  ]
+}

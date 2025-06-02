@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Bowser",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTKp.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410536,
+  "mapDescPointer": 2151582832,
+  "onStageInit": 2149717580,
+  "onStageLoad": 2149717692,
+  "onStageGo": 2149717696,
+  "onGo": 2149717576,
+  "onUnknown2": 2149717732,
+  "onTouchLine": 2149718300,
+  "onUnknown4": 2149718308,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

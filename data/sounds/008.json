@@ -1,0 +1,77 @@
+{
+  "name": "Donkey Kong",
+  "fileName": "dk.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_dk"
+    },
+    {
+      "name": "se_dk_demo1"
+    },
+    {
+      "name": "se_dk_demo2"
+    },
+    {
+      "name": "se_dk_demo3"
+    },
+    {
+      "name": "se_dk_demo4"
+    },
+    {
+      "name": "se_dk_demo5"
+    },
+    {
+      "name": "se_dk_demo6"
+    },
+    {
+      "name": "se_dk_jpunch_guru"
+    },
+    {
+      "name": "se_dk_jpunch_punch"
+    },
+    {
+      "name": "se_dk_head"
+    },
+    {
+      "name": "se_dk_spin"
+    },
+    {
+      "name": "se_dk_hsrup"
+    },
+    {
+      "name": "se_dk_hshake"
+    },
+    {
+      "name": "v_dk_atk1"
+    },
+    {
+      "name": "v_dk_atk3"
+    },
+    {
+      "name": "v_dk_hissatu"
+    },
+    {
+      "name": "v_dk_hosikie"
+    },
+    {
+      "name": "v_dk_huttobi"
+    },
+    {
+      "name": "v_dk_hura"
+    },
+    {
+      "name": "v_dk_kirifuda"
+    },
+    {
+      "name": "v_dk_motiage"
+    },
+    {
+      "name": "v_dk_nemuri"
+    },
+    {
+      "name": "v_dk_rakka4"
+    }
+  ]
+}

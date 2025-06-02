@@ -1,0 +1,43 @@
+{
+  "name": "Temple",
+  "location": "Hyrule",
+  "seriesID": 13,
+  "fileName": "/GrSh.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 24,
+  "reverbValue2": 24,
+  "collisionMaterials": 2151407176,
+  "mapDescPointer": 2151567592,
+  "onStageInit": 2149588068,
+  "onStageLoad": 2149588208,
+  "onStageGo": 2149588212,
+  "onGo": 2149588064,
+  "onUnknown2": 2149588248,
+  "onTouchLine": 2149588804,
+  "onUnknown4": 2149588812,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 75,
+        "chanceToPlay": 90
+      },
+      {
+        "musicID": 130,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 1,
+        "chanceToPlay": 16
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_010",
+    "banner": "sss\\icon_011"
+  }
+}

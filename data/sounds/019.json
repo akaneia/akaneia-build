@@ -1,0 +1,146 @@
+{
+  "name": "Marth",
+  "fileName": "mars.ssm",
+  "groupFlags": 67240711,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_mars"
+    },
+    {
+      "name": "se_mars_sw_demo_simau"
+    },
+    {
+      "name": "se_mars_sw_demo_nuki"
+    },
+    {
+      "name": "se_mars_sw_demo1"
+    },
+    {
+      "name": "se_mars_sw_demo2"
+    },
+    {
+      "name": "se_mars_sw_demo3"
+    },
+    {
+      "name": "se_mars_sw_demo4"
+    },
+    {
+      "name": "v_mars_atk10"
+    },
+    {
+      "name": "v_mars_atk1"
+    },
+    {
+      "name": "v_mars_atk2"
+    },
+    {
+      "name": "v_mars_atk3"
+    },
+    {
+      "name": "v_mars_atk4"
+    },
+    {
+      "name": "v_mars_atk5"
+    },
+    {
+      "name": "v_mars_atk6"
+    },
+    {
+      "name": "v_mars_atk7"
+    },
+    {
+      "name": "v_mars_atk8"
+    },
+    {
+      "name": "v_mars_bokuwa"
+    },
+    {
+      "name": "v_mars_count1"
+    },
+    {
+      "name": "v_mars_count2"
+    },
+    {
+      "name": "v_mars_count3"
+    },
+    {
+      "name": "v_mars_dolphin"
+    },
+    {
+      "name": "v_mars_gake"
+    },
+    {
+      "name": "v_mars_hosikie"
+    },
+    {
+      "name": "v_mars_hura"
+    },
+    {
+      "name": "v_mars_huttobi"
+    },
+    {
+      "name": "v_mars_huttobi2"
+    },
+    {
+      "name": "v_mars_jump"
+    },
+    {
+      "name": "v_mars_konkaiwa"
+    },
+    {
+      "name": "v_mars_kyoumo"
+    },
+    {
+      "name": "v_mars_letsdance"
+    },
+    {
+      "name": "v_mars_miteite"
+    },
+    {
+      "name": "v_mars_motiage"
+    },
+    {
+      "name": "v_mars_nemuru"
+    },
+    {
+      "name": "v_mars_otto"
+    },
+    {
+      "name": "v_mars_rakka4"
+    },
+    {
+      "name": "v_mars_shiedbreak"
+    },
+    {
+      "name": "v_mars_yarare"
+    },
+    {
+      "name": "se_mars_counter_kamae"
+    },
+    {
+      "name": "se_mars_counter"
+    },
+    {
+      "name": "se_mars_sbreak_tame"
+    },
+    {
+      "name": "se_mars_sbreak"
+    },
+    {
+      "name": "se_mars_dolphin"
+    },
+    {
+      "name": "se_mars_sw_conbo1"
+    },
+    {
+      "name": "se_mars_sw_conbo2"
+    },
+    {
+      "name": "se_mars_sw_conbo3"
+    },
+    {
+      "name": "se_mars_sw_conbo4"
+    }
+  ]
+}

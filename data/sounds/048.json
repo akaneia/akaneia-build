@@ -1,0 +1,14 @@
+{
+  "name": "Pokemon Stadium",
+  "fileName": "pstadium.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_pstadium_jisin"
+    },
+    {
+      "name": "st_pstadium_change"
+    }
+  ]
+}

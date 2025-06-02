@@ -1,0 +1,143 @@
+{
+  "name": "Roy",
+  "fileName": "emblem.ssm",
+  "groupFlags": 67240710,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_emblem"
+    },
+    {
+      "name": "se_emblem_sw_demo4"
+    },
+    {
+      "name": "se_emblem_sw_demo5"
+    },
+    {
+      "name": "se_emblem_sw_demo1"
+    },
+    {
+      "name": "se_emblem_sw_demo2"
+    },
+    {
+      "name": "se_emblem_sw_demo3"
+    },
+    {
+      "name": "v_emblem_atk1"
+    },
+    {
+      "name": "v_emblem_atk2"
+    },
+    {
+      "name": "v_emblem_atk3"
+    },
+    {
+      "name": "v_emblem_atk4"
+    },
+    {
+      "name": "v_emblem_atk5"
+    },
+    {
+      "name": "v_emblem_atk6"
+    },
+    {
+      "name": "v_emblem_atk7"
+    },
+    {
+      "name": "v_emblem_atk8"
+    },
+    {
+      "name": "v_emblem_atk9"
+    },
+    {
+      "name": "v_emblem_atk10"
+    },
+    {
+      "name": "v_emblem_makenai"
+    },
+    {
+      "name": "v_emblem_dolphin"
+    },
+    {
+      "name": "v_emblem_gake"
+    },
+    {
+      "name": "v_emblem_hosikie"
+    },
+    {
+      "name": "v_emblem_hura"
+    },
+    {
+      "name": "v_emblem_huttobi1"
+    },
+    {
+      "name": "v_emblem_huttobi2"
+    },
+    {
+      "name": "v_emblem_counter_haa"
+    },
+    {
+      "name": "v_emblem_counter_imada"
+    },
+    {
+      "name": "v_emblem_counter_soko"
+    },
+    {
+      "name": "v_emblem_jump"
+    },
+    {
+      "name": "v_emblem_kurusii"
+    },
+    {
+      "name": "v_emblem_mamorubeki"
+    },
+    {
+      "name": "v_emblem_motiage"
+    },
+    {
+      "name": "v_emblem_otto"
+    },
+    {
+      "name": "v_emblem_rakka4"
+    },
+    {
+      "name": "v_emblem_shieldbreaker"
+    },
+    {
+      "name": "v_emblem_sinno"
+    },
+    {
+      "name": "v_emblem_nemuru"
+    },
+    {
+      "name": "v_emblem_yarare"
+    },
+    {
+      "name": "se_emblem_counter_kamae"
+    },
+    {
+      "name": "se_emblem_counter"
+    },
+    {
+      "name": "se_emblem_sbreak_tame"
+    },
+    {
+      "name": "se_emblem_sbreak"
+    },
+    {
+      "name": "se_emblem_dolphin"
+    },
+    {
+      "name": "se_emblem_sw_conbo1"
+    },
+    {
+      "name": "se_emblem_sw_conbo2"
+    },
+    {
+      "name": "se_emblem_sw_conbo3"
+    },
+    {
+      "name": "se_emblem_sw_conbo4"
+    }
+  ]
+}

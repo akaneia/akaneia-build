@@ -1,0 +1,119 @@
+{
+  "name": "Link",
+  "fileName": "link.ssm",
+  "groupFlags": 67240711,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_link"
+    },
+    {
+      "name": "se_link_demo1"
+    },
+    {
+      "name": "se_link_demo4"
+    },
+    {
+      "name": "se_link_demo5"
+    },
+    {
+      "name": "se_link_demo6"
+    },
+    {
+      "name": "v_link_appeal1"
+    },
+    {
+      "name": "v_link_atk1"
+    },
+    {
+      "name": "v_link_atk2"
+    },
+    {
+      "name": "v_link_atk3"
+    },
+    {
+      "name": "v_link_atk4"
+    },
+    {
+      "name": "v_link_atk5"
+    },
+    {
+      "name": "v_link_gake"
+    },
+    {
+      "name": "v_link_yarare"
+    },
+    {
+      "name": "v_link_hissatu"
+    },
+    {
+      "name": "v_link_hosikie"
+    },
+    {
+      "name": "v_link_hura"
+    },
+    {
+      "name": "v_link_huttobi"
+    },
+    {
+      "name": "v_link_jump1"
+    },
+    {
+      "name": "v_link_jump2"
+    },
+    {
+      "name": "v_link_motiage"
+    },
+    {
+      "name": "v_link_otto"
+    },
+    {
+      "name": "v_link_rakka4"
+    },
+    {
+      "name": "v_link_ukemi"
+    },
+    {
+      "name": "se_link_yumi_shot"
+    },
+    {
+      "name": "se_link_yumi_hiki"
+    },
+    {
+      "name": "se_link_fshot_nobiru"
+    },
+    {
+      "name": "se_link_fshot_simau"
+    },
+    {
+      "name": "se_link_fshot_oti"
+    },
+    {
+      "name": "se_link_yumi_hit"
+    },
+    {
+      "name": "se_link_bomb_bang"
+    },
+    {
+      "name": "se_link_bmrun_dasi"
+    },
+    {
+      "name": "se_link_bmrun"
+    },
+    {
+      "name": "se_link_bomb_dasi"
+    },
+    {
+      "name": "se_link_guru"
+    },
+    {
+      "name": "se_link_bmrun_ukeru"
+    },
+    {
+      "name": "se_link_sitatuki"
+    },
+    {
+      "name": "se_link_ref"
+    }
+  ]
+}

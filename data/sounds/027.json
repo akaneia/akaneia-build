@@ -1,0 +1,194 @@
+{
+  "name": "Zelda/Sheik",
+  "fileName": "zs.ssm",
+  "groupFlags": 67240706,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_seak"
+    },
+    {
+      "name": "se_call_zelda"
+    },
+    {
+      "name": "v_zs_zelda_atk1"
+    },
+    {
+      "name": "v_zs_zelda_atk2"
+    },
+    {
+      "name": "v_zs_zelda_atk3"
+    },
+    {
+      "name": "v_zs_zelda_atk4"
+    },
+    {
+      "name": "v_zs_zelda_atk5"
+    },
+    {
+      "name": "v_zs_zelda_change"
+    },
+    {
+      "name": "v_zs_zelda_dd"
+    },
+    {
+      "name": "v_zs_zelda_ff"
+    },
+    {
+      "name": "v_zs_zelda_fire"
+    },
+    {
+      "name": "v_zs_zelda_hosikie"
+    },
+    {
+      "name": "v_zs_zelda_hura"
+    },
+    {
+      "name": "v_zs_zelda_huttobi1"
+    },
+    {
+      "name": "v_zs_zelda_huttobi2"
+    },
+    {
+      "name": "v_zs_zelda_motiage"
+    },
+    {
+      "name": "v_zs_zelda_nemuru"
+    },
+    {
+      "name": "v_zs_zelda_nn"
+    },
+    {
+      "name": "v_zs_zelda_n_ai"
+    },
+    {
+      "name": "v_zs_zelda_otto"
+    },
+    {
+      "name": "v_zs_zelda_rakka4"
+    },
+    {
+      "name": "v_zs_zelda_yarare"
+    },
+    {
+      "name": "v_zs_seak_appeal"
+    },
+    {
+      "name": "v_zs_seak_atk1"
+    },
+    {
+      "name": "v_zs_seak_atk2"
+    },
+    {
+      "name": "v_zs_seak_atk3"
+    },
+    {
+      "name": "v_zs_seak_atk4"
+    },
+    {
+      "name": "v_zs_seak_atk5"
+    },
+    {
+      "name": "v_zs_seak_change"
+    },
+    {
+      "name": "v_zs_seak_gake"
+    },
+    {
+      "name": "v_zs_seak_haa"
+    },
+    {
+      "name": "v_zs_seak_hosikie"
+    },
+    {
+      "name": "v_zs_seak_hura"
+    },
+    {
+      "name": "v_zs_seak_huttobi1"
+    },
+    {
+      "name": "v_zs_seak_huttobi2"
+    },
+    {
+      "name": "v_zs_seak_jump"
+    },
+    {
+      "name": "v_zs_seak_motiage"
+    },
+    {
+      "name": "v_zs_seak_moratta"
+    },
+    {
+      "name": "v_zs_seak_nemuru"
+    },
+    {
+      "name": "v_zs_seak_otto"
+    },
+    {
+      "name": "v_zs_seak_rakka4"
+    },
+    {
+      "name": "v_zs_seak_sikomi"
+    },
+    {
+      "name": "v_zs_seak_tele"
+    },
+    {
+      "name": "v_zs_seak_yarare"
+    },
+    {
+      "name": "se_zs_seak_fusin"
+    },
+    {
+      "name": "se_zs_seak_fusin2"
+    },
+    {
+      "name": "se_zs_seak_haricount"
+    },
+    {
+      "name": "se_zs_seak_harihit"
+    },
+    {
+      "name": "se_zs_seak_harinage"
+    },
+    {
+      "name": "se_zs_seak_itonage"
+    },
+    {
+      "name": "se_zs_seak_itohiki"
+    },
+    {
+      "name": "se_zs_seak_itooti"
+    },
+    {
+      "name": "se_zs_change"
+    },
+    {
+      "name": "se_zs_zelda_waza_yoko"
+    },
+    {
+      "name": "se_zs_zelda_waza_ue1"
+    },
+    {
+      "name": "se_zs_zelda_catch2"
+    },
+    {
+      "name": "se_zs_hissatu_kaze"
+    },
+    {
+      "name": "se_zs_fire_dasi"
+    },
+    {
+      "name": "se_zs_fire_atk"
+    },
+    {
+      "name": "se_zs_magic_atk1"
+    },
+    {
+      "name": "se_zs_magic_atk2"
+    },
+    {
+      "name": "se_zs_magic_atk3"
+    }
+  ]
+}

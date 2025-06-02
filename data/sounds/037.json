@@ -1,0 +1,14 @@
+{
+  "name": "Kongo",
+  "fileName": "kongo.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_kongo_pukapuka"
+    },
+    {
+      "name": "st_kongo_junglese"
+    }
+  ]
+}

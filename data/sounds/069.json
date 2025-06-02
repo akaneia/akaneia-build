@@ -1,0 +1,23 @@
+{
+  "name": "Green Hill Zone",
+  "fileName": "greenhill.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_ghill_checkpoint"
+    },
+    {
+      "name": "st_ghill_break1"
+    },
+    {
+      "name": "st_ghill_break2"
+    },
+    {
+      "name": "st_ghill_cp_up"
+    },
+    {
+      "name": "st_ghill_cp_down"
+    }
+  ]
+}

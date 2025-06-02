@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Samus",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTSs.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411336,
+  "mapDescPointer": 2151584760,
+  "onStageInit": 2149725572,
+  "onStageLoad": 2149725684,
+  "onStageGo": 2149725688,
+  "onGo": 2149725568,
+  "onUnknown2": 2149725724,
+  "onTouchLine": 2149726292,
+  "onUnknown4": 2149726300,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

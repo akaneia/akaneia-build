@@ -1,0 +1,30 @@
+{
+  "name": "Kingdom",
+  "location": "Mushroom",
+  "seriesID": 6,
+  "fileName": "/GrI1.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408536,
+  "mapDescPointer": 2151565556,
+  "onStageInit": 2149558540,
+  "onStageLoad": 2149558660,
+  "onStageGo": 2149558664,
+  "onGo": 2149558536,
+  "onUnknown2": 2149558700,
+  "onTouchLine": 2149567408,
+  "onUnknown4": 2149567416,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151565512,
+  "movingCollisionCount": 7,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_040",
+    "banner": "sss\\icon_041"
+  }
+}

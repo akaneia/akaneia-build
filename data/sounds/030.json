@@ -1,0 +1,92 @@
+{
+  "name": "Ganondorf",
+  "fileName": "ganon.ssm",
+  "groupFlags": 67240711,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_ganon"
+    },
+    {
+      "name": "se_ganon_demo1"
+    },
+    {
+      "name": "se_ganon_demo2"
+    },
+    {
+      "name": "se_ganon_demo3"
+    },
+    {
+      "name": "se_ganon_demo4"
+    },
+    {
+      "name": "se_ganon_demo5"
+    },
+    {
+      "name": "se_ganon_demo6"
+    },
+    {
+      "name": "v_ganon_appeal"
+    },
+    {
+      "name": "v_ganon_atk1"
+    },
+    {
+      "name": "v_ganon_atk2"
+    },
+    {
+      "name": "v_ganon_atk3"
+    },
+    {
+      "name": "v_ganon_atk4"
+    },
+    {
+      "name": "v_ganon_atk5"
+    },
+    {
+      "name": "v_ganon_motiage"
+    },
+    {
+      "name": "v_ganon_hura"
+    },
+    {
+      "name": "v_ganon_gake"
+    },
+    {
+      "name": "v_ganon_kirifuda"
+    },
+    {
+      "name": "v_ganon_nemuru1"
+    },
+    {
+      "name": "v_ganon_nemuru2"
+    },
+    {
+      "name": "v_ganon_rakka4"
+    },
+    {
+      "name": "v_ganon_hosikie"
+    },
+    {
+      "name": "v_ganon_huttobi"
+    },
+    {
+      "name": "v_ganon_huttobi2"
+    },
+    {
+      "name": "v_ganon_hissatu1"
+    },
+    {
+      "name": "v_ganon_hissatu2"
+    },
+    {
+      "name": "se_ganon_fireatk"
+    },
+    {
+      "name": "se_ganon_fpunch"
+    },
+    {
+      "name": "se_ganon_fdive"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Game and Watch",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTGw.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411656,
+  "mapDescPointer": 2151585528,
+  "onStageInit": 2149728532,
+  "onStageLoad": 2149728644,
+  "onStageGo": 2149728648,
+  "onGo": 2149728528,
+  "onUnknown2": 2149728684,
+  "onTouchLine": 2149729252,
+  "onUnknown4": 2149729260,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

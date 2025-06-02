@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Mario",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTMr.dat",
+  "additionalFiles": [],
+  "soundBank": 49,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409816,
+  "mapDescPointer": 2151581000,
+  "onStageInit": 2149709892,
+  "onStageLoad": 2149710004,
+  "onStageGo": 2149710008,
+  "onGo": 2149709888,
+  "onUnknown2": 2149710044,
+  "onTouchLine": 2149710928,
+  "onUnknown4": 2149710936,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Wolf",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTWf.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410296,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 2149714820,
+  "onStageLoad": 2149714940,
+  "onStageGo": 2149714944,
+  "onGo": 2149714816,
+  "onUnknown2": 2149714980,
+  "onTouchLine": 2149715548,
+  "onUnknown4": 2149715720,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_068",
+    "banner": "sss\\icon_069"
+  }
+}

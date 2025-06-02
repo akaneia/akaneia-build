@@ -1,0 +1,68 @@
+{
+  "name": "Master Hand",
+  "fileName": "mhands.ssm",
+  "groupFlags": 67240192,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "v_mhands_damage"
+    },
+    {
+      "name": "v_mhands_hahaha1"
+    },
+    {
+      "name": "v_mhands_hahaha2"
+    },
+    {
+      "name": "se_mhands_canon"
+    },
+    {
+      "name": "se_mhands_fingeray1"
+    },
+    {
+      "name": "se_mhands_swish_s"
+    },
+    {
+      "name": "se_mhands_swish_l"
+    },
+    {
+      "name": "se_mhands_oku_hikou_start"
+    },
+    {
+      "name": "se_mhands_oku_hikou_come"
+    },
+    {
+      "name": "se_mhands_oku_hikou_come2"
+    },
+    {
+      "name": "se_mhands_goo_atk"
+    },
+    {
+      "name": "se_mhands_paa_atk"
+    },
+    {
+      "name": "se_mhands_catch"
+    },
+    {
+      "name": "se_mhands_nigiru"
+    },
+    {
+      "name": "se_mhands_doriru"
+    },
+    {
+      "name": "se_mhands_fwalk1"
+    },
+    {
+      "name": "se_mhands_jisin"
+    },
+    {
+      "name": "se_mhands_death1"
+    },
+    {
+      "name": "se_mhands_elec1"
+    },
+    {
+      "name": "se_mhands_elec2"
+    }
+  ]
+}

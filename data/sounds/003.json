@@ -1,0 +1,77 @@
+{
+  "name": "Narrator Select",
+  "fileName": "nr_select.ssm",
+  "groupFlags": 50331648,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "nr_multimanmelee"
+    },
+    {
+      "name": "nr_hrcontest"
+    },
+    {
+      "name": "nr_trainingmd"
+    },
+    {
+      "name": "nr_allstar"
+    },
+    {
+      "name": "nr_chooschara"
+    },
+    {
+      "name": "nr_battleroyal"
+    },
+    {
+      "name": "nr_decision"
+    },
+    {
+      "name": "nr_getcoins"
+    },
+    {
+      "name": "nr_survival"
+    },
+    {
+      "name": "nr_tournamentmd"
+    },
+    {
+      "name": "nr_camera"
+    },
+    {
+      "name": "nr_stamina"
+    },
+    {
+      "name": "nr_super_sd"
+    },
+    {
+      "name": "nr_giantmelee"
+    },
+    {
+      "name": "nr_tinymelee"
+    },
+    {
+      "name": "nr_invisiblemelee"
+    },
+    {
+      "name": "nr_fixed_camera"
+    },
+    {
+      "name": "nr_1button"
+    },
+    {
+      "name": "nr_howtoply"
+    },
+    {
+      "name": "nr_complayer"
+    },
+    {
+      "name": "nr_stockplyerremove"
+    },
+    {
+      "name": "nr_winner_dropout"
+    },
+    {
+      "name": "nr_loser_dropout"
+    }
+  ]
+}

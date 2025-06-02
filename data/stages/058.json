@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Jigglypuff",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTPr.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411256,
+  "mapDescPointer": 2151584568,
+  "onStageInit": 2149724516,
+  "onStageLoad": 2149724636,
+  "onStageGo": 2149724640,
+  "onGo": 2149724512,
+  "onUnknown2": 2149724676,
+  "onTouchLine": 2149725432,
+  "onUnknown4": 2149725560,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

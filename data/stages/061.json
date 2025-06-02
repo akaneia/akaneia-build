@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Yoshi",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTYs.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411496,
+  "mapDescPointer": 2151585144,
+  "onStageInit": 2149727052,
+  "onStageLoad": 2149727164,
+  "onStageGo": 2149727168,
+  "onGo": 2149727048,
+  "onUnknown2": 2149727204,
+  "onTouchLine": 2149727772,
+  "onUnknown4": 2149727780,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

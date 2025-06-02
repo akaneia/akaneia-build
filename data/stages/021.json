@@ -1,0 +1,30 @@
+{
+  "name": "Fourside",
+  "location": "Eagleland",
+  "seriesID": 8,
+  "fileName": "/GrFs.dat",
+  "additionalFiles": [],
+  "soundBank": 46,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408296,
+  "mapDescPointer": 2151562492,
+  "onStageInit": 2149526800,
+  "onStageLoad": 2149526944,
+  "onStageGo": 2149526948,
+  "onGo": 2149526796,
+  "onUnknown2": 2149526984,
+  "onTouchLine": 2149532128,
+  "onUnknown4": 2149532136,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151562472,
+  "movingCollisionCount": 3,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_030",
+    "banner": "sss\\icon_031"
+  }
+}

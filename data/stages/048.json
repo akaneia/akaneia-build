@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Kirby",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTKb.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410456,
+  "mapDescPointer": 2151582640,
+  "onStageInit": 2149716840,
+  "onStageLoad": 2149716952,
+  "onStageGo": 2149716956,
+  "onGo": 2149716836,
+  "onUnknown2": 2149716992,
+  "onTouchLine": 2149717560,
+  "onUnknown4": 2149717568,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

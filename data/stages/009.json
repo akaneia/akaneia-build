@@ -1,0 +1,30 @@
+{
+  "name": "Brinstar Depths",
+  "location": "Planet Zebes",
+  "seriesID": 10,
+  "fileName": "/GrKr.dat",
+  "additionalFiles": [],
+  "soundBank": 42,
+  "reverbValue1": 128,
+  "reverbValue2": 128,
+  "collisionMaterials": 2151407336,
+  "mapDescPointer": 2151566492,
+  "onStageInit": 2149572604,
+  "onStageLoad": 2149572756,
+  "onStageGo": 2149572760,
+  "onGo": 2149572600,
+  "onUnknown2": 2149572796,
+  "onTouchLine": 2149577044,
+  "onUnknown4": 2149577052,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151566456,
+  "movingCollisionCount": 6,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_026",
+    "banner": "sss\\icon_027"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "name": "Saffron City 64",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrOSf.dat",
+  "additionalFiles": [],
+  "soundBank": 59,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408856,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 2149648352,
+  "onStageLoad": 2149648516,
+  "onStageGo": 2149648520,
+  "onGo": 2149648348,
+  "onUnknown2": 2149648556,
+  "onTouchLine": 2149653664,
+  "onUnknown4": 2149653672,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [
+        {
+          "animID": -1,
+          "animationCallback": 2150093072,
+          "physicsCallback": 2150093080,
+          "collisionCallback": 2150093084,
+          "trimmedSize": -1
+        },
+        {
+          "animID": -1,
+          "animationCallback": 2150093168,
+          "physicsCallback": 2150093176,
+          "collisionCallback": 2150093224,
+          "trimmedSize": -1
+        },
+        {
+          "animID": -1,
+          "animationCallback": 2150093308,
+          "physicsCallback": 2150093316,
+          "collisionCallback": 0,
+          "trimmedSize": -1
+        },
+        {
+          "animID": 0,
+          "animationCallback": 2150093168,
+          "physicsCallback": 2150093400,
+          "collisionCallback": 2150093476,
+          "trimmedSize": -1
+        },
+        {
+          "animID": 0,
+          "animationCallback": 2150093168,
+          "physicsCallback": 2150093176,
+          "collisionCallback": 2150093224,
+          "trimmedSize": -1
+        },
+        {
+          "animID": 1,
+          "animationCallback": 2150093580,
+          "physicsCallback": 2150093612,
+          "collisionCallback": 2150093616,
+          "trimmedSize": -1
+        },
+        {
+          "animID": -1,
+          "animationCallback": 2150093944,
+          "physicsCallback": 2150093952,
+          "collisionCallback": 2150093956,
+          "trimmedSize": -1
+        }
+      ],
+      "onSpawn": 2150092544,
+      "onDestroy": 0,
+      "onPickup": 2150093268,
+      "onDrop": 2150093320,
+      "onThrow": 2150093360,
+      "onGiveDamage": 2150093624,
+      "onTakeDamage": 2150093844,
+      "onEnterAir": 2150093904,
+      "onReflect": 2150094068,
+      "onClank": 2150094008,
+      "onUnk2": 0,
+      "onHitShieldBounce": 2150094356,
+      "onHitShieldDetermineDestroy": 2150094128,
+      "onUnk3": 2150094416
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    }
+  ],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 102,
+        "chanceToPlay": 100
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_058",
+    "banner": "sss\\icon_059"
+  }
+}

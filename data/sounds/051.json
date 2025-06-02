@@ -1,0 +1,167 @@
+{
+  "name": "Narrator Names",
+  "fileName": "nr_name.ssm",
+  "groupFlags": 33883392,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "nr_captain"
+    },
+    {
+      "name": "nr_donkey"
+    },
+    {
+      "name": "nr_drmario"
+    },
+    {
+      "name": "nr_zakoteam"
+    },
+    {
+      "name": "nr_falco"
+    },
+    {
+      "name": "nr_fox"
+    },
+    {
+      "name": "nr_ganon"
+    },
+    {
+      "name": "nr_giant"
+    },
+    {
+      "name": "nr_gigakoopa"
+    },
+    {
+      "name": "nr_gigaboucer"
+    },
+    {
+      "name": "nr_mrgamewatch"
+    },
+    {
+      "name": "nr_iceclimber"
+    },
+    {
+      "name": "nr_emblem"
+    },
+    {
+      "name": "nr_purin"
+    },
+    {
+      "name": "nr_jigglypuff"
+    },
+    {
+      "name": "nr_kirby"
+    },
+    {
+      "name": "nr_koopa"
+    },
+    {
+      "name": "nr_boucer"
+    },
+    {
+      "name": "nr_link"
+    },
+    {
+      "name": "nr_younglink"
+    },
+    {
+      "name": "nr_luigi"
+    },
+    {
+      "name": "nr_mario"
+    },
+    {
+      "name": "nr_marth"
+    },
+    {
+      "name": "nr_metal"
+    },
+    {
+      "name": "nr_mewtwo"
+    },
+    {
+      "name": "nr_masterhands"
+    },
+    {
+      "name": "nr_ness"
+    },
+    {
+      "name": "nr_peach"
+    },
+    {
+      "name": "nr_pichu"
+    },
+    {
+      "name": "nr_pikachu"
+    },
+    {
+      "name": "nr_samus"
+    },
+    {
+      "name": "nr_yoshi"
+    },
+    {
+      "name": "nr_shiek"
+    },
+    {
+      "name": "nr_zelda"
+    },
+    {
+      "name": "nr_defeated"
+    },
+    {
+      "name": "nr_five"
+    },
+    {
+      "name": "nr_four"
+    },
+    {
+      "name": "nr_gameset"
+    },
+    {
+      "name": "nr_go"
+    },
+    {
+      "name": "nr_one"
+    },
+    {
+      "name": "nr_player1"
+    },
+    {
+      "name": "nr_player2"
+    },
+    {
+      "name": "nr_player3"
+    },
+    {
+      "name": "nr_player4"
+    },
+    {
+      "name": "nr_ready"
+    },
+    {
+      "name": "nr_success"
+    },
+    {
+      "name": "nr_three"
+    },
+    {
+      "name": "nr_timeup"
+    },
+    {
+      "name": "nr_two"
+    },
+    {
+      "name": "nr_team"
+    },
+    {
+      "name": "nr_breaktarget"
+    },
+    {
+      "name": "nr_complayer"
+    },
+    {
+      "name": "nr_bonuschar"
+    }
+  ]
+}

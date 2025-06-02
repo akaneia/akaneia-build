@@ -1,0 +1,104 @@
+{
+  "name": "Pichu",
+  "fileName": "pichu.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_pichu"
+    },
+    {
+      "name": "v_pichu_appeal"
+    },
+    {
+      "name": "v_pichu_atk1"
+    },
+    {
+      "name": "v_pichu_atk2"
+    },
+    {
+      "name": "v_pichu_atk3"
+    },
+    {
+      "name": "v_pichu_atk4"
+    },
+    {
+      "name": "v_pichu_atk5"
+    },
+    {
+      "name": "v_pichu_dengeki"
+    },
+    {
+      "name": "v_pichu_denko1"
+    },
+    {
+      "name": "v_pichu_denko2"
+    },
+    {
+      "name": "v_pichu_gake"
+    },
+    {
+      "name": "v_pichu_hosikie"
+    },
+    {
+      "name": "v_pichu_hura"
+    },
+    {
+      "name": "v_pichu_huttobi1"
+    },
+    {
+      "name": "v_pichu_huttobi2"
+    },
+    {
+      "name": "v_pichu_kaminari"
+    },
+    {
+      "name": "v_pichu_motiage"
+    },
+    {
+      "name": "v_pichu_nemuru"
+    },
+    {
+      "name": "v_pichu_rakka4"
+    },
+    {
+      "name": "v_pichu_rocket1"
+    },
+    {
+      "name": "v_pichu_rocket2"
+    },
+    {
+      "name": "v_pichu_sutemi"
+    },
+    {
+      "name": "v_pichu_yarare"
+    },
+    {
+      "name": "se_pichu_denkidasu"
+    },
+    {
+      "name": "se_pichu_denkihasiru"
+    },
+    {
+      "name": "se_pichu_thund"
+    },
+    {
+      "name": "se_pichu_denkou"
+    },
+    {
+      "name": "se_pichu_rocket_tame"
+    },
+    {
+      "name": "se_pichu_rocket_attack"
+    },
+    {
+      "name": "se_pichu_wazadenki_l"
+    },
+    {
+      "name": "se_pichu_wazadenki_s"
+    },
+    {
+      "name": "v_pichu_otto"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Corneria",
+  "location": "Lylat System",
+  "seriesID": 2,
+  "fileName": "/GrCn",
+  "additionalFiles": [],
+  "soundBank": 35,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407736,
+  "mapDescPointer": 2151554444,
+  "onStageInit": 2149438288,
+  "onStageLoad": 2149438584,
+  "onStageGo": 2149438728,
+  "onGo": 2149438144,
+  "onUnknown2": 2149438764,
+  "onTouchLine": 2149461732,
+  "onUnknown4": 2149461740,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151554360,
+  "movingCollisionCount": 8,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_020",
+    "banner": "sss\\icon_021"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Falco",
+  "fileName": "falco.ssm",
+  "groupFlags": 67240710,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_falco"
+    },
+    {
+      "name": "se_falco_demo1"
+    },
+    {
+      "name": "se_falco_demo3"
+    },
+    {
+      "name": "se_falco_demo4"
+    },
+    {
+      "name": "se_falco_demo5"
+    },
+    {
+      "name": "v_falco_appeal"
+    },
+    {
+      "name": "v_falco_gekitui"
+    },
+    {
+      "name": "v_falco_atk1"
+    },
+    {
+      "name": "v_falco_atk2"
+    },
+    {
+      "name": "v_falco_atk3"
+    },
+    {
+      "name": "v_falco_atk4"
+    },
+    {
+      "name": "v_falco_atk5"
+    },
+    {
+      "name": "v_falco_fire"
+    },
+    {
+      "name": "v_falco_gake"
+    },
+    {
+      "name": "v_falco_hosikie"
+    },
+    {
+      "name": "v_falco_hura"
+    },
+    {
+      "name": "v_falco_huttobi1"
+    },
+    {
+      "name": "v_falco_huttobi2"
+    },
+    {
+      "name": "v_falco_illusion"
+    },
+    {
+      "name": "v_falco_jump"
+    },
+    {
+      "name": "v_falco_motiage"
+    },
+    {
+      "name": "v_falco_nemuru"
+    },
+    {
+      "name": "v_falco_otto"
+    },
+    {
+      "name": "v_falco_rakka4"
+    },
+    {
+      "name": "v_falco_ukemi"
+    },
+    {
+      "name": "v_falco_yarare"
+    },
+    {
+      "name": "se_falco_fireatk"
+    },
+    {
+      "name": "se_falco_gunset"
+    },
+    {
+      "name": "se_falco_jetstart"
+    },
+    {
+      "name": "se_falco_illusion"
+    },
+    {
+      "name": "se_falco_reflect"
+    },
+    {
+      "name": "se_falco_reflect_ref"
+    },
+    {
+      "name": "se_falco_gunclose"
+    },
+    {
+      "name": "se_falco_gunshot_newlr"
+    },
+    {
+      "name": "se_falco_gunshot_newrl"
+    },
+    {
+      "name": "se_falco_gunshot_newc"
+    },
+    {
+      "name": "v_falco_tsf12_1f"
+    },
+    {
+      "name": "v_falco_tsf12_2s"
+    },
+    {
+      "name": "v_falco_tsf12_3p"
+    },
+    {
+      "name": "v_falco_tsf12_4p"
+    },
+    {
+      "name": "v_falco_tsf13_1p"
+    },
+    {
+      "name": "v_falco_tsf13_2s"
+    },
+    {
+      "name": "v_falco_tsf13_3f"
+    },
+    {
+      "name": "v_falco_tsf13_4s"
+    },
+    {
+      "name": "v_falco_tsf14_1s"
+    },
+    {
+      "name": "v_falco_tsf14_2p"
+    },
+    {
+      "name": "v_falco_tsf14_3f"
+    },
+    {
+      "name": "v_falco_tsf15_1p"
+    },
+    {
+      "name": "v_falco_tsf15_2s"
+    },
+    {
+      "name": "v_falco_tsf15_3f"
+    },
+    {
+      "name": "v_falco_tsf16_1s"
+    },
+    {
+      "name": "v_falco_tsf16_2p"
+    },
+    {
+      "name": "v_falco_tsf16_3f"
+    }
+  ]
+}

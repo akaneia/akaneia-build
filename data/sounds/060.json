@@ -1,0 +1,20 @@
+{
+  "name": "Zebes 64",
+  "fileName": "old_zebes.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Ambient Noise"
+    },
+    {
+      "name": "Lasers"
+    },
+    {
+      "name": "Lasers2"
+    }
+  ]
+}

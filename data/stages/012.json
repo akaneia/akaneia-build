@@ -1,0 +1,30 @@
+{
+  "name": "Fountain of Dreams",
+  "location": "Dream Land",
+  "seriesID": 5,
+  "fileName": "/GrIz.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407576,
+  "mapDescPointer": 2151550324,
+  "onStageInit": 2149366664,
+  "onStageLoad": 2149366796,
+  "onStageGo": 2149366972,
+  "onGo": 2149366660,
+  "onUnknown2": 2149367008,
+  "onTouchLine": 2149372536,
+  "onUnknown4": 2149372544,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151550304,
+  "movingCollisionCount": 3,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_016",
+    "banner": "sss\\icon_017"
+  }
+}

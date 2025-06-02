@@ -1,0 +1,11 @@
+{
+  "name": "End",
+  "fileName": "end.ssm",
+  "groupFlags": 17106176,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "END"
+    }
+  ]
+}

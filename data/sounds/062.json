@@ -1,0 +1,113 @@
+{
+  "name": "Wolf",
+  "fileName": "wolf.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "snd_vc_Wolf_Win01"
+    },
+    {
+      "name": "snd_vc_Wolf_Win02"
+    }
+  ]
+}

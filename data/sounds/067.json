@@ -1,0 +1,26 @@
+{
+  "name": "Village",
+  "fileName": "village.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_ac_pop"
+    },
+    {
+      "name": "st_ac_confetti"
+    },
+    {
+      "name": "st_ac_cd"
+    },
+    {
+      "name": "st_ac_cd2"
+    },
+    {
+      "name": "st_ac_firework1"
+    },
+    {
+      "name": "st_ac_firework2"
+    }
+  ]
+}

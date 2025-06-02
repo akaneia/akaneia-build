@@ -1,0 +1,20 @@
+{
+  "name": "Big Blue",
+  "fileName": "bigblue.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_bigblue_crash_char"
+    },
+    {
+      "name": "st_bigblue_crash3"
+    },
+    {
+      "name": "st_bigblue_car_run1"
+    },
+    {
+      "name": "st_bigblue_goalin"
+    }
+  ]
+}

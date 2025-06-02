@@ -1,0 +1,30 @@
+{
+  "name": "Yoshi\u0027s Island",
+  "location": "Yoshi\u0027s Island",
+  "seriesID": 12,
+  "fileName": "/GrYt.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407496,
+  "mapDescPointer": 2151567768,
+  "onStageInit": 2149588900,
+  "onStageLoad": 2149589004,
+  "onStageGo": 2149589008,
+  "onGo": 2149588896,
+  "onUnknown2": 2149589044,
+  "onTouchLine": 2149591900,
+  "onUnknown4": 2149591908,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_014",
+    "banner": "sss\\icon_015"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Delfino",
+  "fileName": "delfino.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_dp_gull1"
+    },
+    {
+      "name": "st_dp_gull2"
+    },
+    {
+      "name": "st_dp_gull3"
+    },
+    {
+      "name": "st_dp_gull4"
+    },
+    {
+      "name": "st_dp_splash"
+    },
+    {
+      "name": "st_dp_hover"
+    },
+    {
+      "name": "st_dp_sea"
+    },
+    {
+      "name": "st_dp_propeller"
+    },
+    {
+      "name": "st_dp_waterfall"
+    },
+    {
+      "name": "st_dp_fountain"
+    }
+  ]
+}

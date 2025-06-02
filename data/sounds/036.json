@@ -1,0 +1,41 @@
+{
+  "name": "Great Bay",
+  "fileName": "greatbay.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_greatbay_fallwater_char"
+    },
+    {
+      "name": "st_greatbay_kamederu"
+    },
+    {
+      "name": "st_greatbay_kamesizumu"
+    },
+    {
+      "name": "st_greatbay_4bigstep"
+    },
+    {
+      "name": "st_greatbay_moon_tomeru"
+    },
+    {
+      "name": "st_greatbay_moon"
+    },
+    {
+      "name": "st_greatbay_moon_nage"
+    },
+    {
+      "name": "st_greatbay_tkle_jimen"
+    },
+    {
+      "name": "st_greatbay_tkle_water"
+    },
+    {
+      "name": "st_greatbay_tkle_laugh"
+    },
+    {
+      "name": "st_greatbay_tkle_pan"
+    }
+  ]
+}

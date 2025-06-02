@@ -1,0 +1,107 @@
+{
+  "name": "Dedede",
+  "fileName": "dedede.ssm",
+  "groupFlags": 67240705,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_dedede"
+    },
+    {
+      "name": "se_dedede_wait2"
+    },
+    {
+      "name": "se_dedede_wait3"
+    },
+    {
+      "name": "se_step_dedede"
+    },
+    {
+      "name": "se_step2_dedede"
+    },
+    {
+      "name": "se_dedede_jump"
+    },
+    {
+      "name": "se_dedede_starspit"
+    },
+    {
+      "name": "se_dedede_specialN01"
+    },
+    {
+      "name": "se_dedede_specialN02"
+    },
+    {
+      "name": "se_dedede_specialLw01"
+    },
+    {
+      "name": "se_dedede_specialLw02"
+    },
+    {
+      "name": "v_dedede_atk1"
+    },
+    {
+      "name": "v_dedede_atk2"
+    },
+    {
+      "name": "v_dedede_atk3"
+    },
+    {
+      "name": "v_dedede_atk4"
+    },
+    {
+      "name": "v_dedede_atk5"
+    },
+    {
+      "name": "v_dedede_gake"
+    },
+    {
+      "name": "v_dedede_appeal"
+    },
+    {
+      "name": "v_dedede_hosikie"
+    },
+    {
+      "name": "v_dedede_hura"
+    },
+    {
+      "name": "v_dedede_jump"
+    },
+    {
+      "name": "v_dedede_motiage"
+    },
+    {
+      "name": "v_dedede_nemuru"
+    },
+    {
+      "name": "v_mario_nemuru2"
+    },
+    {
+      "name": "v_dedede_otto"
+    },
+    {
+      "name": "v_dedede_die"
+    },
+    {
+      "name": "v_dedede_yarare"
+    },
+    {
+      "name": "v_dedede_huttobi1"
+    },
+    {
+      "name": "v_dedede_huttobi2"
+    },
+    {
+      "name": "v_dedede_SpecialHiLand"
+    },
+    {
+      "name": "se_dedede_SpecialSThrow"
+    },
+    {
+      "name": "se_dedede_attackdash"
+    },
+    {
+      "name": "se_dedede_specialSThrow2"
+    }
+  ]
+}

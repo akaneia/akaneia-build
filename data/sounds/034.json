@@ -1,0 +1,26 @@
+{
+  "name": "Castle",
+  "fileName": "castle.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_castle_block"
+    },
+    {
+      "name": "st_castle_kill_deru"
+    },
+    {
+      "name": "st_castle_kill_expl"
+    },
+    {
+      "name": "st_castle_kill_hikou"
+    },
+    {
+      "name": "st_castle_kill_hit"
+    },
+    {
+      "name": "st_castle_switch"
+    }
+  ]
+}

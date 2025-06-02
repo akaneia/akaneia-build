@@ -1,0 +1,30 @@
+{
+  "name": "F-Zero Grand Prix",
+  "location": "",
+  "seriesID": 0,
+  "fileName": "/GrNBr.dat",
+  "additionalFiles": [],
+  "soundBank": 49,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409336,
+  "mapDescPointer": 2151571064,
+  "onStageInit": 2149628060,
+  "onStageLoad": 2149628192,
+  "onStageGo": 2149628252,
+  "onGo": 2149628004,
+  "onUnknown2": 2149628364,
+  "onTouchLine": 2149638008,
+  "onUnknown4": 2149638016,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

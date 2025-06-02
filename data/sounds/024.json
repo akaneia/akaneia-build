@@ -1,0 +1,116 @@
+{
+  "name": "Pikachu",
+  "fileName": "pikachu.ssm",
+  "groupFlags": 67240711,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_pikachu"
+    },
+    {
+      "name": "se_pikachu_demo1"
+    },
+    {
+      "name": "se_pikachu_demo2"
+    },
+    {
+      "name": "se_pikachu_demo3"
+    },
+    {
+      "name": "se_pikachu_demo4"
+    },
+    {
+      "name": "se_pikachu_demo5"
+    },
+    {
+      "name": "se_pikachu_demo6"
+    },
+    {
+      "name": "v_pikachu_atk1"
+    },
+    {
+      "name": "v_pikachu_atk2"
+    },
+    {
+      "name": "v_pikachu_atk3"
+    },
+    {
+      "name": "v_pikachu_atk4"
+    },
+    {
+      "name": "v_pikachu_atk5"
+    },
+    {
+      "name": "v_pikachu_dengeki"
+    },
+    {
+      "name": "v_pikachu_denko1"
+    },
+    {
+      "name": "v_pikachu_denko2"
+    },
+    {
+      "name": "v_pikachu_gake"
+    },
+    {
+      "name": "v_pikachu_hosikie"
+    },
+    {
+      "name": "v_pikachu_hura"
+    },
+    {
+      "name": "v_pikachu_huttobi1"
+    },
+    {
+      "name": "v_pikachu_huttobi2"
+    },
+    {
+      "name": "v_pikachu_kaminari"
+    },
+    {
+      "name": "v_pikachu_motiage"
+    },
+    {
+      "name": "v_pikachu_otto"
+    },
+    {
+      "name": "v_pikachu_rakka4"
+    },
+    {
+      "name": "v_pikachu_rocket1"
+    },
+    {
+      "name": "v_pikachu_rocket2"
+    },
+    {
+      "name": "v_pikachu_sutemi"
+    },
+    {
+      "name": "v_pikachu_yarare"
+    },
+    {
+      "name": "se_pikachu_denkidasu"
+    },
+    {
+      "name": "se_pikachu_denkihasiru"
+    },
+    {
+      "name": "se_pikachu_thund"
+    },
+    {
+      "name": "se_pikachu_denkou"
+    },
+    {
+      "name": "se_pikachu_rocket_tame"
+    },
+    {
+      "name": "se_pikachu_rocket_attack"
+    },
+    {
+      "name": "se_pikachu_wazadenki_l"
+    },
+    {
+      "name": "se_pikachu_wazadenki_s"
+    }
+  ]
+}

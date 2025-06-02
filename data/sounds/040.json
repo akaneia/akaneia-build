@@ -1,0 +1,41 @@
+{
+  "name": "Zebes",
+  "fileName": "zebes.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_zebes_asidsea_up"
+    },
+    {
+      "name": "st_zebes_asidsea_down"
+    },
+    {
+      "name": "st_zebes_asidsea_hit"
+    },
+    {
+      "name": "st_zebes_cellbirth"
+    },
+    {
+      "name": "st_zebes_cellbreak"
+    },
+    {
+      "name": "st_zebes_coremove"
+    },
+    {
+      "name": "st_zebes_pole_break"
+    },
+    {
+      "name": "st_zebes_pole_hit"
+    },
+    {
+      "name": "st_vl_zebes_siren"
+    },
+    {
+      "name": "st_vl_zebes_amb1"
+    },
+    {
+      "name": "st_vl_zebes_jisin"
+    }
+  ]
+}

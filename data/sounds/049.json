@@ -1,0 +1,29 @@
+{
+  "name": "1P Adventure",
+  "fileName": "1padv.ssm",
+  "groupFlags": 84018176,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_1p_fallwater_char"
+    },
+    {
+      "name": "st_1p_moveinfo"
+    },
+    {
+      "name": "st_1p_crash_char"
+    },
+    {
+      "name": "st_1p_fzerocar3"
+    },
+    {
+      "name": "st_1p_fzerocar2"
+    },
+    {
+      "name": "st_1p_fzerocar1"
+    },
+    {
+      "name": "st_1p_fzero_jisin"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Green Greens",
+  "location": "Dream Land",
+  "seriesID": 5,
+  "fileName": "/GrGr.dat",
+  "additionalFiles": [],
+  "soundBank": 43,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407656,
+  "mapDescPointer": 2151577144,
+  "onStageInit": 2149659748,
+  "onStageLoad": 2149659892,
+  "onStageGo": 2149659896,
+  "onGo": 2149659736,
+  "onUnknown2": 2149659932,
+  "onTouchLine": 2149674596,
+  "onUnknown4": 2149674604,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_018",
+    "banner": "sss\\icon_019"
+  }
+}

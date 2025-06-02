@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Zelda",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTZd.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411576,
+  "mapDescPointer": 2151585336,
+  "onStageInit": 2149727792,
+  "onStageLoad": 2149727904,
+  "onStageGo": 2149727908,
+  "onGo": 2149727788,
+  "onUnknown2": 2149727944,
+  "onTouchLine": 2149728512,
+  "onUnknown4": 2149728520,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

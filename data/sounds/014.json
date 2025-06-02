@@ -1,0 +1,164 @@
+{
+  "name": "Kirby",
+  "fileName": "kirby.ssm",
+  "groupFlags": 67240705,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_kirby"
+    },
+    {
+      "name": "se_kirby_cutterF"
+    },
+    {
+      "name": "se_kirby_cutterH"
+    },
+    {
+      "name": "se_kirby_gan"
+    },
+    {
+      "name": "se_kirby_guruguru"
+    },
+    {
+      "name": "se_kirby_hakidasi"
+    },
+    {
+      "name": "se_kirby_hoobari"
+    },
+    {
+      "name": "se_kirby_nomicopy"
+    },
+    {
+      "name": "se_kirby_nomisuka"
+    },
+    {
+      "name": "se_kirby_parin"
+    },
+    {
+      "name": "se_kirby_start"
+    },
+    {
+      "name": "se_kirby_stone"
+    },
+    {
+      "name": "se_kirby_suikomi"
+    },
+    {
+      "name": "se_kirby_sute"
+    },
+    {
+      "name": "se_kirby_tyaku"
+    },
+    {
+      "name": "se_kirby_hob1"
+    },
+    {
+      "name": "se_kirby_hob2"
+    },
+    {
+      "name": "se_kirby_oozuti"
+    },
+    {
+      "name": "se_kirby_dash"
+    },
+    {
+      "name": "se_kirby_fire"
+    },
+    {
+      "name": "v_kirby_appeal"
+    },
+    {
+      "name": "v_kirby_atk1"
+    },
+    {
+      "name": "v_kirby_atk2"
+    },
+    {
+      "name": "v_kirby_atk3"
+    },
+    {
+      "name": "v_kirby_atk4"
+    },
+    {
+      "name": "v_kirby_atk5"
+    },
+    {
+      "name": "v_kirby_atk_h"
+    },
+    {
+      "name": "v_kirby_cp_dk"
+    },
+    {
+      "name": "v_kirby_cp_falcon"
+    },
+    {
+      "name": "v_kirby_cp_punch"
+    },
+    {
+      "name": "v_kirby_cp_ganon"
+    },
+    {
+      "name": "v_kirby_cp_ice"
+    },
+    {
+      "name": "v_kirby_cp_marth"
+    },
+    {
+      "name": "v_kirby_cp_mewtwo"
+    },
+    {
+      "name": "v_kirby_cp_ness"
+    },
+    {
+      "name": "v_kirby_cp_pichu"
+    },
+    {
+      "name": "v_kirby_cp_pikachu"
+    },
+    {
+      "name": "v_kirby_cp_purin"
+    },
+    {
+      "name": "v_kirby_cp_shiek"
+    },
+    {
+      "name": "v_kirby_cp_zelda"
+    },
+    {
+      "name": "v_kirby_fcutter"
+    },
+    {
+      "name": "v_kirby_gake"
+    },
+    {
+      "name": "v_kirby_hosikie"
+    },
+    {
+      "name": "v_kirby_hura"
+    },
+    {
+      "name": "v_kirby_huttobi1"
+    },
+    {
+      "name": "v_kirby_huttobi2"
+    },
+    {
+      "name": "v_kirby_motiage"
+    },
+    {
+      "name": "v_kirby_nemuru"
+    },
+    {
+      "name": "v_kirby_otto"
+    },
+    {
+      "name": "v_kirby_rakka4"
+    },
+    {
+      "name": "v_kirby_stonekaijyo"
+    },
+    {
+      "name": "v_kirby_yarare"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Narrator Title",
+  "fileName": "nr_title.ssm",
+  "groupFlags": 50331648,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "nr_nintendohallstar"
+    },
+    {
+      "name": "nr_super"
+    },
+    {
+      "name": "nr_dairantoh"
+    },
+    {
+      "name": "nr_smaaashbros"
+    },
+    {
+      "name": "nr_title_sakurai"
+    }
+  ]
+}

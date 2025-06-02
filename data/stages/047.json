@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Ice Climbers",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTIc.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410376,
+  "mapDescPointer": 2151582360,
+  "onStageInit": 2149715732,
+  "onStageLoad": 2149715844,
+  "onStageGo": 2149715848,
+  "onGo": 2149715728,
+  "onUnknown2": 2149715884,
+  "onTouchLine": 2149716820,
+  "onUnknown4": 2149716828,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Rainbow Cruise",
+  "location": "Mushroom Kingdom",
+  "seriesID": 6,
+  "fileName": "/GrRc.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151406856,
+  "mapDescPointer": 2151566900,
+  "onStageInit": 2149577064,
+  "onStageLoad": 2149577368,
+  "onStageGo": 2149577372,
+  "onGo": 2149577060,
+  "onUnknown2": 2149577408,
+  "onTouchLine": 2149588048,
+  "onUnknown4": 2149588056,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151566760,
+  "movingCollisionCount": 23,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_002",
+    "banner": "sss\\icon_003"
+  }
+}

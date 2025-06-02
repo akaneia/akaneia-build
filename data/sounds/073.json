@@ -1,0 +1,35 @@
+{
+  "name": "Dolphin Park",
+  "fileName": "dolpark.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_dolp_dolphin"
+    },
+    {
+      "name": "st_dolp_gull1"
+    },
+    {
+      "name": "st_dolp_gull2"
+    },
+    {
+      "name": "st_dolp_gull3"
+    },
+    {
+      "name": "st_dolp_gull4"
+    },
+    {
+      "name": "st_dolp_splash"
+    },
+    {
+      "name": "st_dolp_ski"
+    },
+    {
+      "name": "st_dolp_water1"
+    },
+    {
+      "name": "st_dolp_water1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Onett",
+  "location": "Eagleland",
+  "seriesID": 8,
+  "fileName": "/GrOt",
+  "additionalFiles": [],
+  "soundBank": 39,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408216,
+  "mapDescPointer": 2151557088,
+  "onStageInit": 2149463864,
+  "onStageLoad": 2149464004,
+  "onStageGo": 2149464008,
+  "onGo": 2149463860,
+  "onUnknown2": 2149464044,
+  "onTouchLine": 2149472096,
+  "onUnknown4": 2149472104,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_028",
+    "banner": "sss\\icon_029"
+  }
+}

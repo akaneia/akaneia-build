@@ -1,0 +1,39 @@
+{
+  "name": "Boxing Ring",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrBx.dat",
+  "additionalFiles": [],
+  "soundBank": 75,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 0,
+  "onStageLoad": 0,
+  "onStageGo": 0,
+  "onGo": 0,
+  "onUnknown2": 0,
+  "onTouchLine": 0,
+  "onUnknown4": 0,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 129,
+        "chanceToPlay": 91
+      },
+      {
+        "musicID": 124,
+        "chanceToPlay": 24
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_099",
+    "banner": "sss\\icon_098"
+  }
+}

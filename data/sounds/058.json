@@ -1,0 +1,14 @@
+{
+  "name": "Mushroom Kingdom 64",
+  "fileName": "mk64.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    }
+  ]
+}

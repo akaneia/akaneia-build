@@ -1,0 +1,77 @@
+{
+  "name": "GKoopa",
+  "fileName": "gkoopa.ssm",
+  "groupFlags": 67240192,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "v_gkoopa_atk1"
+    },
+    {
+      "name": "v_gkoopa_atk2"
+    },
+    {
+      "name": "v_gkoopa_atk3"
+    },
+    {
+      "name": "v_gkoopa_atk4"
+    },
+    {
+      "name": "v_gkoopa_atk5"
+    },
+    {
+      "name": "v_gkoopa_hosikie"
+    },
+    {
+      "name": "v_gkoopa_hura"
+    },
+    {
+      "name": "v_gkoopa_huttobi1"
+    },
+    {
+      "name": "v_gkoopa_huttobi2"
+    },
+    {
+      "name": "v_gkoopa_motiage"
+    },
+    {
+      "name": "v_gkoopa_nemuru"
+    },
+    {
+      "name": "v_gkoopa_otto"
+    },
+    {
+      "name": "v_gkoopa_rakka4"
+    },
+    {
+      "name": "se_gkoopa_spin"
+    },
+    {
+      "name": "se_gkoopa_breath1"
+    },
+    {
+      "name": "se_gkoopa_breath2"
+    },
+    {
+      "name": "se_gkoopa_breath3"
+    },
+    {
+      "name": "se_gkoopa_breath4"
+    },
+    {
+      "name": "se_gkoopa_hissatu_jump"
+    },
+    {
+      "name": "se_gkoopa_hissatu_kamu"
+    },
+    {
+      "name": "se_gkoopa_hissatu_tsume"
+    },
+    {
+      "name": "se_gkoopa_waza_sita"
+    },
+    {
+      "name": "se_gkoopa_hissatu_ketu"
+    }
+  ]
+}

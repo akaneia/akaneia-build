@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Roy",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTFe.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411736,
+  "mapDescPointer": 2151585728,
+  "onStageInit": 2149729272,
+  "onStageLoad": 2149729384,
+  "onStageGo": 2149729388,
+  "onGo": 2149729268,
+  "onUnknown2": 2149729424,
+  "onTouchLine": 2149729992,
+  "onUnknown4": 2149730000,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

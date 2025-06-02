@@ -1,0 +1,83 @@
+{
+  "name": "Samus",
+  "fileName": "samus.ssm",
+  "groupFlags": 67240710,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_samus"
+    },
+    {
+      "name": "se_samus_demo1"
+    },
+    {
+      "name": "se_samus_demo2"
+    },
+    {
+      "name": "se_samus_demo3"
+    },
+    {
+      "name": "se_samus_demo4"
+    },
+    {
+      "name": "se_samus_demo5"
+    },
+    {
+      "name": "se_samus_tame1"
+    },
+    {
+      "name": "se_samus_tame2"
+    },
+    {
+      "name": "se_samus_tame3"
+    },
+    {
+      "name": "se_samus_tame4"
+    },
+    {
+      "name": "se_samus_tame5"
+    },
+    {
+      "name": "se_samus_cshot"
+    },
+    {
+      "name": "se_samus_mshot"
+    },
+    {
+      "name": "se_samus_bomb_dasi"
+    },
+    {
+      "name": "se_samus_sattack"
+    },
+    {
+      "name": "se_samus_jumpspin"
+    },
+    {
+      "name": "se_samus_screwjump"
+    },
+    {
+      "name": "se_samus_gbeam_dasu"
+    },
+    {
+      "name": "se_samus_gbeam_modosu"
+    },
+    {
+      "name": "v_samus_atk3"
+    },
+    {
+      "name": "v_samus_gake"
+    },
+    {
+      "name": "v_samus_hosikie"
+    },
+    {
+      "name": "v_samus_hura"
+    },
+    {
+      "name": "v_samus_jump"
+    },
+    {
+      "name": "v_samus_rakka4"
+    }
+  ]
+}

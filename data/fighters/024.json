@@ -1,0 +1,314 @@
+{
+  "name": "Mr. Game \u0026 Watch",
+  "seriesID": 3,
+  "canWallJump": false,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 29,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 536870912,
+  "announcerCall": 510010,
+  "victoryTheme": 15,
+  "fighterMusic1": 30,
+  "fighterMusic2": 30,
+  "targetTestStage": 56,
+  "classicTrophyId": 57,
+  "adventureTrophyId": 58,
+  "allStarTrophyId": 59,
+  "racetoTheFinishTime": 48,
+  "resultScreenScale": 1,
+  "endingScreenScale": 0.7,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 53,
+      "top": 0,
+      "trans": 2,
+      "xRot": 3,
+      "yRot": 4,
+      "hip": 5,
+      "waist": 6,
+      "lLegA": 35,
+      "lLeg": 36,
+      "lKnee": 37,
+      "lFootA": 38,
+      "lFoot": 39,
+      "rLegA": 43,
+      "rLeg": 44,
+      "rKnee": 45,
+      "rFootA": 46,
+      "rFoot": 47,
+      "waistB": 255,
+      "bust": 255,
+      "lClavicle": 9,
+      "lShoulderA": 10,
+      "lShoulder": 11,
+      "lArm": 12,
+      "lHand": 14,
+      "lIndex1": 255,
+      "lIndex2": 255,
+      "lMiddle1": 15,
+      "lMiddle2": 16,
+      "lRing1": 255,
+      "lRing2": 255,
+      "lPinky1": 255,
+      "lPinky2": 255,
+      "lHave": 17,
+      "lThumb1": 18,
+      "lThumb2": 255,
+      "neckN": 19,
+      "headN": 20,
+      "rClavicle": 24,
+      "rShoulderA": 25,
+      "rShoulder": 26,
+      "rArm": 27,
+      "rHand": 29,
+      "rIndex1": 255,
+      "rIndex2": 255,
+      "rMiddle1": 30,
+      "rMiddle2": 31,
+      "rRing1": 255,
+      "rRing2": 255,
+      "rPinky1": 255,
+      "rPinky2": 255,
+      "rHave": 32,
+      "rThumb1": 34,
+      "rThumb2": 255,
+      "throw": 51,
+      "extra": 52
+    },
+    "ext": []
+  },
+  "assets": {
+    "cssIcon": "css\\icon_022",
+    "resultBannerBig": "rst\\big_banner_023",
+    "resultSmallBig": "rst\\small_banner_023"
+  },
+  "redCostumeIndex": 1,
+  "blueCostumeIndex": 2,
+  "greenCostumeIndex": 3,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_155",
+      "csp": "csp\\csp_148"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_156",
+      "csp": "csp\\csp_149"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_157",
+      "csp": "csp\\csp_150"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_158",
+      "csp": "csp\\csp_151"
+    },
+    {
+      "name": "White",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_159",
+      "csp": "csp\\csp_152"
+    },
+    {
+      "name": "Pink",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlGwNr.dat",
+        "jointSymbol": "PlyGamewatch5K_Share_joint",
+        "materialSymbol": null
+      },
+      "icon": "icons\\ft_160",
+      "csp": "csp\\csp_153"
+    }
+  ],
+  "kirbyCostumes": [
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbNrCpGw.dat",
+      "jointSymbol": "PlyKirbyGw_Share_joint",
+      "materialSymbol": "PlyKirbyGw_Share_matanim_joint"
+    }
+  ],
+  "hasKirbyCostumes": true,
+  "gaWData": {
+    "colors": [
+      {
+        "fill": 4278190080,
+        "outline": 2164260863
+      },
+      {
+        "fill": 4285399040,
+        "outline": 2164260863
+      },
+      {
+        "fill": 4278190190,
+        "outline": 2164260863
+      },
+      {
+        "fill": 4278218240,
+        "outline": 2164260863
+      },
+      {
+        "fill": 4294967295,
+        "outline": 2152747088
+      },
+      {
+        "fill": 4293607343,
+        "outline": 2164260863
+      }
+    ]
+  },
+  "files": {
+    "fighterDataPath": "PlGw.dat",
+    "fighterDataSymbol": "ftDataGamewatch",
+    "animFile": "PlGwAJ.dat",
+    "animCount": 323,
+    "demoFile": "PlGwDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileGamewatch",
+    "demoResult": "ftDemoResultMotionFileGamewatch",
+    "demoIntro": "ftDemoIntroMotionFileGamewatch",
+    "demoEnding": "ftDemoEndingMotionFileGamewatch",
+    "rstAnimFile": "GmRstMGw.dat",
+    "rstAnimCount": 14,
+    "effectFile": "EfWfData.dat",
+    "effectSymbol": "effWolfDataTable",
+    "kirbyCapFileName": "PlKbCpGw.dat",
+    "kirbyCapSymbol": "ftDataKirbyCopyGamewatch",
+    "kirbyEffectFile": "",
+    "kirbyEffectSymbol": ""
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148836220,
+    "onRespawn": 2148835920,
+    "onDestroy": 0,
+    "moveLogicPointer": 2151490536,
+    "demoMoveLogicPointer": 0,
+    "specialN": 2148853316,
+    "specialNAir": 2148853440,
+    "specialHi": 2148851884,
+    "specialHiAir": 2148852056,
+    "specialLw": 2148847344,
+    "specialLwAir": 2148847480,
+    "specialS": 2148845472,
+    "specialSAir": 2148845608,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 2148837416,
+    "onItemPickup": 2148836792,
+    "onMakeItemInvisible": 2148837016,
+    "onMakeItemVisible": 2148837088,
+    "onItemDrop": 2148837160,
+    "onItemCatch": 2148836792,
+    "onUnknownItemRelated": 2148837160,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 0,
+    "eyeTextureNormal": 0,
+    "onFrame": 0,
+    "onActionStateChange": 2148837244,
+    "resetAttribute": 2148837300,
+    "onModelRender": 0,
+    "onShadowRender": 0,
+    "onUnknownMultijump": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 0,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 14,
+    "onLanding": 0,
+    "onExtRstAnim": 0,
+    "onIndexExtRstAnim": 0,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148318144,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148585864,
+    "kirbySpecialNAir": 2148585988,
+    "kirbyOnSwallow": 2148471988,
+    "kirbyOnLoseAbility": 2148472280,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimpleGamewatch.thp",
+    "endAdventureFile": "GmRegendAdventureGamewatch.thp",
+    "endAllStarFile": "GmRegendAllstarGamewatch.thp",
+    "endMovieFile": "MvEndGamewatch.mth"
+  }
+}

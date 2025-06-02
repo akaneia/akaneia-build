@@ -1,0 +1,30 @@
+{
+  "name": "Brinstar",
+  "location": "Planet Zebes",
+  "seriesID": 10,
+  "fileName": "/GrZe.dat",
+  "additionalFiles": [],
+  "soundBank": 40,
+  "reverbValue1": 64,
+  "reverbValue2": 64,
+  "collisionMaterials": 2151407256,
+  "mapDescPointer": 2151553584,
+  "onStageInit": 2149418148,
+  "onStageLoad": 2149418280,
+  "onStageGo": 2149418284,
+  "onGo": 2149418144,
+  "onUnknown2": 2149418320,
+  "onTouchLine": 2149436600,
+  "onUnknown4": 2149436608,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151553552,
+  "movingCollisionCount": 5,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_024",
+    "banner": "sss\\icon_025"
+  }
+}

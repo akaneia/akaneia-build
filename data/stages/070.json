@@ -1,0 +1,30 @@
+{
+  "name": "Trophy (Majora\u0027s Mask)",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrEF3.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151412216,
+  "mapDescPointer": 2151572440,
+  "onStageInit": 2149639432,
+  "onStageLoad": 2149639544,
+  "onStageGo": 2149639548,
+  "onGo": 2149639428,
+  "onUnknown2": 2149639584,
+  "onTouchLine": 2149640072,
+  "onUnknown4": 2149640080,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

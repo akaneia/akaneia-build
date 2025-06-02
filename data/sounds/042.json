@@ -1,0 +1,29 @@
+{
+  "name": "Kraid",
+  "fileName": "klaid.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_klaid_alienscream1"
+    },
+    {
+      "name": "st_klaid_alienscream2"
+    },
+    {
+      "name": "st_klaid_alienscream3"
+    },
+    {
+      "name": "st_klaid_alienscream4"
+    },
+    {
+      "name": "st_klaid_jisin"
+    },
+    {
+      "name": "st_klaid_core"
+    },
+    {
+      "name": "st_klaid_bubbles"
+    }
+  ]
+}

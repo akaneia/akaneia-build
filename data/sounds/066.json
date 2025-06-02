@@ -1,0 +1,128 @@
+{
+  "name": "Sonic",
+  "fileName": "sonic.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_sonic"
+    },
+    {
+      "name": "se_sonic_jump0"
+    },
+    {
+      "name": "se_sonic_jump1"
+    },
+    {
+      "name": "se_sonic_spin0"
+    },
+    {
+      "name": "se_sonic_spin1"
+    },
+    {
+      "name": "se_sonic_stop"
+    },
+    {
+      "name": "se_sonic_charge"
+    },
+    {
+      "name": "se_sonic_spring"
+    },
+    {
+      "name": "se_sonic_Nshoot"
+    },
+    {
+      "name": "se_sonic_Nhit"
+    },
+    {
+      "name": "se_sonic_ring"
+    },
+    {
+      "name": "v_sonic_atk1"
+    },
+    {
+      "name": "v_sonic_atk2"
+    },
+    {
+      "name": "v_sonic_atk3"
+    },
+    {
+      "name": "v_sonic_atk4"
+    },
+    {
+      "name": "v_sonic_atk5"
+    },
+    {
+      "name": "v_sonic_gake"
+    },
+    {
+      "name": "v_sonic_hissatu"
+    },
+    {
+      "name": "v_sonic_hosikie"
+    },
+    {
+      "name": "v_sonic_hura"
+    },
+    {
+      "name": "v_sonic_jump"
+    },
+    {
+      "name": "v_sonic_jump2"
+    },
+    {
+      "name": "v_sonic_appeal"
+    },
+    {
+      "name": "v_sonic_motiage"
+    },
+    {
+      "name": "v_sonic_nemuru"
+    },
+    {
+      "name": "v_sonic_nemuru2"
+    },
+    {
+      "name": "v_sonic_otto"
+    },
+    {
+      "name": "v_sonic_rakka4"
+    },
+    {
+      "name": "v_sonic_win1"
+    },
+    {
+      "name": "v_sonic_yarare"
+    },
+    {
+      "name": "v_sonic_huttobi1"
+    },
+    {
+      "name": "v_sonic_huttobi2"
+    },
+    {
+      "name": "v_sonic_kirby"
+    },
+    {
+      "name": "se_sonic_cloop"
+    },
+    {
+      "name": "se_sonic_chargeloop"
+    },
+    {
+      "name": "se_sonic_appealjump"
+    },
+    {
+      "name": "se_sonic_nb"
+    },
+    {
+      "name": "v_sonic_win2"
+    },
+    {
+      "name": "v_sonic_win3"
+    },
+    {
+      "name": "v_sonic_wins"
+    }
+  ]
+}

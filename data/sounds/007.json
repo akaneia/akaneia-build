@@ -1,0 +1,128 @@
+{
+  "name": "Young Link",
+  "fileName": "clink.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_clink"
+    },
+    {
+      "name": "se_clink_demo1"
+    },
+    {
+      "name": "se_clink_demo4"
+    },
+    {
+      "name": "se_clink_demo5"
+    },
+    {
+      "name": "se_clink_demo6"
+    },
+    {
+      "name": "v_clink_atk1"
+    },
+    {
+      "name": "v_clink_atk2"
+    },
+    {
+      "name": "v_clink_atk3"
+    },
+    {
+      "name": "v_clink_atk4"
+    },
+    {
+      "name": "v_clink_atk5"
+    },
+    {
+      "name": "v_clink_hissatu"
+    },
+    {
+      "name": "v_clink_hosikie"
+    },
+    {
+      "name": "v_clink_hura"
+    },
+    {
+      "name": "v_clink_huttobi"
+    },
+    {
+      "name": "v_clink_jump"
+    },
+    {
+      "name": "v_clink_jump2"
+    },
+    {
+      "name": "v_clink_milkgoku"
+    },
+    {
+      "name": "v_clink_milkpuha"
+    },
+    {
+      "name": "v_clink_motiage"
+    },
+    {
+      "name": "v_clink_otto"
+    },
+    {
+      "name": "v_clink_rakka4"
+    },
+    {
+      "name": "v_clink_nemuru"
+    },
+    {
+      "name": "v_clink_ukemi"
+    },
+    {
+      "name": "se_clink_yumi_shot"
+    },
+    {
+      "name": "se_clink_yumi_hiki"
+    },
+    {
+      "name": "se_clink_swd_kamae"
+    },
+    {
+      "name": "se_clink_swd_nuki"
+    },
+    {
+      "name": "se_clink_fshot_nobiru"
+    },
+    {
+      "name": "se_clink_fshot_simau"
+    },
+    {
+      "name": "se_clink_fshot_oti"
+    },
+    {
+      "name": "se_clink_yumi_hit"
+    },
+    {
+      "name": "se_clink_bomb_bang"
+    },
+    {
+      "name": "se_clink_bmrun_dasi"
+    },
+    {
+      "name": "se_clink_bmrun"
+    },
+    {
+      "name": "se_clink_bomb_dasi"
+    },
+    {
+      "name": "se_clink_guru"
+    },
+    {
+      "name": "se_clink_bmrun_ukeru"
+    },
+    {
+      "name": "se_clink_sitatuki"
+    },
+    {
+      "name": "se_clink_ref"
+    },
+    {
+      "name": "se_clink_milkopen"
+    }
+  ]
+}

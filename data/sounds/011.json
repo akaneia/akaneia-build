@@ -1,0 +1,158 @@
+{
+  "name": "Fox",
+  "fileName": "fox.ssm",
+  "groupFlags": 67240708,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_fox"
+    },
+    {
+      "name": "se_fox_demo1"
+    },
+    {
+      "name": "se_fox_demo2"
+    },
+    {
+      "name": "se_fox_demo3"
+    },
+    {
+      "name": "v_fox_kinisuru"
+    },
+    {
+      "name": "v_fox_atk1"
+    },
+    {
+      "name": "v_fox_atk2"
+    },
+    {
+      "name": "v_fox_atk3"
+    },
+    {
+      "name": "v_fox_atk4"
+    },
+    {
+      "name": "v_fox_atk5"
+    },
+    {
+      "name": "v_fox_comeon"
+    },
+    {
+      "name": "v_fox_fire"
+    },
+    {
+      "name": "v_fox_gake"
+    },
+    {
+      "name": "v_fox_hosikie"
+    },
+    {
+      "name": "v_fox_hura"
+    },
+    {
+      "name": "v_fox_huttobi1"
+    },
+    {
+      "name": "v_fox_huttobi2"
+    },
+    {
+      "name": "v_fox_illusion"
+    },
+    {
+      "name": "v_fox_jump"
+    },
+    {
+      "name": "v_fox_motiage"
+    },
+    {
+      "name": "v_fox_nemuru"
+    },
+    {
+      "name": "v_fox_otto"
+    },
+    {
+      "name": "v_fox_rakka4"
+    },
+    {
+      "name": "v_fox_yarare1"
+    },
+    {
+      "name": "v_fox_yarare2"
+    },
+    {
+      "name": "se_fox_fireatk"
+    },
+    {
+      "name": "se_fox_jetstart"
+    },
+    {
+      "name": "se_fox_illusion"
+    },
+    {
+      "name": "se_fox_reflect"
+    },
+    {
+      "name": "se_fox_reflect_ref"
+    },
+    {
+      "name": "se_fox_gunshot_newlr"
+    },
+    {
+      "name": "se_fox_gunshot_newrl"
+    },
+    {
+      "name": "se_fox_gunshot_newc"
+    },
+    {
+      "name": "v_fox_tsf7_1s"
+    },
+    {
+      "name": "v_fox_tsf7_2f"
+    },
+    {
+      "name": "v_fox_tsf7_3s"
+    },
+    {
+      "name": "v_fox_tsf7_4p"
+    },
+    {
+      "name": "v_fox_tsf8_1p"
+    },
+    {
+      "name": "v_fox_tsf8_2s"
+    },
+    {
+      "name": "v_fox_tsf8_3f"
+    },
+    {
+      "name": "v_fox_tsf9_1s"
+    },
+    {
+      "name": "v_fox_tsf9_2p"
+    },
+    {
+      "name": "v_fox_tsf9_3f"
+    },
+    {
+      "name": "v_fox_tsf10_1p"
+    },
+    {
+      "name": "v_fox_tsf10_2p"
+    },
+    {
+      "name": "v_fox_tsf10_3p"
+    },
+    {
+      "name": "v_fox_tsf10_4s"
+    },
+    {
+      "name": "v_fox_tsf11_1f"
+    },
+    {
+      "name": "v_fox_tsf11_2p"
+    },
+    {
+      "name": "v_fox_tsf11_3s"
+    }
+  ]
+}

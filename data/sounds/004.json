@@ -1,0 +1,41 @@
+{
+  "name": "Narrator 1P",
+  "fileName": "nr_1p.ssm",
+  "groupFlags": 50594816,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "nr_newrecord"
+    },
+    {
+      "name": "nr_congratulation"
+    },
+    {
+      "name": "nr_continue"
+    },
+    {
+      "name": "nr_gameover"
+    },
+    {
+      "name": "nr_and"
+    },
+    {
+      "name": "nr_wowincre"
+    },
+    {
+      "name": "nr_complete"
+    },
+    {
+      "name": "nr_bonusstg"
+    },
+    {
+      "name": "nr_failure"
+    },
+    {
+      "name": "nr_racetofinish"
+    },
+    {
+      "name": "nr_vs"
+    }
+  ]
+}

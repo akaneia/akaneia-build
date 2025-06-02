@@ -1,0 +1,287 @@
+{
+  "name": "Mewtwo",
+  "seriesID": 9,
+  "canWallJump": false,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 20,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 1048576,
+  "announcerCall": 510024,
+  "victoryTheme": 24,
+  "fighterMusic1": 65,
+  "fighterMusic2": 65,
+  "targetTestStage": 46,
+  "classicTrophyId": 51,
+  "adventureTrophyId": 52,
+  "allStarTrophyId": 53,
+  "racetoTheFinishTime": 43,
+  "resultScreenScale": 0.8,
+  "endingScreenScale": 0.6,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 68,
+      "top": 0,
+      "trans": 2,
+      "xRot": 3,
+      "yRot": 4,
+      "hip": 5,
+      "waist": 255,
+      "lLegA": 7,
+      "lLeg": 8,
+      "lKnee": 9,
+      "lFootA": 10,
+      "lFoot": 11,
+      "rLegA": 13,
+      "rLeg": 14,
+      "rKnee": 15,
+      "rFootA": 16,
+      "rFoot": 17,
+      "waistB": 27,
+      "bust": 28,
+      "lClavicle": 29,
+      "lShoulderA": 30,
+      "lShoulder": 31,
+      "lArm": 32,
+      "lHand": 35,
+      "lIndex1": 36,
+      "lIndex2": 37,
+      "lMiddle1": 38,
+      "lMiddle2": 39,
+      "lRing1": 40,
+      "lRing2": 41,
+      "lPinky1": 255,
+      "lPinky2": 255,
+      "lHave": 255,
+      "lThumb1": 255,
+      "lThumb2": 255,
+      "neckN": 42,
+      "headN": 43,
+      "rClavicle": 52,
+      "rShoulderA": 53,
+      "rShoulder": 54,
+      "rArm": 55,
+      "rHand": 58,
+      "rIndex1": 59,
+      "rIndex2": 60,
+      "rMiddle1": 61,
+      "rMiddle2": 62,
+      "rRing1": 63,
+      "rRing2": 64,
+      "rPinky1": 255,
+      "rPinky2": 255,
+      "rHave": 65,
+      "rThumb1": 255,
+      "rThumb2": 255,
+      "throw": 66,
+      "extra": 67
+    },
+    "ext": []
+  },
+  "assets": {
+    "cssIcon": "css\\icon_014",
+    "resultBannerBig": "rst\\big_banner_015",
+    "resultSmallBig": "rst\\small_banner_015"
+  },
+  "redCostumeIndex": 1,
+  "blueCostumeIndex": 2,
+  "greenCostumeIndex": 3,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlMtNr.dat",
+        "jointSymbol": "PlyMewtwo5K_Share_joint",
+        "materialSymbol": "PlyMewtwo5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_103",
+      "csp": "csp\\csp_096"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlMtRe.dat",
+        "jointSymbol": "PlyMewtwo5KRe_Share_joint",
+        "materialSymbol": "PlyMewtwo5KRe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_104",
+      "csp": "csp\\csp_097"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlMtBu.dat",
+        "jointSymbol": "PlyMewtwo5KBu_Share_joint",
+        "materialSymbol": "PlyMewtwo5KBu_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_105",
+      "csp": "csp\\csp_098"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlMtGr.dat",
+        "jointSymbol": "PlyMewtwo5KGr_Share_joint",
+        "materialSymbol": "PlyMewtwo5KGr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_106",
+      "csp": "csp\\csp_099"
+    },
+    {
+      "name": "Black",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlMtBk.dat",
+        "jointSymbol": "PlyMewtwo5KBk_Share_joint",
+        "materialSymbol": "PlyMewtwo5KBk_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_107",
+      "csp": "csp\\csp_100"
+    },
+    {
+      "name": "Yellow",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlMtYe.dat",
+        "jointSymbol": "PlyMewtwo5KYe_Share_joint",
+        "materialSymbol": "PlyMewtwo5KYe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_108",
+      "csp": "csp\\csp_101"
+    }
+  ],
+  "kirbyCostumes": [
+    {
+      "fileName": "PlKbNrCpMt.dat",
+      "jointSymbol": "PlyKirbyMt_Share_joint",
+      "materialSymbol": "PlyKirbyMt_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbYeCpMt.dat",
+      "jointSymbol": "PlyKirbyMtYe_Share_joint",
+      "materialSymbol": "PlyKirbyMtYe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBuCpMt.dat",
+      "jointSymbol": "PlyKirbyMtBu_Share_joint",
+      "materialSymbol": "PlyKirbyMtBu_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbReCpMt.dat",
+      "jointSymbol": "PlyKirbyMtRe_Share_joint",
+      "materialSymbol": "PlyKirbyMtRe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbGrCpMt.dat",
+      "jointSymbol": "PlyKirbyMtGr_Share_joint",
+      "materialSymbol": "PlyKirbyMtGr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbWhCpMt.dat",
+      "jointSymbol": "PlyKirbyMtWh_Share_joint",
+      "materialSymbol": "PlyKirbyMtWh_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbLaCpMt.dat",
+      "jointSymbol": "PlyKirbyMt_Share_joint",
+      "materialSymbol": "PlyKirbyMt_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBrCpMt.dat",
+      "jointSymbol": "PlyKirbyMt_Share_joint",
+      "materialSymbol": "PlyKirbyMt_Share_matanim_joint"
+    }
+  ],
+  "hasKirbyCostumes": true,
+  "gaWData": null,
+  "files": {
+    "fighterDataPath": "PlMt.dat",
+    "fighterDataSymbol": "ftDataMewtwo",
+    "animFile": "PlMtAJ.dat",
+    "animCount": 314,
+    "demoFile": "PlMtDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileMewtwo",
+    "demoResult": "ftDemoResultMotionFileMewtwo",
+    "demoIntro": "ftDemoIntroMotionFileMewtwo",
+    "demoEnding": "ftDemoEndingMotionFileMewtwo",
+    "rstAnimFile": "GmRstMMt.dat",
+    "rstAnimCount": 14,
+    "effectFile": "EfMtData.dat",
+    "effectSymbol": "effMewtwoDataTable",
+    "kirbyCapFileName": "PlKbCpMt.dat",
+    "kirbyCapSymbol": "ftDataKirbyCopyMewtwo",
+    "kirbyEffectFile": "",
+    "kirbyEffectSymbol": ""
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148814408,
+    "onRespawn": 2148814332,
+    "onDestroy": 0,
+    "moveLogicPointer": 2151484160,
+    "demoMoveLogicPointer": 0,
+    "specialN": 2148823840,
+    "specialNAir": 2148824052,
+    "specialHi": 2148815324,
+    "specialHiAir": 2148815448,
+    "specialLw": 2148819440,
+    "specialLwAir": 2148819556,
+    "specialS": 2148820676,
+    "specialSAir": 2148820860,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 0,
+    "onItemPickup": 2148814560,
+    "onMakeItemInvisible": 2148814672,
+    "onMakeItemVisible": 2148814676,
+    "onItemDrop": 2148814668,
+    "onItemCatch": 2148814560,
+    "onUnknownItemRelated": 2148814668,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 2148814872,
+    "eyeTextureNormal": 2148814940,
+    "onFrame": 0,
+    "onActionStateChange": 2148814680,
+    "resetAttribute": 2148814772,
+    "onModelRender": 0,
+    "onShadowRender": 0,
+    "onUnknownMultijump": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 0,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 14,
+    "onLanding": 0,
+    "onExtRstAnim": 0,
+    "onIndexExtRstAnim": 0,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148319800,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148562280,
+    "kirbySpecialNAir": 2148562488,
+    "kirbyOnSwallow": 2148471280,
+    "kirbyOnLoseAbility": 2148471496,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimpleMewtwo.thp",
+    "endAdventureFile": "GmRegendAdventureMewtwo.thp",
+    "endAllStarFile": "GmRegendAllstarMewtwo.thp",
+    "endMovieFile": "MvEndMewtwo.mth"
+  }
+}

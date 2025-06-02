@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Pichu",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTPc.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411096,
+  "mapDescPointer": 2151584176,
+  "onStageInit": 2149723036,
+  "onStageLoad": 2149723148,
+  "onStageGo": 2149723152,
+  "onGo": 2149723032,
+  "onUnknown2": 2149723188,
+  "onTouchLine": 2149723756,
+  "onUnknown4": 2149723764,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

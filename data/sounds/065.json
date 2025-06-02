@@ -1,0 +1,125 @@
+{
+  "name": "Lucas",
+  "fileName": "lucas.ssm",
+  "groupFlags": 67240710,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_lucas"
+    },
+    {
+      "name": "v_lucas_atk1"
+    },
+    {
+      "name": "v_lucas_atk2"
+    },
+    {
+      "name": "v_lucas_atk3"
+    },
+    {
+      "name": "v_lucas_atk4"
+    },
+    {
+      "name": "v_lucas_atk5"
+    },
+    {
+      "name": "v_lucas_gake"
+    },
+    {
+      "name": "v_lucas_hosikie"
+    },
+    {
+      "name": "v_lucas_hura"
+    },
+    {
+      "name": "v_lucas_huttobi1"
+    },
+    {
+      "name": "v_lucas_huttobi2"
+    },
+    {
+      "name": "v_lucas_motiage"
+    },
+    {
+      "name": "v_lucas_nemuru"
+    },
+    {
+      "name": "v_lucas_otto"
+    },
+    {
+      "name": "v_lucas_pkfire"
+    },
+    {
+      "name": "v_lucas_pkfreeze"
+    },
+    {
+      "name": "v_lucas_pkjibaku"
+    },
+    {
+      "name": "v_lucas_pkthunder"
+    },
+    {
+      "name": "v_lucas_rakka4"
+    },
+    {
+      "name": "v_lucas_yarare"
+    },
+    {
+      "name": "se_lucas_pkfire"
+    },
+    {
+      "name": "se_lucas_pkfreeze_dasi"
+    },
+    {
+      "name": "se_lucas_explode"
+    },
+    {
+      "name": "se_lucas_pkthund"
+    },
+    {
+      "name": "se_lucas_magnet"
+    },
+    {
+      "name": "se_lucas_psi"
+    },
+    {
+      "name": "se_lucas_snake"
+    },
+    {
+      "name": "se_lucas_freeze"
+    },
+    {
+      "name": "se_lucas_pkfreeze_flush"
+    },
+    {
+      "name": "se_lucas_reflect"
+    },
+    {
+      "name": "se_lucas_attacks4"
+    },
+    {
+      "name": "se_lucas_bury"
+    },
+    {
+      "name": "se_kirby_pkfreeze"
+    },
+    {
+      "name": "se_lucas_psispin"
+    },
+    {
+      "name": "se_lucas_appeal2"
+    },
+    {
+      "name": "se_lucas_smashhi"
+    },
+    {
+      "name": "se_lucas_pop1"
+    },
+    {
+      "name": "se_lucas_pop2"
+    },
+    {
+      "name": "se_lucas_win"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Corneria",
+  "fileName": "corneria.ssm",
+  "groupFlags": 84017664,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "st_corneria_arwincome"
+    },
+    {
+      "name": "st_corneria_arwinbye"
+    },
+    {
+      "name": "st_corneria_arwin_shot"
+    },
+    {
+      "name": "st_corneria_shot1"
+    },
+    {
+      "name": "st_corneria_hikouon"
+    },
+    {
+      "name": "st_corneria_hikouon2"
+    },
+    {
+      "name": "st_corneria_gfox_tame_s"
+    },
+    {
+      "name": "st_corneria_gfox_tame_l"
+    },
+    {
+      "name": "st_corneria_arwin_shot_swish"
+    },
+    {
+      "name": "st_corneria_v_tsf1_1s"
+    },
+    {
+      "name": "st_corneria_v_tsf3_1p"
+    },
+    {
+      "name": "st_corneria_v_tsf3_2s"
+    },
+    {
+      "name": "st_corneria_v_tsf3_3f"
+    },
+    {
+      "name": "st_corneria_v_tsf4_1f"
+    },
+    {
+      "name": "st_corneria_v_tsf4_2p"
+    },
+    {
+      "name": "st_corneria_v_tsf4_3s"
+    },
+    {
+      "name": "st_corneria_v_tsf5_1s"
+    },
+    {
+      "name": "st_corneria_v_tsf5_2p"
+    },
+    {
+      "name": "st_corneria_v_tsf5_3f"
+    },
+    {
+      "name": "st_corneria_v_tsf6_1f"
+    },
+    {
+      "name": "st_corneria_v_tsf6_2p"
+    },
+    {
+      "name": "st_corneria_v_tsf6_3s"
+    }
+  ]
+}

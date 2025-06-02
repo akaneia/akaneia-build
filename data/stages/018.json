@@ -1,0 +1,30 @@
+{
+  "name": "Mute City",
+  "location": "F-Zero Grand Prix",
+  "seriesID": 0,
+  "fileName": "/GrMc.dat",
+  "additionalFiles": [],
+  "soundBank": 38,
+  "reverbValue1": 1,
+  "reverbValue2": 64,
+  "collisionMaterials": 2151408056,
+  "mapDescPointer": 2151559364,
+  "onStageInit": 2149514348,
+  "onStageLoad": 2149514460,
+  "onStageGo": 2149514464,
+  "onGo": 2149514344,
+  "onUnknown2": 2149514500,
+  "onTouchLine": 2149526460,
+  "onUnknown4": 2149526544,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151559344,
+  "movingCollisionCount": 3,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_032",
+    "banner": "sss\\icon_033"
+  }
+}

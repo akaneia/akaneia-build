@@ -1,0 +1,95 @@
+{
+  "name": "Fichina",
+  "fileName": "fichina.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_polarwind"
+    },
+    {
+      "name": "st_blizzard"
+    },
+    {
+      "name": "ap_fox1"
+    },
+    {
+      "name": "ap_fox2"
+    },
+    {
+      "name": "ap_fox3"
+    },
+    {
+      "name": "ap_fox4"
+    },
+    {
+      "name": "ap_fox5"
+    },
+    {
+      "name": "ap_fox6"
+    },
+    {
+      "name": "ap_fox7"
+    },
+    {
+      "name": "ap_falco1"
+    },
+    {
+      "name": "ap_falco2"
+    },
+    {
+      "name": "ap_falco3"
+    },
+    {
+      "name": "ap_falco4"
+    },
+    {
+      "name": "ap_falco5"
+    },
+    {
+      "name": "ap_falco6"
+    },
+    {
+      "name": "ap_falco7"
+    },
+    {
+      "name": "ap_wolf1"
+    },
+    {
+      "name": "ap_wolf2"
+    },
+    {
+      "name": "ap_wolf3"
+    },
+    {
+      "name": "ap_wolf4"
+    },
+    {
+      "name": "ap_wolf5"
+    },
+    {
+      "name": "ap_wolf6"
+    },
+    {
+      "name": "ap_wolf7"
+    },
+    {
+      "name": "ap_wolf8"
+    },
+    {
+      "name": "ap_wolf9"
+    },
+    {
+      "name": "st_bwarn"
+    },
+    {
+      "name": "hatch_open"
+    },
+    {
+      "name": "hatch_close"
+    },
+    {
+      "name": "arwin_shot"
+    }
+  ]
+}

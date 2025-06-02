@@ -1,0 +1,30 @@
+{
+  "name": "Targets!DK",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTDk.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410056,
+  "mapDescPointer": 2151581584,
+  "onStageInit": 2149712428,
+  "onStageLoad": 2149712540,
+  "onStageGo": 2149712544,
+  "onGo": 2149712424,
+  "onUnknown2": 2149712580,
+  "onTouchLine": 2149713148,
+  "onUnknown4": 2149713156,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

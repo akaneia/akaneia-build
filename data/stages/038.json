@@ -1,0 +1,30 @@
+{
+  "name": "Trophy Collector",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrNFg.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409656,
+  "mapDescPointer": 2151578880,
+  "onStageInit": 2149684532,
+  "onStageLoad": 2149684636,
+  "onStageGo": 2149684640,
+  "onGo": 2149684528,
+  "onUnknown2": 2149684676,
+  "onTouchLine": 2149686408,
+  "onUnknown4": 2149686416,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

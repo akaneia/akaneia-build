@@ -1,0 +1,298 @@
+{
+  "name": "DK",
+  "seriesID": 1,
+  "canWallJump": false,
+  "subCharacter": 255,
+  "subCharacterBehavior": 0,
+  "soundBank": 8,
+  "ssmBitfield1": 0,
+  "ssmBitfield2": 256,
+  "announcerCall": 510001,
+  "victoryTheme": 13,
+  "fighterMusic1": 50,
+  "fighterMusic2": 50,
+  "targetTestStage": 36,
+  "classicTrophyId": 3,
+  "adventureTrophyId": 4,
+  "allStarTrophyId": 5,
+  "racetoTheFinishTime": 43,
+  "resultScreenScale": 0.8,
+  "endingScreenScale": 0.5,
+  "items": [],
+  "boneDefinitions": {
+    "lookup": {
+      "trimmedSize": 12,
+      "boneCount": 75,
+      "top": 0,
+      "trans": 1,
+      "xRot": 2,
+      "yRot": 3,
+      "hip": 4,
+      "waist": 255,
+      "lLegA": 5,
+      "lLeg": 6,
+      "lKnee": 7,
+      "lFootA": 8,
+      "lFoot": 9,
+      "rLegA": 15,
+      "rLeg": 16,
+      "rKnee": 17,
+      "rFootA": 18,
+      "rFoot": 19,
+      "waistB": 25,
+      "bust": 26,
+      "lClavicle": 27,
+      "lShoulderA": 28,
+      "lShoulder": 29,
+      "lArm": 30,
+      "lHand": 31,
+      "lIndex1": 32,
+      "lIndex2": 33,
+      "lMiddle1": 34,
+      "lMiddle2": 35,
+      "lRing1": 36,
+      "lRing2": 37,
+      "lPinky1": 38,
+      "lPinky2": 39,
+      "lHave": 255,
+      "lThumb1": 40,
+      "lThumb2": 41,
+      "neckN": 43,
+      "headN": 44,
+      "rClavicle": 49,
+      "rShoulderA": 50,
+      "rShoulder": 51,
+      "rArm": 52,
+      "rHand": 53,
+      "rIndex1": 54,
+      "rIndex2": 55,
+      "rMiddle1": 56,
+      "rMiddle2": 57,
+      "rRing1": 58,
+      "rRing2": 59,
+      "rPinky1": 60,
+      "rPinky2": 61,
+      "rHave": 62,
+      "rThumb1": 63,
+      "rThumb2": 64,
+      "throw": 73,
+      "extra": 74
+    },
+    "ext": []
+  },
+  "assets": {
+    "cssIcon": "css\\icon_003",
+    "resultBannerBig": "rst\\big_banner_003",
+    "resultSmallBig": "rst\\small_banner_003"
+  },
+  "redCostumeIndex": 2,
+  "blueCostumeIndex": 3,
+  "greenCostumeIndex": 4,
+  "costumes": [
+    {
+      "name": "Neutral",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlDkNr.dat",
+        "jointSymbol": "PlyDonkey5K_Share_joint",
+        "materialSymbol": "PlyDonkey5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_021",
+      "csp": "csp\\csp_021"
+    },
+    {
+      "name": "Black",
+      "file": {
+        "visibilityIndex": 1,
+        "fileName": "PlDkBk.dat",
+        "jointSymbol": "PlyDonkey5KBk_Share_joint",
+        "materialSymbol": "PlyDonkey5KBk_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_022",
+      "csp": "csp\\csp_022"
+    },
+    {
+      "name": "Red",
+      "file": {
+        "visibilityIndex": 2,
+        "fileName": "PlDkRe.dat",
+        "jointSymbol": "PlyDonkey5KRe_Share_joint",
+        "materialSymbol": "PlyDonkey5KRe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_023",
+      "csp": "csp\\csp_023"
+    },
+    {
+      "name": "Blue",
+      "file": {
+        "visibilityIndex": 3,
+        "fileName": "PlDkBu.dat",
+        "jointSymbol": "PlyDonkey5KBu_Share_joint",
+        "materialSymbol": "PlyDonkey5KBu_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_024",
+      "csp": "csp\\csp_024"
+    },
+    {
+      "name": "Green",
+      "file": {
+        "visibilityIndex": 4,
+        "fileName": "PlDkGr.dat",
+        "jointSymbol": "PlyDonkey5KGr_Share_joint",
+        "materialSymbol": "PlyDonkey5KGr_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_025",
+      "csp": "csp\\csp_025"
+    },
+    {
+      "name": "Yellow",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlDkYe.dat",
+        "jointSymbol": "PlyDonkey5KYe_Share_joint",
+        "materialSymbol": "PlyDonkey5KYe_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_026",
+      "csp": "csp\\csp_026"
+    },
+    {
+      "name": "White",
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlDkWh.dat",
+        "jointSymbol": "PlyDonkey5KWh_Share_joint",
+        "materialSymbol": "PlyDonkey5KWh_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_027",
+      "csp": "csp\\csp_027"
+    }
+  ],
+  "kirbyCostumes": [
+    {
+      "fileName": "PlKbNrCpDk.dat",
+      "jointSymbol": "PlyKirbyDk_Share_joint",
+      "materialSymbol": "PlyKirbyDk_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbYeCpDk.dat",
+      "jointSymbol": "PlyKirbyDkYe_Share_joint",
+      "materialSymbol": "PlyKirbyDkYe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBuCpDk.dat",
+      "jointSymbol": "PlyKirbyDkBu_Share_joint",
+      "materialSymbol": "PlyKirbyDkBu_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbReCpDk.dat",
+      "jointSymbol": "PlyKirbyDkRe_Share_joint",
+      "materialSymbol": "PlyKirbyDkRe_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbGrCpDk.dat",
+      "jointSymbol": "PlyKirbyDkGr_Share_joint",
+      "materialSymbol": "PlyKirbyDkGr_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbWhCpDk.dat",
+      "jointSymbol": "PlyKirbyDkWh_Share_joint",
+      "materialSymbol": "PlyKirbyDkWh_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbLaCpDk.dat",
+      "jointSymbol": "PlyKirbyDkLa_Share_joint",
+      "materialSymbol": "PlyKirbyDkLa_Share_matanim_joint"
+    },
+    {
+      "fileName": "PlKbBrCpDk.dat",
+      "jointSymbol": "PlyKirbyDkBr_Share_joint",
+      "materialSymbol": "PlyKirbyDkBr_Share_matanim_joint"
+    }
+  ],
+  "hasKirbyCostumes": true,
+  "gaWData": null,
+  "files": {
+    "fighterDataPath": "PlDk.dat",
+    "fighterDataSymbol": "ftDataDonkey",
+    "animFile": "PlDkAJ.dat",
+    "animCount": 337,
+    "demoFile": "PlDkDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileDonkey",
+    "demoResult": "ftDemoResultMotionFileDonkey",
+    "demoIntro": "ftDemoIntroMotionFileDonkey",
+    "demoEnding": "ftDemoEndingMotionFileDonkey",
+    "rstAnimFile": "GmRstMDk.dat",
+    "rstAnimCount": 14,
+    "effectFile": "EfDkData.dat",
+    "effectSymbol": "effDonkeyDataTable",
+    "kirbyCapFileName": "PlKbCpDk.dat",
+    "kirbyCapSymbol": "ftDataKirbyCopyDonkey",
+    "kirbyEffectFile": "EfKbDk.dat",
+    "kirbyEffectSymbol": "effKirbyDonkeyDataTable"
+  },
+  "functions": {
+    "version": 0,
+    "onLoad": 2148587948,
+    "onRespawn": 2148587328,
+    "onDestroy": 0,
+    "moveLogicPointer": 2151462968,
+    "demoMoveLogicPointer": 0,
+    "specialN": 2148590964,
+    "specialNAir": 2148591260,
+    "specialHi": 2148596508,
+    "specialHiAir": 2148596732,
+    "specialLw": 2148588672,
+    "specialLwAir": 0,
+    "specialS": 2148590020,
+    "specialSAir": 2148590132,
+    "onSmashHi": 0,
+    "onSmashLw": 0,
+    "onSmashF": 0,
+    "onAbsorb": 0,
+    "onItemPickup": 2148587432,
+    "onMakeItemInvisible": 2148587656,
+    "onMakeItemVisible": 2148587728,
+    "onItemDrop": 2148587800,
+    "onItemCatch": 2148587432,
+    "onUnknownItemRelated": 2148587800,
+    "onApplyHeadItem": 0,
+    "onRemoveHeadItem": 0,
+    "eyeTextureDamaged": 2148588212,
+    "eyeTextureNormal": 2148588280,
+    "onFrame": 0,
+    "onActionStateChange": 2148587884,
+    "resetAttribute": 2148588148,
+    "onModelRender": 0,
+    "onShadowRender": 0,
+    "onUnknownMultijump": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged1": 0,
+    "onActionStateChangeWhileEyeTextureIsChanged2": 0,
+    "onTwoEntryTable1": 0,
+    "onTwoEntryTable2": 14,
+    "onLanding": 0,
+    "onExtRstAnim": 0,
+    "onIndexExtRstAnim": 0,
+    "enterFloat": 0,
+    "enterDoubleJump": 2148318144,
+    "enterTether": 0,
+    "onIntroL": 0,
+    "onIntroR": 0,
+    "onCatch": 0,
+    "onAppeal": 0,
+    "getSwordTrail": 0,
+    "kirbySpecialN": 2148530412,
+    "kirbySpecialNAir": 2148530704,
+    "kirbyOnSwallow": 2148470720,
+    "kirbyOnLoseAbility": 2148470948,
+    "kirbyOnHit": 0,
+    "kirbyOnDeath": 0,
+    "kirbyOnItemInit": 0,
+    "kirbyOnFrame": 0
+  },
+  "media": {
+    "endClassicFile": "GmRegendSimpleDonkey.thp",
+    "endAdventureFile": "GmRegendAdventureDonkey.thp",
+    "endAllStarFile": "GmRegendAllstarDonkey.thp",
+    "endMovieFile": "MvEndDonkey.mth"
+  }
+}

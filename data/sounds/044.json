@@ -1,0 +1,71 @@
+{
+  "name": "Venom",
+  "fileName": "venom.ssm",
+  "groupFlags": 84017664,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "st_venom_arwincome"
+    },
+    {
+      "name": "st_venom_arwinbye"
+    },
+    {
+      "name": "st_venom_jet1"
+    },
+    {
+      "name": "st_venom_pole_come"
+    },
+    {
+      "name": "st_venom_pole_swish"
+    },
+    {
+      "name": "st_venom_volcano"
+    },
+    {
+      "name": "st_venom_arwin_shot"
+    },
+    {
+      "name": "st_venom_arwin_shot_swish"
+    },
+    {
+      "name": "st_venom_v_tsf1_1s"
+    },
+    {
+      "name": "st_venom_v_tsf3_1p"
+    },
+    {
+      "name": "st_venom_v_tsf3_2s"
+    },
+    {
+      "name": "st_venom_v_tsf3_3f"
+    },
+    {
+      "name": "st_venom_v_tsf4_1f"
+    },
+    {
+      "name": "st_venom_v_tsf4_2p"
+    },
+    {
+      "name": "st_venom_v_tsf4_3s"
+    },
+    {
+      "name": "st_venom_v_tsf5_1s"
+    },
+    {
+      "name": "st_venom_v_tsf5_2p"
+    },
+    {
+      "name": "st_venom_v_tsf5_3f"
+    },
+    {
+      "name": "st_venom_v_tsf6_1f"
+    },
+    {
+      "name": "st_venom_v_tsf6_2p"
+    },
+    {
+      "name": "st_venom_v_tsf6_3s"
+    }
+  ]
+}

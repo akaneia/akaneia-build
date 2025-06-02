@@ -1,0 +1,71 @@
+{
+  "name": "Game \u0026 Watch",
+  "fileName": "gw.ssm",
+  "groupFlags": 67240710,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_gamewatch"
+    },
+    {
+      "name": "se_gw_demol"
+    },
+    {
+      "name": "se_gw_demo2"
+    },
+    {
+      "name": "se_gw_demo4"
+    },
+    {
+      "name": "se_gw_atk1"
+    },
+    {
+      "name": "se_gw_atk2"
+    },
+    {
+      "name": "se_gw_atk3"
+    },
+    {
+      "name": "se_gw_atk4"
+    },
+    {
+      "name": "se_gw_atk5"
+    },
+    {
+      "name": "se_gw_hosikie"
+    },
+    {
+      "name": "se_gw_hura"
+    },
+    {
+      "name": "se_gw_huttobi1"
+    },
+    {
+      "name": "se_gw_huttobi2"
+    },
+    {
+      "name": "se_gw_otto"
+    },
+    {
+      "name": "se_gw_rakka4"
+    },
+    {
+      "name": "se_gw_yarare"
+    },
+    {
+      "name": "se_step_metalgw"
+    },
+    {
+      "name": "se_gw_jump"
+    },
+    {
+      "name": "se_gw_hissatu_yoko"
+    },
+    {
+      "name": "se_gw_hissatu_n"
+    },
+    {
+      "name": "se_gw_hissatu_ue"
+    }
+  ]
+}

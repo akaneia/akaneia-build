@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Falco",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTFc.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410216,
+  "mapDescPointer": 2151581976,
+  "onStageInit": 2149713908,
+  "onStageLoad": 2149714028,
+  "onStageGo": 2149714032,
+  "onGo": 2149713904,
+  "onUnknown2": 2149714068,
+  "onTouchLine": 2149714636,
+  "onUnknown4": 2149714808,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

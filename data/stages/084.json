@@ -1,0 +1,39 @@
+{
+  "name": "Delfino Plaza",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrDo.dat",
+  "additionalFiles": [],
+  "soundBank": 68,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 2149726312,
+  "onStageLoad": 2149726424,
+  "onStageGo": 2149726428,
+  "onGo": 2149726308,
+  "onUnknown2": 2149726464,
+  "onTouchLine": 2149727032,
+  "onUnknown4": 2149727040,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 115,
+        "chanceToPlay": 75
+      },
+      {
+        "musicID": 116,
+        "chanceToPlay": 64
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_095",
+    "banner": "sss\\icon_094"
+  }
+}

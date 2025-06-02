@@ -1,0 +1,23 @@
+{
+  "name": "Boxing Ring",
+  "fileName": "boxing.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_nme_cutin"
+    },
+    {
+      "name": "st_rope1"
+    },
+    {
+      "name": "se_cannon"
+    },
+    {
+      "name": "se_smoke"
+    },
+    {
+      "name": "se_ko"
+    }
+  ]
+}

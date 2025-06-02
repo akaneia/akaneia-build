@@ -1,0 +1,30 @@
+{
+  "name": "Final Destination",
+  "location": "Special Stages",
+  "seriesID": 11,
+  "fileName": "/GrNLa.dat",
+  "additionalFiles": [],
+  "soundBank": 53,
+  "reverbValue1": 56,
+  "reverbValue2": 56,
+  "collisionMaterials": 2151409576,
+  "mapDescPointer": 2151579324,
+  "onStageInit": 2149689152,
+  "onStageLoad": 2149689284,
+  "onStageGo": 2149689288,
+  "onGo": 2149688864,
+  "onUnknown2": 2149689324,
+  "onTouchLine": 2149697344,
+  "onUnknown4": 2149697352,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2152548712,
+  "movingCollisionCount": 1,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_050",
+    "banner": "sss\\icon_051"
+  }
+}

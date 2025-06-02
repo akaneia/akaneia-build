@@ -1,0 +1,30 @@
+{
+  "name": "Icicle Mountain",
+  "location": "Infinite Glacier",
+  "seriesID": 4,
+  "fileName": "/GrIm.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408376,
+  "mapDescPointer": 2151565080,
+  "onStageInit": 2149541996,
+  "onStageLoad": 2149544064,
+  "onStageGo": 2149544412,
+  "onGo": 2149541992,
+  "onUnknown2": 2149544416,
+  "onTouchLine": 2149558520,
+  "onUnknown4": 2149558528,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151563440,
+  "movingCollisionCount": 195,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_044",
+    "banner": "sss\\icon_045"
+  }
+}

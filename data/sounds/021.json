@@ -1,0 +1,113 @@
+{
+  "name": "Ness",
+  "fileName": "ness.ssm",
+  "groupFlags": 67240710,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_ness"
+    },
+    {
+      "name": "se_ness_demo1"
+    },
+    {
+      "name": "se_ness_demo3"
+    },
+    {
+      "name": "se_ness_demo4"
+    },
+    {
+      "name": "se_ness_demo5"
+    },
+    {
+      "name": "v_ness_atk1"
+    },
+    {
+      "name": "v_ness_atk2"
+    },
+    {
+      "name": "v_ness_atk3"
+    },
+    {
+      "name": "v_ness_atk4"
+    },
+    {
+      "name": "v_ness_atk5"
+    },
+    {
+      "name": "v_ness_gake"
+    },
+    {
+      "name": "v_ness_hosikie"
+    },
+    {
+      "name": "v_ness_hura"
+    },
+    {
+      "name": "v_ness_huttobi1"
+    },
+    {
+      "name": "v_ness_huttobi2"
+    },
+    {
+      "name": "v_ness_motiage"
+    },
+    {
+      "name": "v_ness_nemuru"
+    },
+    {
+      "name": "v_ness_otto"
+    },
+    {
+      "name": "v_ness_pkfire"
+    },
+    {
+      "name": "v_ness_pkflush"
+    },
+    {
+      "name": "v_ness_pkjibaku"
+    },
+    {
+      "name": "v_ness_pkthunder"
+    },
+    {
+      "name": "v_ness_rakka4"
+    },
+    {
+      "name": "v_ness_yarare"
+    },
+    {
+      "name": "se_ness_pkfire"
+    },
+    {
+      "name": "se_ness_pkflush_dasi"
+    },
+    {
+      "name": "se_ness_pkflush_flush"
+    },
+    {
+      "name": "se_ness_pkthund"
+    },
+    {
+      "name": "se_ness_magnet"
+    },
+    {
+      "name": "se_ness_psi"
+    },
+    {
+      "name": "se_ness_yoyo_sanpo1"
+    },
+    {
+      "name": "se_ness_yoyo_sanpo2"
+    },
+    {
+      "name": "se_ness_yoyo_sita"
+    },
+    {
+      "name": "se_ness_yoyo_uketori"
+    },
+    {
+      "name": "se_ness_yoyo_ue"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Saturn Valley",
+  "fileName": "saturn.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "ufo_flying"
+    },
+    {
+      "name": "ufo_landing_loop"
+    },
+    {
+      "name": "ufo_landing_start"
+    },
+    {
+      "name": "ufo_start_engine"
+    },
+    {
+      "name": "ufo_step"
+    },
+    {
+      "name": "ufo_take_off"
+    },
+    {
+      "name": "SMAAAASH"
+    },
+    {
+      "name": "ufo_ping"
+    },
+    {
+      "name": "statue_spawn"
+    },
+    {
+      "name": "statue_break"
+    },
+    {
+      "name": "appeal"
+    },
+    {
+      "name": "stairs"
+    }
+  ]
+}

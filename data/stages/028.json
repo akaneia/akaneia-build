@@ -1,0 +1,30 @@
+{
+  "name": "Dream Land N64",
+  "location": "Past Stages",
+  "seriesID": 5,
+  "fileName": "/GrOp.dat",
+  "additionalFiles": [],
+  "soundBank": 47,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408856,
+  "mapDescPointer": 2151573128,
+  "onStageInit": 2149648352,
+  "onStageLoad": 2149648516,
+  "onStageGo": 2149648520,
+  "onGo": 2149648348,
+  "onUnknown2": 2149648556,
+  "onTouchLine": 2149653664,
+  "onUnknown4": 2149653672,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_052",
+    "banner": "sss\\icon_053"
+  }
+}

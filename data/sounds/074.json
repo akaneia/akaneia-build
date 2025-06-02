@@ -1,0 +1,104 @@
+{
+  "name": "Tails",
+  "fileName": "tails.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_bonus"
+    },
+    {
+      "name": "se_tails_jump0"
+    },
+    {
+      "name": "se_tails_jump1"
+    },
+    {
+      "name": "se_sonic_spin0"
+    },
+    {
+      "name": "se_sonic_stop"
+    },
+    {
+      "name": "v_tails_atk1"
+    },
+    {
+      "name": "v_tails_atk2"
+    },
+    {
+      "name": "v_tails_atk3"
+    },
+    {
+      "name": "v_tails_atk4"
+    },
+    {
+      "name": "v_tails_atk5"
+    },
+    {
+      "name": "v_tails_gake"
+    },
+    {
+      "name": "v_tails_hosikie"
+    },
+    {
+      "name": "v_tails_hura"
+    },
+    {
+      "name": "v_tails_escapea"
+    },
+    {
+      "name": "v_tails_appeal"
+    },
+    {
+      "name": "v_tails_motiage"
+    },
+    {
+      "name": "v_tails_nemuru1"
+    },
+    {
+      "name": "v_tails_otto"
+    },
+    {
+      "name": "v_tails_rakka4"
+    },
+    {
+      "name": "v_tails_yarare"
+    },
+    {
+      "name": "v_tails_huttobi1"
+    },
+    {
+      "name": "v_tails_huttobi2"
+    },
+    {
+      "name": "v_sonic_kirby"
+    },
+    {
+      "name": "se_sonic_cloop"
+    },
+    {
+      "name": "se_tails_tornado"
+    },
+    {
+      "name": "se_tails_swish"
+    },
+    {
+      "name": "se_tails_swishexhaust"
+    },
+    {
+      "name": "v_tails_nemuru2"
+    },
+    {
+      "name": "se_sonic_Nshoot"
+    },
+    {
+      "name": "v_tails_win1"
+    },
+    {
+      "name": "v_tails_win3"
+    },
+    {
+      "name": "v_tails_wins"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Ganon",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTGn.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411816,
+  "mapDescPointer": 2151585920,
+  "onStageInit": 2149730012,
+  "onStageLoad": 2149730132,
+  "onStageGo": 2149730136,
+  "onGo": 2149730008,
+  "onUnknown2": 2149730172,
+  "onTouchLine": 2149730740,
+  "onUnknown4": 2149730892,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

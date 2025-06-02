@@ -1,0 +1,35 @@
+{
+  "name": "Dolphin Park",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrDp.dat",
+  "additionalFiles": [],
+  "soundBank": 73,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 0,
+  "onStageInit": 0,
+  "onStageLoad": 0,
+  "onStageGo": 0,
+  "onGo": 0,
+  "onUnknown2": 0,
+  "onTouchLine": 0,
+  "onUnknown4": 0,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 123,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_082",
+    "banner": "sss\\icon_083"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Last",
+  "fileName": "last.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "st_last_mh_intro"
+    },
+    {
+      "name": "st_last_explosion1"
+    },
+    {
+      "name": "st_last_jisin"
+    }
+  ]
+}

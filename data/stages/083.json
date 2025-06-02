@@ -1,0 +1,79 @@
+{
+  "name": "Village",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrAc.dat",
+  "additionalFiles": [],
+  "soundBank": 67,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 2149726312,
+  "onStageLoad": 2149726424,
+  "onStageGo": 2149726428,
+  "onGo": 2149726308,
+  "onUnknown2": 2149726464,
+  "onTouchLine": 2149727032,
+  "onUnknown4": 2149727040,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 106,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 107,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 108,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 109,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 110,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 111,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 112,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 113,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 118,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 120,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 121,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 119,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_092",
+    "banner": "sss\\icon_093"
+  }
+}

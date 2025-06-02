@@ -1,0 +1,140 @@
+{
+  "name": "Ice Climber",
+  "fileName": "ice.ssm",
+  "groupFlags": 67240713,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_popo"
+    },
+    {
+      "name": "se_ice_demo1"
+    },
+    {
+      "name": "se_ice_demo5"
+    },
+    {
+      "name": "se_ice_demo6"
+    },
+    {
+      "name": "se_ice_demo7"
+    },
+    {
+      "name": "se_ice_get"
+    },
+    {
+      "name": "se_ice_shot"
+    },
+    {
+      "name": "se_ice_popo_blizard"
+    },
+    {
+      "name": "se_ice_nana_blizard"
+    },
+    {
+      "name": "se_ice_guru"
+    },
+    {
+      "name": "se_ice_popo_hammer"
+    },
+    {
+      "name": "se_ice_appeal"
+    },
+    {
+      "name": "v_ice_nana_atk1"
+    },
+    {
+      "name": "v_ice_nana_atk2"
+    },
+    {
+      "name": "v_ice_nana_atk3"
+    },
+    {
+      "name": "v_ice_nana_atk4"
+    },
+    {
+      "name": "v_ice_nana_atk5"
+    },
+    {
+      "name": "v_ice_nana_blizard"
+    },
+    {
+      "name": "v_ice_nana_hosikie"
+    },
+    {
+      "name": "v_ice_nana_hura"
+    },
+    {
+      "name": "v_ice_nana_huttobi1"
+    },
+    {
+      "name": "v_ice_nana_huttobi2"
+    },
+    {
+      "name": "v_ice_nana_motiage"
+    },
+    {
+      "name": "v_ice_nana_nemuru"
+    },
+    {
+      "name": "v_ice_nana_otto"
+    },
+    {
+      "name": "v_ice_nana_rakka4"
+    },
+    {
+      "name": "v_ice_nana_shot"
+    },
+    {
+      "name": "v_ice_nana_yarare"
+    },
+    {
+      "name": "v_ice_popo_atk1"
+    },
+    {
+      "name": "v_ice_popo_atk2"
+    },
+    {
+      "name": "v_ice_popo_atk3"
+    },
+    {
+      "name": "v_ice_popo_atk4"
+    },
+    {
+      "name": "v_ice_popo_atk5"
+    },
+    {
+      "name": "v_ice_popo_blizard"
+    },
+    {
+      "name": "v_ice_popo_hosikie"
+    },
+    {
+      "name": "v_ice_popo_hura"
+    },
+    {
+      "name": "v_ice_popo_huttobi1"
+    },
+    {
+      "name": "v_ice_popo_huttobi2"
+    },
+    {
+      "name": "v_ice_popo_motiage"
+    },
+    {
+      "name": "v_ice_popo_nemuru"
+    },
+    {
+      "name": "v_ice_popo_otto"
+    },
+    {
+      "name": "v_ice_popo_rakka4"
+    },
+    {
+      "name": "v_ice_popo_shot"
+    },
+    {
+      "name": "v_ice_popo_yarare"
+    }
+  ]
+}

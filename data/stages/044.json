@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Dr. Mario",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTDr.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410136,
+  "mapDescPointer": 2151581776,
+  "onStageInit": 2149713168,
+  "onStageLoad": 2149713280,
+  "onStageGo": 2149713284,
+  "onGo": 2149713164,
+  "onUnknown2": 2149713320,
+  "onTouchLine": 2149713888,
+  "onUnknown4": 2149713896,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

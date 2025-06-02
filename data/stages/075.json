@@ -1,0 +1,72 @@
+{
+  "name": "Mushroom Kingdom 64",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrOMk.dat",
+  "additionalFiles": [],
+  "soundBank": 58,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151408856,
+  "mapDescPointer": 4294967295,
+  "onStageInit": 2149648352,
+  "onStageLoad": 2149648516,
+  "onStageGo": 2149648520,
+  "onGo": 2149648348,
+  "onUnknown2": 2149648556,
+  "onTouchLine": 2149653664,
+  "onUnknown4": 2149653672,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    },
+    {
+      "name": "New Item",
+      "states": [],
+      "onSpawn": 0,
+      "onDestroy": 0,
+      "onPickup": 0,
+      "onDrop": 0,
+      "onThrow": 0,
+      "onGiveDamage": 0,
+      "onTakeDamage": 0,
+      "onEnterAir": 0,
+      "onReflect": 0,
+      "onClank": 0,
+      "onUnk2": 0,
+      "onHitShieldBounce": 0,
+      "onHitShieldDetermineDestroy": 0,
+      "onUnk3": 0
+    }
+  ],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 101,
+        "chanceToPlay": 100
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_062",
+    "banner": "sss\\icon_063"
+  }
+}

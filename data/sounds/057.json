@@ -1,0 +1,17 @@
+{
+  "name": "Hyrule Castle 64",
+  "fileName": "hyrule.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    },
+    {
+      "name": "Untitled"
+    }
+  ]
+}

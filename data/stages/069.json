@@ -1,0 +1,30 @@
+{
+  "name": "Trophy (Entei)",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrEF2.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151412136,
+  "mapDescPointer": 2151572264,
+  "onStageInit": 2149638772,
+  "onStageLoad": 2149638884,
+  "onStageGo": 2149638888,
+  "onGo": 2149638768,
+  "onUnknown2": 2149638924,
+  "onTouchLine": 2149639412,
+  "onUnknown4": 2149639420,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}

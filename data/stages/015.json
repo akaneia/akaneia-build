@@ -1,0 +1,39 @@
+{
+  "name": "Venom",
+  "location": "Lylat System",
+  "seriesID": 2,
+  "fileName": "/GrVe",
+  "additionalFiles": [],
+  "soundBank": 44,
+  "reverbValue1": 1,
+  "reverbValue2": 136,
+  "collisionMaterials": 2151407816,
+  "mapDescPointer": 2151568268,
+  "onStageInit": 2149595928,
+  "onStageLoad": 2149596624,
+  "onStageGo": 2149596800,
+  "onGo": 2149595924,
+  "onUnknown2": 2149596836,
+  "onTouchLine": 2149608820,
+  "onUnknown4": 2149608828,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151568200,
+  "movingCollisionCount": 5,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 84,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 104,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_022",
+    "banner": "sss\\icon_023"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Kongo Jungle N64",
+  "location": "Past Stages",
+  "seriesID": 1,
+  "fileName": "/GrOk.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151409016,
+  "mapDescPointer": 2151572876,
+  "onStageInit": 2149643372,
+  "onStageLoad": 2149643492,
+  "onStageGo": 2149643496,
+  "onGo": 2149643368,
+  "onUnknown2": 2149643556,
+  "onTouchLine": 2149648256,
+  "onUnknown4": 2149648264,
+  "unknownValue": 1,
+  "movingCollisionPointer": 2151572864,
+  "movingCollisionCount": 2,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": "sss\\icon_056",
+    "banner": "sss\\icon_057"
+  }
+}

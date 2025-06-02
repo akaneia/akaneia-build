@@ -1,0 +1,30 @@
+{
+  "name": "Targets!Link",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "/GrTLk.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151410616,
+  "mapDescPointer": 2151583024,
+  "onStageInit": 2149718320,
+  "onStageLoad": 2149718432,
+  "onStageGo": 2149718436,
+  "onGo": 2149718316,
+  "onUnknown2": 2149718472,
+  "onTouchLine": 2149719040,
+  "onUnknown4": 2149719048,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": []
+  },
+  "assets": {
+    "icon": null,
+    "banner": null
+  }
+}
