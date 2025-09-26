@@ -2,7 +2,7 @@
   "name": "Link",
   "seriesID": 13,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 16,
   "ssmBitfield1": 0,
@@ -98,6 +98,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLkNr.dat",
@@ -109,6 +110,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlLkRe.dat",
@@ -120,6 +122,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlLkBu.dat",
@@ -131,6 +134,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlLkBk.dat",
@@ -142,6 +146,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 4,
         "fileName": "PlLkWh.dat",
@@ -153,6 +158,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLkYe.dat",
@@ -164,6 +170,7 @@
     },
     {
       "name": "Cyan",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLkCy.dat",

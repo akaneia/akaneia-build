@@ -2,7 +2,7 @@
   "name": "C. Falcon",
   "seriesID": 0,
   "canWallJump": true,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 6,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlCaNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Gray",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlCaGy.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlCaRe.",
@@ -124,6 +127,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlCaWh.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 4,
         "fileName": "PlCaGr.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 5,
         "fileName": "PlCaBu.dat",
@@ -157,6 +163,7 @@
     },
     {
       "name": "Aqua",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlCaAq.dat",
@@ -168,6 +175,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlCaYe.dat",

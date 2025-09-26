@@ -2,7 +2,7 @@
   "name": "Yoshi",
   "seriesID": 12,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 28,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlYsNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlYsRe.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlYsBu.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlYsYe.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Pink",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 4,
         "fileName": "PlYsPi.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Aqua",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 5,
         "fileName": "PlYsAq.dat",
@@ -157,6 +163,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlYsBk.dat",
@@ -168,6 +175,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlYsWh.dat",

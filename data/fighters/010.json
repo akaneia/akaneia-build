@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPpNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlPpGr.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Orange",
+      "colorSmashGroup": 1,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlPpOr.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 1,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlPpRe.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPpBu.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Brown",
+      "colorSmashGroup": 1,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPpBr.dat",

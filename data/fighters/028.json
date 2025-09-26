@@ -2,12 +2,12 @@
   "name": "Diddy Kong",
   "seriesID": 1,
   "canWallJump": true,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 63,
   "ssmBitfield1": 0,
   "ssmBitfield2": 262144,
-  "announcerCall": 510054,
+  "announcerCall": 510056,
   "victoryTheme": 13,
   "fighterMusic1": 57,
   "fighterMusic2": 57,
@@ -182,6 +182,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdNr.dat",
@@ -193,6 +194,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdBu.dat",
@@ -204,6 +206,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdYe.dat",
@@ -215,6 +218,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdWh.dat",
@@ -226,6 +230,7 @@
     },
     {
       "name": "Pink",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdPi.dat",
@@ -237,6 +242,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDdGr.dat",

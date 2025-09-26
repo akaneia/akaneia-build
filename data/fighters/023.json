@@ -2,7 +2,7 @@
   "name": "Pichu",
   "seriesID": 9,
   "canWallJump": true,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 23,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPcNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 1,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlPcRe.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 2,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlPcBu.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 3,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlPcGr.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 4,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPcYe.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Cyan",
+      "colorSmashGroup": 5,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPcCy.dat",

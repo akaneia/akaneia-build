@@ -2,7 +2,7 @@
   "name": "Kirby",
   "seriesID": 5,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 14,
   "ssmBitfield1": 0,
@@ -170,6 +170,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlKbNr.dat",
@@ -181,6 +182,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlKbYe.dat",
@@ -192,6 +194,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlKbBu.dat",
@@ -203,6 +206,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlKbRe.dat",
@@ -214,6 +218,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 4,
         "fileName": "PlKbGr.dat",
@@ -225,6 +230,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 5,
         "fileName": "PlKbWh.dat",
@@ -236,6 +242,7 @@
     },
     {
       "name": "Lavender",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlKbLa.dat",
@@ -247,6 +254,7 @@
     },
     {
       "name": "Brown",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlKbBr.dat",

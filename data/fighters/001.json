@@ -2,7 +2,7 @@
   "name": "Fox",
   "seriesID": 2,
   "canWallJump": true,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 11,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlFxNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Orange",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlFxOr.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Lavender",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlFxLa.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlFxGr.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlFxYe.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Purple",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlFxPr.dat",

@@ -2,7 +2,7 @@
   "name": "NONE",
   "seriesID": 0,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 255,
   "ssmBitfield1": 0,

@@ -2,12 +2,12 @@
   "name": "King Dedede",
   "seriesID": 5,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 72,
   "ssmBitfield1": 0,
   "ssmBitfield2": 262144,
-  "announcerCall": 510054,
+  "announcerCall": 510060,
   "victoryTheme": 20,
   "fighterMusic1": 129,
   "fighterMusic2": 124,
@@ -200,6 +200,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeNr.dat",
@@ -211,6 +212,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeBu.dat",
@@ -222,6 +224,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeGr.dat",
@@ -233,6 +236,7 @@
     },
     {
       "name": "Orange",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeOr.dat",
@@ -244,6 +248,7 @@
     },
     {
       "name": "Pink",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDePi.dat",
@@ -255,6 +260,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeBk.dat",
@@ -266,6 +272,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDeWh.dat",

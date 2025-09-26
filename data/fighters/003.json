@@ -2,7 +2,7 @@
   "name": "DK",
   "seriesID": 1,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 8,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDkNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlDkBk.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlDkRe.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlDkBu.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 4,
         "fileName": "PlDkGr.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDkYe.dat",
@@ -157,6 +163,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlDkWh.dat",

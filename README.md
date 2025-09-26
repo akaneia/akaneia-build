@@ -16,7 +16,7 @@ https://github.com/akaneia/akaneia-build/releases
 Detailed instructions for applying the patch are included in the release. 
 
 Once patched, your ISO should match the
-v1.0.0 (MD5:`8252729b0d37999fcb39534f68010d80`)
+v1.0.1 (MD5:`63ea8e113e451c9369f17f7a49012412`)
 
 ---
 

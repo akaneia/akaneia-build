@@ -2,12 +2,12 @@
   "name": "Charizard",
   "seriesID": 9,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 64,
   "ssmBitfield1": 0,
   "ssmBitfield2": 32768,
-  "announcerCall": 510054,
+  "announcerCall": 510057,
   "victoryTheme": 24,
   "fighterMusic1": 122,
   "fighterMusic2": 122,
@@ -164,6 +164,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzNr.dat",
@@ -175,6 +176,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzRe.dat",
@@ -186,6 +188,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzBu.dat",
@@ -197,6 +200,7 @@
     },
     {
       "name": "Lavender",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzLa.dat",
@@ -208,6 +212,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzYe.dat",
@@ -219,6 +224,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLzGr.dat",

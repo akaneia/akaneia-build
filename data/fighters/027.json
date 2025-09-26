@@ -2,12 +2,12 @@
   "name": "Wolf",
   "seriesID": 2,
   "canWallJump": true,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 62,
   "ssmBitfield1": 0,
   "ssmBitfield2": 2048,
-  "announcerCall": 510054,
+  "announcerCall": 510055,
   "victoryTheme": 16,
   "fighterMusic1": 104,
   "fighterMusic2": 104,
@@ -194,6 +194,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfNr.dat",
@@ -205,6 +206,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfRd.dat",
@@ -216,6 +218,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfBu.dat",
@@ -227,6 +230,7 @@
     },
     {
       "name": "Brown",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfBr.dat",
@@ -238,6 +242,7 @@
     },
     {
       "name": "Yellow",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfYe.dat",
@@ -249,6 +254,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlWfGr.dat",

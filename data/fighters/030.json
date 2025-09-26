@@ -2,12 +2,12 @@
   "name": "Lucas",
   "seriesID": 8,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 65,
   "ssmBitfield1": 0,
   "ssmBitfield2": 2097152,
-  "announcerCall": 510054,
+  "announcerCall": 510058,
   "victoryTheme": 23,
   "fighterMusic1": 61,
   "fighterMusic2": 61,
@@ -290,6 +290,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcNr.dat",
@@ -301,6 +302,7 @@
     },
     {
       "name": "Orange",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcOr.dat",
@@ -312,6 +314,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcRe.dat",
@@ -323,6 +326,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcGr.dat",
@@ -334,6 +338,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcBu.dat",
@@ -345,6 +350,7 @@
     },
     {
       "name": "Pink",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcPi.dat",
@@ -356,6 +362,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlLcBk.dat",

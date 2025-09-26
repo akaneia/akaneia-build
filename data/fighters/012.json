@@ -2,7 +2,7 @@
   "name": "Pikachu",
   "seriesID": 9,
   "canWallJump": false,
-  "subCharacter": 255,
+  "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 24,
   "ssmBitfield1": 0,
@@ -91,6 +91,7 @@
   "costumes": [
     {
       "name": "Neutral",
+      "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
         "fileName": "PlPkNr.dat",
@@ -102,6 +103,7 @@
     },
     {
       "name": "Red",
+      "colorSmashGroup": 1,
       "file": {
         "visibilityIndex": 1,
         "fileName": "PlPkRe.dat",
@@ -113,6 +115,7 @@
     },
     {
       "name": "Blue",
+      "colorSmashGroup": 2,
       "file": {
         "visibilityIndex": 2,
         "fileName": "PlPkBu.dat",
@@ -124,6 +127,7 @@
     },
     {
       "name": "Green",
+      "colorSmashGroup": 3,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlPkGr.dat",
@@ -135,6 +139,7 @@
     },
     {
       "name": "Black",
+      "colorSmashGroup": 4,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlPkBk.dat",
@@ -146,6 +151,7 @@
     },
     {
       "name": "White",
+      "colorSmashGroup": 5,
       "file": {
         "visibilityIndex": 3,
         "fileName": "PlPkWh.dat",
